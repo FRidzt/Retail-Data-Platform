@@ -1,0 +1,151 @@
+supplier_key,supplier_code,supplier_name,contact_person,email,phone,city,province,address,is_active
+1,SUP000001,CV PD Permata (Persero) Tbk Mandiri,Farhunnisa Pertiwi,whutagalung@perum.mil,(0993) 847 2278,Jakarta,DKI Jakarta,"Gang Surapati No. 8, Solok, NB 12323",True
+2,SUP000002,CV Perum Usamah Nainggolan (Persero) Tbk Mandiri,Gangsar Prabowo,kwinarno@ud.net,+62 (42) 229 9762,Denpasar,Bali,"Jl. Kutai No. 074, Magelang, Sumatera Utara 65485",True
+3,SUP000003,CV PT Setiawan Januar Mandiri,Wardaya Hasanah,lanangwinarno@pd.co.id,+62 (26) 277-2669,Yogyakarta,DI Yogyakarta,"Jalan Indragiri No. 15, Tanjungbalai, Kepulauan Bangka Belitung 97208",True
+4,SUP000004,PT Perum Siregar Nusantara,Sidiq Hartati,puji72@pt.sch.id,+62 (061) 113 5189,Semarang,Jawa Tengah,"Jalan Veteran No. 431, Pontianak, Bali 39729",True
+5,SUP000005,PT CV Haryanti Susanti Wholesale,Ajimin Sinaga,bakiadihabibi@pd.ponpes.id,0878087884,Jakarta,DKI Jakarta,"Jalan Jayawijaya No. 8, Pariaman, Papua 33552",True
+6,SUP000006,PT Perum Prasetya Retail,"Opan Saptono, S.Pd",haryantieva@pt.int,089 378 1588,Bekasi,Jawa Barat,"Jl. Ronggowarsito No. 801, Payakumbuh, BE 53335",True
+7,SUP000007,PT PT Halim Tbk Retail,"Maryanto Mangunsong, M.M.",iiswahyudi@pt.int,+62 (084) 571-1706,Surabaya,Jawa Timur,"Jl. H.J Maemunah No. 31, Tidore Kepulauan, Sulawesi Utara 52993",True
+8,SUP000008,PT UD Astuti Nasyiah Nusantara,Hani Puspasari,mahendrawidya@cv.co.id,(073) 370 3680,Medan,Sumatera Utara,"Jalan Gegerkalong Hilir No. 371, Medan, Sulawesi Barat 43597",True
+9,SUP000009,PT PT Maulana Tbk Global,"drg. Hadi Aryani, S.H.",wrahimah@cv.biz.id,0821604037,Bekasi,Jawa Barat,"Gg. Wonoayu No. 951, Sukabumi, Papua Barat 48995",True
+10,SUP000010,PT Perum Wulandari Trading,"dr. Keisha Budiyanto, S.Pd",putri48@pd.gov,081 654 5040,Bekasi,Jawa Barat,"Gg. Veteran No. 776, Madiun, JI 67870",True
+11,SUP000011,CV UD Suwarno Siregar Distribution,Gandi Uyainah,umi01@cv.go.id,+62 (48) 414-7001,Denpasar,Bali,"Jalan Indragiri No. 2, Tanjungbalai, YO 09828",True
+12,SUP000012,CV Perum Wijaya Setiawan Tbk Supply,"Sutan Kala Laksmiwati, M.Kom.",wahyunieka@ud.gov,+62 (99) 172 8613,Makassar,Sulawesi Selatan,"Jalan K.H. Wahid Hasyim No. 31, Kota Administrasi Jakarta Utara, Kalimantan Selatan 67790",True
+13,SUP000013,CV UD Wastuti Global,KH. Lamar Suryono,psaefullah@perum.biz.id,+62 (703) 817 7297,Semarang,Jawa Tengah,"Gang Sadang Serang No. 237, Balikpapan, Jawa Barat 18263",True
+14,SUP000014,CV UD Narpati Puspita (Persero) Tbk Distribution,Dr. Nrima Prakasa,damutarihoran@ud.mil,(037) 723-5584,Makassar,Sulawesi Selatan,"Jalan Rawamangun No. 166, Kupang, SS 90263",True
+15,SUP000015,PT UD Hutapea Tbk Distribution,Novi Nainggolan,pardisimbolon@pd.my.id,+62 (178) 408 2709,Medan,Sumatera Utara,"Gang S. Parman No. 28, Gorontalo, Nusa Tenggara Barat 67576",True
+16,SUP000016,CV UD Sirait Maheswara (Persero) Tbk Retail,Devi Novitasari,taufiksudiati@perum.or.id,+62 (443) 575-7035,Makassar,Sulawesi Selatan,"Jalan BKR No. 8, Meulaboh, KB 66954",True
+17,SUP000017,CV UD Prastuti Santoso Nusantara,"Drs. Puput Nuraini, S.Pd",daryani05@perum.mil.id,+62-081-787-7516,Bogor,Jawa Barat,"Jl. Dipenogoro No. 838, Sabang, BT 31798",True
+18,SUP000018,CV PT Astuti Winarsih Sejahtera,Ophelia Riyanti,wardaya05@perum.biz.id,+62 (719) 347 5361,Yogyakarta,DI Yogyakarta,"Jl. M.H Thamrin No. 833, Pekanbaru, Jambi 26233",True
+19,SUP000019,CV UD Dongoran Nusantara,"dr. Dinda Sitorus, M.TI.",galurmayasari@perum.gov,(0235) 624-4599,Yogyakarta,DI Yogyakarta,"Gang Peta No. 2, Cimahi, Kepulauan Bangka Belitung 51964",True
+20,SUP000020,PT UD Nashiruddin Laksita Wholesale,dr. Violet Uyainah,jasmin61@ud.mil.id,+62 (0313) 678-5566,Yogyakarta,DI Yogyakarta,"Jl. Wonoayu No. 611, Solok, Maluku 43510",True
+21,SUP000021,PT PT Mandasari Pertiwi (Persero) Tbk Retail,Dimaz Yuniar,gantar63@pt.ac.id,(083) 655-7189,Surabaya,Jawa Timur,"Jalan Cikutra Timur No. 99, Bandung, Papua 54865",True
+22,SUP000022,CV UD Widiastuti Yuniar (Persero) Tbk Nusantara,drg. Hafshah Lestari,kuswoyobahuwirya@pd.go.id,(009) 160 5620,Jakarta,DKI Jakarta,"Jl. M.T Haryono No. 05, Kota Administrasi Jakarta Pusat, Sulawesi Tenggara 75533",True
+23,SUP000023,PT UD Manullang Global,Bagas Waluyo,tambakawaya@cv.gov,+62 (0979) 919 6568,Semarang,Jawa Tengah,"Jl. Ronggowarsito No. 04, Probolinggo, KR 71946",True
+24,SUP000024,PT PD Prasasta Hidayat Trading,Wulan Sinaga,situmorangami@pt.co.id,+62-914-090-8948,Bekasi,Jawa Barat,"Jalan Gegerkalong Hilir No. 14, Binjai, NT 56249",True
+25,SUP000025,PT PD Wacana Salahudin Trading,Cemeti Mandasari,zeldasitorus@ud.biz.id,(073) 336 5252,Makassar,Sulawesi Selatan,"Jalan Peta No. 4, Tangerang Selatan, Kalimantan Tengah 46563",True
+26,SUP000026,PT PD Habibi Nashiruddin Tbk Mandiri,Warji Marpaung,damanikvictoria@cv.or.id,+62 (07) 137 2806,Bandung,Jawa Barat,"Jalan Erlangga No. 361, Kota Administrasi Jakarta Pusat, Kepulauan Riau 20669",True
+27,SUP000027,PT PD Jailani Kuswoyo Tbk Distribution,Ciaobella Wasita,hakimartanto@pd.desa.id,0843404081,Semarang,Jawa Tengah,"Jalan Joyoboyo No. 563, Lubuklinggau, Bali 86769",True
+28,SUP000028,CV Perum Padmasari Prabowo Trading,"Dr. Paris Susanti, S.Kom",tambaagus@perum.gov,+62 (102) 363-0817,Bogor,Jawa Barat,"Jalan Kutisari Selatan No. 562, Padang, Kepulauan Bangka Belitung 24452",True
+29,SUP000029,CV Perum Farida Nusantara,Muni Nababan,waluyokamila@pt.ponpes.id,+62 (59) 175 3423,Bekasi,Jawa Barat,"Jl. Kendalsari No. 57, Kotamobagu, PA 54661",True
+30,SUP000030,PT PT Pertiwi Mahendra (Persero) Tbk Retail,"Adikara Saputra, S.T.",zamirawaskita@perum.edu,+62 (072) 995-3895,Denpasar,Bali,"Jalan Kiaracondong No. 688, Surabaya, ST 45816",True
+31,SUP000031,PT PT Riyanti Retail,Danu Natsir,lala19@cv.web.id,(083) 388-3746,Bogor,Jawa Barat,"Jalan Pasirkoja No. 178, Solok, Sumatera Barat 92799",True
+32,SUP000032,PT PT Marpaung Hidayat Tbk Retail,"Hj. Ilsa Simbolon, S.H.",muhammadnarpati@pd.org,+62 (0632) 894 0865,Makassar,Sulawesi Selatan,"Gang Setiabudhi No. 0, Palu, Nusa Tenggara Barat 78510",True
+33,SUP000033,PT PD Narpati Wholesale,Sabrina Wulandari,ani02@pd.id,+62 (23) 043 5429,Denpasar,Bali,"Jalan Moch. Toha No. 9, Pasuruan, YO 41073",True
+34,SUP000034,PT CV Pangestu Tbk Indonesia,drg. Baktiadi Hardiansyah,bmulyani@perum.com,+62 (0021) 844 4432,Bandung,Jawa Barat,"Gg. Pacuan Kuda No. 033, Padang Sidempuan, Sumatera Barat 84399",True
+35,SUP000035,PT Perum Zulaika Supply,Rini Nashiruddin,nyanamaryati@pt.co.id,(0575) 785 6155,Bekasi,Jawa Barat,"Gang Pelajar Pejuang No. 346, Bandung, JT 55727",True
+36,SUP000036,PT Perum Adriansyah Natsir Wholesale,"H. Okta Iswahyudi, M.Farm",uwaisnovi@pd.biz.id,(082) 950 4828,Bekasi,Jawa Barat,"Gang Kiaracondong No. 558, Surabaya, Papua 60001",True
+37,SUP000037,PT UD Tarihoran Pertiwi Supply,Ir. Elisa Lazuardi,januarprabawa@pd.sch.id,+62-80-713-1224,Bogor,Jawa Barat,"Jalan R.E Martadinata No. 015, Cimahi, LA 55237",True
+38,SUP000038,PT PT Hutagalung Mandiri,Ir. Queen Sihotang,hartaka53@pd.mil,(000) 463-9964,Yogyakarta,DI Yogyakarta,"Jalan Kapten Muslihat No. 5, Binjai, Sumatera Selatan 15097",True
+39,SUP000039,CV UD Prayoga Nasyiah Trading,Karta Januar,kezia42@pd.id,+62 (87) 800 4294,Semarang,Jawa Tengah,"Jalan Rungkut Industri No. 534, Tangerang, Kalimantan Utara 93249",True
+40,SUP000040,CV UD Tamba Tbk Nusantara,Jessica Mansur,paimanlaksita@pt.sch.id,+62-470-019-9523,Surabaya,Jawa Timur,"Jl. Kiaracondong No. 73, Padang, KS 10298",True
+41,SUP000041,PT UD Hastuti (Persero) Tbk Nusantara,"KH. Wage Saragih, S.E.I",hani62@perum.desa.id,(034) 237-4071,Semarang,Jawa Tengah,"Jalan Gardujati No. 63, Bandar Lampung, SS 71901",True
+42,SUP000042,PT PT Wijayanti Wholesale,Bala Latupono,tira29@pd.co.id,+62 (58) 931-1487,Jakarta,DKI Jakarta,"Gang Ir. H. Djuanda No. 6, Batam, KT 07540",True
+43,SUP000043,PT PD Pangestu Fujiati (Persero) Tbk Mandiri,"Bella Prasetya, M.Kom.",ayu80@ud.net.id,+62 (01) 392 1444,Bekasi,Jawa Barat,"Jl. Indragiri No. 107, Bekasi, KI 81999",True
+44,SUP000044,PT CV Sihotang Sudiati Tbk Wholesale,"H. Viman Riyanti, S.Gz",hmarbun@perum.mil,+62 (11) 171 6055,Medan,Sumatera Utara,"Jl. Medokan Ayu No. 53, Mojokerto, KT 24971",True
+45,SUP000045,CV PD Purnawati (Persero) Tbk Mandiri,Wani Uwais,saputrahendri@pd.com,+62-0022-812-8545,Makassar,Sulawesi Selatan,"Gg. S. Parman No. 11, Kendari, KR 22333",True
+46,SUP000046,PT PT Hastuti (Persero) Tbk Global,"Jaya Firgantoro, S.Psi",hutapeasiti@pd.co.id,+62 (39) 944 4561,Surabaya,Jawa Timur,"Jl. Laswi No. 5, Kediri, KU 11676",True
+47,SUP000047,CV CV Maryadi (Persero) Tbk Distribution,Imam Nababan,cagak87@cv.com,+62-732-601-3507,Denpasar,Bali,"Gg. Laswi No. 837, Sabang, Riau 67812",True
+48,SUP000048,PT Perum Puspasari Retail,"Ayu Sirait, M.Pd",lsiregar@cv.go.id,+62-126-755-5913,Semarang,Jawa Tengah,"Jl. Jamika No. 17, Tangerang, Kalimantan Barat 48570",True
+49,SUP000049,PT CV Tamba Purwanti Supply,"Sutan Cagak Prakasa, S.E.I",pratamamahesa@ud.biz.id,+62-0028-992-4228,Medan,Sumatera Utara,"Jalan M.H Thamrin No. 476, Pariaman, JK 29862",True
+50,SUP000050,CV UD Saptono Global,"Jamalia Widodo, S.IP",bprasasta@pd.mil,+62 (0275) 669 9718,Bogor,Jawa Barat,"Jalan Medokan Ayu No. 8, Ambon, KS 63743",True
+51,SUP000051,CV Perum Wahyuni (Persero) Tbk Global,Lasmono Wibisono,jpertiwi@pt.biz.id,+62 (80) 067 4416,Medan,Sumatera Utara,"Jalan Cikutra Timur No. 3, Pontianak, Kepulauan Bangka Belitung 18893",True
+52,SUP000052,PT UD Wacana Adriansyah (Persero) Tbk Supply,"Hilda Winarno, M.Kom.",glestari@ud.web.id,(0760) 728-6046,Bekasi,Jawa Barat,"Jalan Ronggowarsito No. 228, Payakumbuh, Gorontalo 37502",True
+53,SUP000053,PT UD Suryono Fujiati Global,Kania Winarno,cayadidongoran@perum.or.id,+62 (08) 403-3982,Bogor,Jawa Barat,"Gang PHH. Mustofa No. 6, Magelang, BT 57997",True
+54,SUP000054,CV PD Hasanah Firgantoro (Persero) Tbk Distribution,Michelle Laksita,jzulkarnain@perum.desa.id,(073) 485-0793,Bekasi,Jawa Barat,"Jl. S. Parman No. 268, Surabaya, Nusa Tenggara Barat 76049",True
+55,SUP000055,PT Perum Rahmawati Mahendra Supply,Yance Halim,harsantoutama@ud.edu,+62-909-799-7632,Yogyakarta,DI Yogyakarta,"Jl. Cihampelas No. 9, Magelang, SB 53718",True
+56,SUP000056,PT CV Pangestu Nusantara,Hj. Cindy Pratiwi,saadat33@pt.mil.id,+62 (43) 455-1489,Yogyakarta,DI Yogyakarta,"Gang Indragiri No. 82, Banjar, LA 53085",True
+57,SUP000057,PT PT Halimah Tbk Wholesale,Prakosa Ramadan,jasmanilaksita@pt.net.id,(027) 058-7289,Medan,Sumatera Utara,"Gang Ronggowarsito No. 94, Ambon, SG 26577",True
+58,SUP000058,CV Perum Widodo Riyanti Tbk Retail,KH. Karsana Nasyiah,pgunarto@cv.ponpes.id,+62 (073) 091-0542,Bekasi,Jawa Barat,"Gang Indragiri No. 059, Medan, SG 23528",True
+59,SUP000059,PT PT Prakasa Yuniar Indonesia,Oni Sitorus,bsafitri@ud.or.id,0818386717,Bogor,Jawa Barat,"Gg. Rumah Sakit No. 420, Tidore Kepulauan, Sulawesi Selatan 33892",True
+60,SUP000060,CV PT Yuliarti (Persero) Tbk Indonesia,"H. Oman Prabowo, M.Pd",padmasarikawaya@perum.or.id,+62 (294) 295-9475,Medan,Sumatera Utara,"Gg. Waringin No. 387, Metro, SB 42731",True
+61,SUP000061,PT CV Pranowo Nusantara,Prabowo Purwanti,siti69@perum.mil,+62 (015) 004-0948,Semarang,Jawa Tengah,"Gg. Otto Iskandardinata No. 683, Pekalongan, MA 28660",True
+62,SUP000062,PT CV Sihombing Usada Tbk Nusantara,Tami Prasetya,santosonyana@cv.net.id,+62-0356-485-2252,Surabaya,Jawa Timur,"Gg. Gardujati No. 4, Subulussalam, JA 77843",True
+63,SUP000063,CV PT Rahimah (Persero) Tbk Trading,Panca Saragih,cakrabuana56@pd.my.id,+62 (0181) 337 9296,Surabaya,Jawa Timur,"Jl. Sentot Alibasa No. 428, Kota Administrasi Jakarta Selatan, Sulawesi Barat 26260",True
+64,SUP000064,PT CV Mangunsong Lailasari (Persero) Tbk Nusantara,Dr. Kayla Prasetyo,diah96@pd.id,(0354) 799 7597,Yogyakarta,DI Yogyakarta,"Jl. Kapten Muslihat No. 6, Bontang, Gorontalo 50176",True
+65,SUP000065,CV PD Damanik Astuti (Persero) Tbk Retail,"Emas Saragih, S.Gz",rahmawatiluis@pt.co.id,+62-422-709-8975,Makassar,Sulawesi Selatan,"Gang Monginsidi No. 9, Padang, SB 12054",True
+66,SUP000066,PT PD Habibi Prayoga (Persero) Tbk Wholesale,Amalia Samosir,novi12@perum.org,(008) 098-9599,Jakarta,DKI Jakarta,"Gang BKR No. 60, Gorontalo, JB 53121",True
+67,SUP000067,CV CV Purnawati Mustofa (Persero) Tbk Distribution,"Laksana Prakasa, S.Kom",hutapeamahfud@pd.desa.id,(0956) 430 5466,Bekasi,Jawa Barat,"Gang Jakarta No. 889, Payakumbuh, Kalimantan Tengah 01639",True
+68,SUP000068,PT PT Wasita Marpaung Mandiri,"KH. Malik Fujiati, M.TI.",hakimrendy@cv.my.id,+62 (028) 119-9671,Bandung,Jawa Barat,"Jalan Cihampelas No. 588, Bima, DI Yogyakarta 13928",True
+69,SUP000069,PT Perum Zulaika (Persero) Tbk Trading,Ade Marpaung,hasimhalim@ud.desa.id,+62-058-620-6432,Jakarta,DKI Jakarta,"Jalan Setiabudhi No. 7, Metro, SN 42525",True
+70,SUP000070,PT PT Oktaviani (Persero) Tbk Nusantara,Michelle Purnawati,wisnu45@cv.my.id,+62-015-262-8163,Medan,Sumatera Utara,"Gg. M.H Thamrin No. 173, Kota Administrasi Jakarta Timur, DKI Jakarta 97029",True
+71,SUP000071,PT UD Padmasari (Persero) Tbk Sejahtera,Novi Wijaya,tirtayasahardiansyah@perum.sch.id,(094) 362-5512,Bogor,Jawa Barat,"Gang KH Amin Jasuta No. 210, Denpasar, AC 44731",True
+72,SUP000072,PT PT Rajata Tbk Supply,"Ir. Yulia Tarihoran, S.Ked",yuni36@cv.id,+62-0851-109-4964,Bogor,Jawa Barat,"Gang Moch. Ramdan No. 0, Sukabumi, MA 36189",True
+73,SUP000073,CV Perum Mulyani Wholesale,Cornelia Widiastuti,karen94@pd.mil,089 563 3136,Makassar,Sulawesi Selatan,"Jalan Waringin No. 7, Sibolga, Kalimantan Barat 30997",True
+74,SUP000074,PT Perum Mandala Nainggolan Wholesale,"Elvina Pudjiastuti, S.E.I",murtihariyah@pd.web.id,(068) 163 0747,Makassar,Sulawesi Selatan,"Gg. Dipatiukur No. 27, Bontang, DI Yogyakarta 21859",True
+75,SUP000075,CV Perum Prasasta Tbk Nusantara,Zalindra Nashiruddin,prahimah@cv.go.id,+62 (765) 927-5837,Medan,Sumatera Utara,"Jl. Joyoboyo No. 875, Bandung, ST 18137",True
+76,SUP000076,PT CV Safitri Tbk Wholesale,"Carla Winarsih, S.T.",vero63@ud.gov,(096) 375-4657,Bogor,Jawa Barat,"Jalan Pasteur No. 48, Batam, DI Yogyakarta 00882",True
+77,SUP000077,PT UD Wijaya Nusantara,Rahmi Wahyudin,kmayasari@ud.sch.id,0885602860,Jakarta,DKI Jakarta,"Jalan Cikutra Barat No. 3, Samarinda, Nusa Tenggara Barat 77593",True
+78,SUP000078,CV Perum Situmorang Oktaviani Tbk Wholesale,Jessica Anggriawan,budiyantogamani@cv.or.id,+62-0189-216-9719,Bekasi,Jawa Barat,"Gang Dr. Djunjunan No. 8, Pasuruan, BB 89671",True
+79,SUP000079,PT PD Purwanti Palastri Supply,Latif Riyanti,prasetyapadmasari@ud.ac.id,+62-024-856-4183,Denpasar,Bali,"Jalan Soekarno Hatta No. 7, Salatiga, NB 24286",True
+80,SUP000080,CV PD Usada Global,Septi Hutagalung,warsitahariyah@ud.sch.id,+62 (64) 100-6788,Denpasar,Bali,"Jl. Raya Ujungberung No. 1, Denpasar, GO 89766",True
+81,SUP000081,PT CV Hutagalung Tbk Indonesia,Cakrajiya Hakim,putri22@cv.int,085 625 2781,Makassar,Sulawesi Selatan,"Gg. Jakarta No. 9, Kota Administrasi Jakarta Utara, Lampung 30153",True
+82,SUP000082,CV PT Lestari Wholesale,"R. Septi Firgantoro, S.Sos",frajata@pt.edu,(0082) 209-5614,Bandung,Jawa Barat,"Jl. Gardujati No. 5, Lubuklinggau, KT 17471",True
+83,SUP000083,CV Perum Firmansyah Global,"Drs. Mahesa Saputra, M.Farm",lantar27@pt.int,+62 (40) 435 5667,Bandung,Jawa Barat,"Gang Ahmad Dahlan No. 2, Surabaya, JA 15309",True
+84,SUP000084,CV PD Hassanah (Persero) Tbk Wholesale,Argono Hariyah,kayunhakim@pt.web.id,+62 (0568) 153-0355,Bekasi,Jawa Barat,"Jalan Yos Sudarso No. 956, Lubuklinggau, Jawa Timur 43704",True
+85,SUP000085,CV Perum Rahimah Tbk Mandiri,"Raisa Najmudin, M.Ak",harjasa66@ud.mil.id,+62 (0503) 723-6880,Jakarta,DKI Jakarta,"Gg. KH Amin Jasuta No. 710, Tidore Kepulauan, LA 91746",True
+86,SUP000086,CV Perum Gunarto Sejahtera,"Nadine Tamba, S.Pd",auwais@ud.net.id,0871096038,Surabaya,Jawa Timur,"Jl. Ciwastra No. 85, Manado, SN 38431",True
+87,SUP000087,PT CV Safitri Rahimah (Persero) Tbk Nusantara,"Kasusra Halim, S.T.",maryadimansur@cv.biz.id,(0777) 338 2467,Bogor,Jawa Barat,"Gang Raya Setiabudhi No. 095, Probolinggo, BB 80928",True
+88,SUP000088,CV PT Budiman Aryani (Persero) Tbk Retail,Surya Waluyo,tbudiyanto@cv.desa.id,+62 (38) 691-1965,Denpasar,Bali,"Jl. Cikutra Timur No. 065, Pontianak, Maluku Utara 45575",True
+89,SUP000089,CV Perum Pratiwi Trading,Ian Iswahyudi,wahyunicandra@pd.net.id,081 679 1522,Bandung,Jawa Barat,"Gg. Gedebage Selatan No. 0, Palopo, JI 82301",True
+90,SUP000090,CV UD Laksmiwati Trading,Cici Yuniar,ajengwasita@pd.gov,+62 (378) 964-1067,Jakarta,DKI Jakarta,"Jalan Asia Afrika No. 39, Sabang, Sumatera Barat 95843",True
+91,SUP000091,CV UD Purnawati (Persero) Tbk Supply,"Cemani Kuswandari, S.Kom",sihombingajiman@pt.ac.id,+62 (523) 703-0336,Denpasar,Bali,"Jl. Dr. Djunjunan No. 96, Palangkaraya, Papua 87871",True
+92,SUP000092,PT UD Tampubolon Hardiansyah Nusantara,Septi Mandasari,rosmansalahudin@perum.id,+62 (047) 977 7322,Surabaya,Jawa Timur,"Jalan Lembong No. 97, Pangkalpinang, DKI Jakarta 41511",True
+93,SUP000093,CV Perum Agustina (Persero) Tbk Sejahtera,Raisa Wibowo,novitasarifitriani@ud.id,+62 (727) 443-3575,Yogyakarta,DI Yogyakarta,"Gg. Ir. H. Djuanda No. 647, Langsa, ST 73038",True
+94,SUP000094,PT PD Siregar Hartati Tbk Distribution,"Drs. Citra Aryani, M.Pd",fsaefullah@perum.sch.id,(0515) 831 4163,Bogor,Jawa Barat,"Jalan Ahmad Yani No. 45, Metro, Nusa Tenggara Timur 07149",True
+95,SUP000095,CV PD Zulaika Tbk Sejahtera,"Drs. Ganda Marbun, M.Ak",gunartoharto@perum.net.id,+62-071-679-3703,Denpasar,Bali,"Jalan Ahmad Yani No. 65, Kota Administrasi Jakarta Barat, SG 44309",True
+96,SUP000096,CV PD Widodo Trading,"Tiara Novitasari, M.TI.",inakurniawan@pd.org,+62-0189-188-0401,Denpasar,Bali,"Jl. Ahmad Dahlan No. 83, Kota Administrasi Jakarta Utara, BB 43748",True
+97,SUP000097,PT CV Pradipta Pranowo Mandiri,"Ciaobella Nugroho, S.Farm",namagaartawan@cv.go.id,+62 (99) 170-5600,Bekasi,Jawa Barat,"Gg. PHH. Mustofa No. 628, Madiun, SN 68680",True
+98,SUP000098,PT UD Wastuti Zulkarnain Nusantara,Siska Zulkarnain,hwibisono@perum.com,+62 (36) 268-1667,Bandung,Jawa Barat,"Jalan Tebet Barat Dalam No. 266, Tual, Sulawesi Barat 82049",True
+99,SUP000099,PT CV Marbun Wholesale,Lala Wulandari,fwidiastuti@ud.ac.id,+62 (975) 477-7631,Surabaya,Jawa Timur,"Jl. Wonoayu No. 76, Kendari, Kalimantan Tengah 69182",True
+100,SUP000100,CV CV Rahimah Utama Distribution,Dr. Warta Halimah,saptonoopan@pd.my.id,(0773) 883 0484,Jakarta,DKI Jakarta,"Jl. Indragiri No. 94, Manado, KR 17215",True
+101,SUP000101,PT PT Halim Mandiri,"Galih Habibi, S.Ked",opranowo@perum.go.id,(070) 388 7303,Yogyakarta,DI Yogyakarta,"Jalan Cikapayang No. 20, Pasuruan, AC 79797",True
+102,SUP000102,CV Perum Purnawati Suartini Tbk Global,Mala Hutapea,spangestu@cv.ac.id,+62 (0855) 113-5144,Yogyakarta,DI Yogyakarta,"Gg. Ahmad Yani No. 1, Sukabumi, Bengkulu 19791",True
+103,SUP000103,PT Perum Prakasa (Persero) Tbk Nusantara,Zulfa Mayasari,teddy84@pt.net.id,+62-0288-927-9951,Surabaya,Jawa Timur,"Gang Pacuan Kuda No. 183, Padangpanjang, MA 96685",True
+104,SUP000104,PT PD Pratama Tampubolon (Persero) Tbk Sejahtera,"Mila Pertiwi, M.Pd",ghandayani@perum.biz.id,+62 (695) 671 4379,Surabaya,Jawa Timur,"Gg. Pelajar Pejuang No. 186, Pangkalpinang, Jambi 61638",True
+105,SUP000105,PT CV Hastuti Samosir Trading,"Galur Prastuti, M.Farm",jati14@pd.gov,0810413716,Medan,Sumatera Utara,"Gang H.J Maemunah No. 141, Subulussalam, SG 82733",True
+106,SUP000106,CV PD Halimah Prasetya Sejahtera,"Nasim Susanti, S.Ked",imayasari@perum.mil,0844490387,Bekasi,Jawa Barat,"Jalan Dipenogoro No. 755, Palembang, Banten 78898",True
+107,SUP000107,PT UD Kusmawati Rahmawati Trading,Hafshah Nababan,kuswandaribagya@cv.net.id,+62-0796-149-9591,Bandung,Jawa Barat,"Jalan Monginsidi No. 1, Tasikmalaya, Sumatera Utara 13888",True
+108,SUP000108,CV CV Suartini Santoso (Persero) Tbk Supply,Salwa Farida,wijayantiraisa@cv.mil,+62-757-136-5072,Jakarta,DKI Jakarta,"Jalan Jend. Sudirman No. 93, Bau-Bau, Aceh 69124",True
+109,SUP000109,PT CV Siregar Tbk Sejahtera,Edison Yuliarti,upudjiastuti@pd.ac.id,(0011) 922 7413,Jakarta,DKI Jakarta,"Jl. Otto Iskandardinata No. 9, Ambon, Riau 39999",True
+110,SUP000110,CV PD Hidayat Tbk Retail,Cawisono Rahayu,puji79@pd.ponpes.id,+62-979-386-0266,Bandung,Jawa Barat,"Gg. Kendalsari No. 2, Purwokerto, Kalimantan Timur 19741",True
+111,SUP000111,PT CV Wastuti (Persero) Tbk Global,"Cakrawala Iswahyudi, S.IP",ekamayasari@perum.net,(0732) 163-7524,Bandung,Jawa Barat,"Gg. Asia Afrika No. 4, Malang, Sulawesi Barat 83440",True
+112,SUP000112,PT Perum Nashiruddin Distribution,"Dr. Mala Maryati, S.H.",omar69@pd.ac.id,+62 (058) 435 9025,Denpasar,Bali,"Gang Ronggowarsito No. 404, Kota Administrasi Jakarta Utara, Kalimantan Selatan 29784",True
+113,SUP000113,CV PT Santoso Kuswoyo (Persero) Tbk Sejahtera,"Ir. Karen Sihotang, S.Psi",hakimyoga@ud.net,(091) 250 7313,Makassar,Sulawesi Selatan,"Jalan Moch. Ramdan No. 77, Sukabumi, Sulawesi Tengah 57626",True
+114,SUP000114,CV UD Simbolon Prasetya Nusantara,Darimin Narpati,lazuardibanawi@perum.go.id,0873208292,Medan,Sumatera Utara,"Jalan Ciumbuleuit No. 5, Kota Administrasi Jakarta Barat, Papua 09534",True
+115,SUP000115,CV PD Yuniar Mandiri,Rachel Siregar,cindynuraini@pt.net.id,(069) 266 8638,Bogor,Jawa Barat,"Gg. Tubagus Ismail No. 9, Meulaboh, PA 32220",True
+116,SUP000116,PT CV Pradana Saefullah Tbk Nusantara,Kajen Putra,vzulaika@ud.go.id,+62 (685) 613 7804,Makassar,Sulawesi Selatan,"Jalan Monginsidi No. 52, Metro, JB 03969",True
+117,SUP000117,PT PD Narpati Sitompul (Persero) Tbk Sejahtera,Cut Rahmi Gunarto,tami65@ud.desa.id,+62 (07) 264 7594,Makassar,Sulawesi Selatan,"Gang Dipenogoro No. 052, Kediri, SB 38948",True
+118,SUP000118,CV UD Hakim Mustofa Nusantara,"Dt. Bakijan Purnawati, S.Ked",hastutianita@perum.sch.id,(082) 642 7985,Bandung,Jawa Barat,"Gg. Monginsidi No. 58, Probolinggo, Maluku Utara 26103",True
+119,SUP000119,CV UD Purwanti Hassanah Tbk Trading,Yuliana Tarihoran,piswahyudi@perum.mil.id,(0535) 522-0688,Bandung,Jawa Barat,"Jalan Sadang Serang No. 529, Sibolga, KT 80276",True
+120,SUP000120,PT PT Simanjuntak Indonesia,"Paulin Hutasoit, M.Pd",jatmikolailasari@pd.my.id,(055) 136-8133,Bogor,Jawa Barat,"Jl. Asia Afrika No. 5, Mataram, SS 64752",True
+121,SUP000121,PT UD Gunawan Mardhiyah (Persero) Tbk Trading,Bella Rahmawati,bahuwiryapuspita@pd.biz.id,+62 (059) 031-4489,Bandung,Jawa Barat,"Jl. Pacuan Kuda No. 325, Banjarbaru, JK 74607",True
+122,SUP000122,CV CV Saragih Suwarno Global,"Zelda Nurdiyanti, S.Pd",egapudjiastuti@pt.biz.id,+62 (028) 077-4310,Bandung,Jawa Barat,"Jl. S. Parman No. 90, Purwokerto, BE 19559",True
+123,SUP000123,PT CV Budiyanto Firmansyah Tbk Wholesale,Dr. Najwa Hardiansyah,zuyainah@perum.mil.id,+62 (0970) 540-4838,Semarang,Jawa Tengah,"Jalan Jend. Sudirman No. 9, Madiun, SB 23033",True
+124,SUP000124,PT Perum Wibowo Indonesia,Rafid Salahudin,salwamangunsong@cv.desa.id,+62-665-403-6276,Yogyakarta,DI Yogyakarta,"Gang Asia Afrika No. 10, Tual, DKI Jakarta 38668",True
+125,SUP000125,PT Perum Jailani Narpati Tbk Nusantara,"drg. Janet Hariyah, S.Pd",fwinarno@ud.net,+62 (181) 936 5210,Surabaya,Jawa Timur,"Jl. Medokan Ayu No. 3, Banjarmasin, KI 32352",True
+126,SUP000126,CV UD Hakim Kusumo Tbk Sejahtera,Melinda Nurdiyanti,jwulandari@pd.go.id,(070) 978-0091,Surabaya,Jawa Timur,"Gang Raya Ujungberung No. 795, Bandar Lampung, SU 47735",True
+127,SUP000127,PT PT Zulkarnain Global,"R. Galih Novitasari, M.Ak",yprasetyo@pt.ponpes.id,(032) 603-8031,Makassar,Sulawesi Selatan,"Jalan Astana Anyar No. 7, Lubuklinggau, Kalimantan Barat 15921",True
+128,SUP000128,CV CV Puspasari Hastuti Distribution,Zamira Safitri,mitranurdiyanti@cv.go.id,085 374 5210,Surabaya,Jawa Timur,"Gang Rawamangun No. 799, Samarinda, Papua Barat 69488",True
+129,SUP000129,PT PT Mayasari Nusantara,"Cut Hafshah Yolanda, M.Pd",smaulana@pd.web.id,+62-087-288-1401,Bekasi,Jawa Barat,"Gang Kebonjati No. 34, Surakarta, SN 39931",True
+130,SUP000130,PT CV Wijayanti Puspasari (Persero) Tbk Sejahtera,Narji Haryanto,karya47@cv.gov,+62 (212) 734-2926,Denpasar,Bali,"Jl. Yos Sudarso No. 77, Kupang, YO 78107",True
+131,SUP000131,CV PD Pradipta Trading,Banara Puspasari,sinagacahyo@perum.go.id,+62-089-715-0825,Makassar,Sulawesi Selatan,"Jalan Pacuan Kuda No. 2, Banjarbaru, ST 62659",True
+132,SUP000132,CV PD Lailasari (Persero) Tbk Nusantara,Himawan Narpati,ihidayanto@pd.mil,+62 (004) 515-9589,Bekasi,Jawa Barat,"Gg. Cikutra Timur No. 175, Palangkaraya, BA 67262",True
+133,SUP000133,CV PT Nugroho Tbk Indonesia,Kayun Namaga,agustinapangeran@perum.co.id,+62 (0096) 688 9065,Surabaya,Jawa Timur,"Gg. K.H. Wahid Hasyim No. 0, Pematangsiantar, YO 04085",True
+134,SUP000134,CV PT Hutapea Nusantara,"Eka Jailani, S.Pd",nurul88@pt.com,(0664) 854 4516,Bandung,Jawa Barat,"Jalan Bangka Raya No. 394, Bandar Lampung, Sulawesi Barat 08935",True
+135,SUP000135,CV UD Astuti Rahimah Indonesia,Usyi Waskita,rahimahmulyono@perum.net.id,0868062440,Medan,Sumatera Utara,"Jalan Rajiman No. 67, Banjar, SG 54536",True
+136,SUP000136,PT PD Maryadi Mahendra Tbk Trading,Karman Gunarto,eka69@cv.sch.id,085 458 4633,Jakarta,DKI Jakarta,"Jalan R.E Martadinata No. 06, Sukabumi, YO 27815",True
+137,SUP000137,PT PD Mulyani Wholesale,Tina Pratiwi,endra88@perum.edu,089 272 9400,Makassar,Sulawesi Selatan,"Jl. Veteran No. 000, Pekalongan, JK 81257",True
+138,SUP000138,CV UD Sinaga (Persero) Tbk Global,"Pia Marpaung, S.Farm",chandraaryani@pt.int,(0741) 300 6152,Bogor,Jawa Barat,"Gang Sukabumi No. 5, Kendari, Jawa Timur 24618",True
+139,SUP000139,CV PT Padmasari Prasetyo Tbk Wholesale,"Gasti Budiman, S.Kom",uchitaprasetya@pt.net.id,+62 (0094) 125-0760,Medan,Sumatera Utara,"Jalan Indragiri No. 01, Lhokseumawe, PA 92899",True
+140,SUP000140,PT PD Maheswara Wholesale,"drg. Winda Mustofa, S.Psi",etamba@perum.co.id,+62 (21) 574-0177,Surabaya,Jawa Timur,"Gg. Asia Afrika No. 99, Dumai, PA 29847",True
+141,SUP000141,PT UD Nababan Iswahyudi Tbk Nusantara,"Kardi Dabukke, S.I.Kom",rmandasari@cv.my.id,+62 (036) 256 1965,Bandung,Jawa Barat,"Jl. Surapati No. 3, Kotamobagu, Nusa Tenggara Barat 90577",True
+142,SUP000142,CV CV Novitasari (Persero) Tbk Sejahtera,Zelda Suryono,mahmud14@perum.mil.id,+62 (223) 388 4611,Bandung,Jawa Barat,"Jalan Ahmad Yani No. 90, Bau-Bau, DI Yogyakarta 42278",True
+143,SUP000143,CV CV Jailani Mandala Trading,Drs. Estiono Latupono,ddongoran@ud.ponpes.id,0869778310,Makassar,Sulawesi Selatan,"Gg. Medokan Ayu No. 38, Sabang, BB 58442",True
+144,SUP000144,PT PT Permadi (Persero) Tbk Distribution,H. Muni Irawan,kartika80@ud.ac.id,0852219011,Makassar,Sulawesi Selatan,"Gang Dr. Djunjunan No. 23, Tasikmalaya, Riau 89764",True
+145,SUP000145,CV Perum Wulandari Gunarto Tbk Supply,Genta Nurdiyanti,vivirahayu@ud.ponpes.id,+62 (102) 190-3162,Denpasar,Bali,"Gg. Gedebage Selatan No. 721, Bengkulu, PB 06619",True
+146,SUP000146,PT PD Nurdiyanti Sihombing Sejahtera,Zahra Puspita,vsaputra@ud.sch.id,(0684) 669 8446,Jakarta,DKI Jakarta,"Gg. Bangka Raya No. 8, Sawahlunto, BB 33658",True
+147,SUP000147,CV CV Nasyidah (Persero) Tbk Retail,Fitriani Kuswoyo,siti55@pd.com,+62-649-167-9761,Medan,Sumatera Utara,"Gang Antapani Lama No. 7, Tual, JB 25229",True
+148,SUP000148,PT PD Mulyani Supply,Kasusra Suryatmi,jaemanwaluyo@cv.or.id,(0553) 468 2717,Yogyakarta,DI Yogyakarta,"Jalan BKR No. 8, Samarinda, Jawa Timur 10371",True
+149,SUP000149,CV Perum Hidayat Suwarno Mandiri,Raihan Winarsih,paulinmandasari@cv.int,+62-349-898-6895,Bandung,Jawa Barat,"Jalan Kiaracondong No. 44, Sabang, Sulawesi Barat 54644",True
+150,SUP000150,PT CV Purwanti Prayoga Indonesia,Darmaji Lailasari,tania77@perum.id,(0378) 510-2039,Jakarta,DKI Jakarta,"Gg. Setiabudhi No. 47, Kota Administrasi Jakarta Utara, Kalimantan Barat 31211",True

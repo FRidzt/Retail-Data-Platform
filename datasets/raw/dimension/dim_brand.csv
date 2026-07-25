@@ -1,0 +1,79 @@
+brand_key,brand_code,brand_name,category_key,category_name,is_active
+1,BRD000001,Samsung,1,Electronics,True
+2,BRD000002,LG,1,Electronics,True
+3,BRD000003,Sony,1,Electronics,True
+4,BRD000004,Panasonic,1,Electronics,True
+5,BRD000005,Sharp,1,Electronics,True
+6,BRD000006,Dell,2,Computer,True
+7,BRD000007,HP,2,Computer,True
+8,BRD000008,Lenovo,2,Computer,True
+9,BRD000009,ASUS,2,Computer,True
+10,BRD000010,Acer,2,Computer,True
+11,BRD000011,Apple,3,Smartphone,True
+12,BRD000012,Samsung,3,Smartphone,True
+13,BRD000013,Xiaomi,3,Smartphone,True
+14,BRD000014,OPPO,3,Smartphone,True
+15,BRD000015,vivo,3,Smartphone,True
+16,BRD000016,Philips,4,Home Appliances,True
+17,BRD000017,Electrolux,4,Home Appliances,True
+18,BRD000018,Midea,4,Home Appliances,True
+19,BRD000019,TCL,4,Home Appliances,True
+20,BRD000020,IKEA,5,Furniture,True
+21,BRD000021,Informa,5,Furniture,True
+22,BRD000022,Olympic,5,Furniture,True
+23,BRD000023,Tupperware,6,Kitchen,True
+24,BRD000024,LocknLock,6,Kitchen,True
+25,BRD000025,Maspion,6,Kitchen,True
+26,BRD000026,Indofood,7,Food,True
+27,BRD000027,Mayora,7,Food,True
+28,BRD000028,GarudaFood,7,Food,True
+29,BRD000029,Coca-Cola,8,Beverage,True
+30,BRD000030,Pepsi,8,Beverage,True
+31,BRD000031,Nestle,8,Beverage,True
+32,BRD000032,Blackmores,9,Health,True
+33,BRD000033,Entrasol,9,Health,True
+34,BRD000034,Kalbe,9,Health,True
+35,BRD000035,Wardah,10,Beauty,True
+36,BRD000036,Make Over,10,Beauty,True
+37,BRD000037,Emina,10,Beauty,True
+38,BRD000038,L'Oreal,10,Beauty,True
+39,BRD000039,Nike,11,Fashion Men,True
+40,BRD000040,Adidas,11,Fashion Men,True
+41,BRD000041,Uniqlo,11,Fashion Men,True
+42,BRD000042,Zara,12,Fashion Women,True
+43,BRD000043,H&M,12,Fashion Women,True
+44,BRD000044,Uniqlo,12,Fashion Women,True
+45,BRD000045,Carter's,13,Fashion Kids,True
+46,BRD000046,Mothercare,13,Fashion Kids,True
+47,BRD000047,Nike,14,Sports,True
+48,BRD000048,Adidas,14,Sports,True
+49,BRD000049,Puma,14,Sports,True
+50,BRD000050,Eiger,15,Outdoor,True
+51,BRD000051,Consina,15,Outdoor,True
+52,BRD000052,The North Face,15,Outdoor,True
+53,BRD000053,Gramedia,16,Books,True
+54,BRD000054,Erlangga,16,Books,True
+55,BRD000055,Faber Castell,17,Stationery,True
+56,BRD000056,Joyko,17,Stationery,True
+57,BRD000057,Bosch,18,Automotive,True
+58,BRD000058,Shell,18,Automotive,True
+59,BRD000059,Castrol,18,Automotive,True
+60,BRD000060,Whiskas,19,Pet Supplies,True
+61,BRD000061,Royal Canin,19,Pet Supplies,True
+62,BRD000062,Pampers,20,Baby Products,True
+63,BRD000063,MamyPoko,20,Baby Products,True
+64,BRD000064,Cussons Baby,20,Baby Products,True
+65,BRD000065,Razer,21,Gaming,True
+66,BRD000066,Logitech,21,Gaming,True
+67,BRD000067,SteelSeries,21,Gaming,True
+68,BRD000068,Yamaha,22,Music,True
+69,BRD000069,Roland,22,Music,True
+70,BRD000070,Casio,22,Music,True
+71,BRD000071,Anker,23,Accessories,True
+72,BRD000072,Baseus,23,Accessories,True
+73,BRD000073,UGREEN,23,Accessories,True
+74,BRD000074,Bantex,24,Office,True
+75,BRD000075,Deli,24,Office,True
+76,BRD000076,LEGO,25,Toys,True
+77,BRD000077,Mattel,25,Toys,True
+78,BRD000078,Hasbro,25,Toys,True

@@ -1,0 +1,26 @@
+category_key,category_code,category_name,is_active
+1,CAT000001,Electronics,True
+2,CAT000002,Computer,True
+3,CAT000003,Smartphone,True
+4,CAT000004,Home Appliances,True
+5,CAT000005,Furniture,True
+6,CAT000006,Kitchen,True
+7,CAT000007,Food,True
+8,CAT000008,Beverage,True
+9,CAT000009,Health,True
+10,CAT000010,Beauty,True
+11,CAT000011,Fashion Men,True
+12,CAT000012,Fashion Women,True
+13,CAT000013,Fashion Kids,True
+14,CAT000014,Sports,True
+15,CAT000015,Outdoor,True
+16,CAT000016,Books,True
+17,CAT000017,Stationery,True
+18,CAT000018,Automotive,True
+19,CAT000019,Pet Supplies,True
+20,CAT000020,Baby Products,True
+21,CAT000021,Gaming,True
+22,CAT000022,Music,True
+23,CAT000023,Accessories,True
+24,CAT000024,Office,True
+25,CAT000025,Toys,True
