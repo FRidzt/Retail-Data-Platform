@@ -1,0 +1,1001 @@
+customer_key,customer_code,first_name,last_name,gender,birth_date,email,phone,city,province,membership,segment,register_date,is_active
+1,CUS000001,Bakti,Tarihoran,Male,1995-03-27,cakrajiya83@example.org,(075) 133-5004,Medan,Sumatera Utara,Gold,Loyal,2024-03-19,True
+2,CUS000002,Prabowo,Hutagalung,Female,2006-01-15,saadatnamaga@example.org,(0325) 922-8534,Semarang,Jawa Tengah,Platinum,New,2025-06-20,False
+3,CUS000003,Irfan,Astuti,Female,1995-12-28,nbudiman@example.com,(042) 800-0975,Surabaya,Jawa Timur,Silver,Loyal,2025-07-12,True
+4,CUS000004,Raden,Wibisono,Female,2006-08-19,nadine04@example.org,+62 (0691) 945-3731,Surabaya,Jawa Timur,Gold,Loyal,2025-01-01,False
+5,CUS000005,Dasa,Kusmawati,Male,1972-04-13,utama69@example.com,(079) 155-6757,Semarang,Jawa Tengah,Bronze,Loyal,2024-02-01,True
+6,CUS000006,Hadi,Nurdiyanti,Male,1974-09-08,mulyanibakiman@example.org,+62 (19) 018 8937,Semarang,Jawa Tengah,Silver,New,2024-03-21,False
+7,CUS000007,Surya,Saptono,Male,1991-01-29,sihombingprabawa@example.net,+62-094-252-1017,Surabaya,Jawa Timur,Platinum,Loyal,2024-08-25,True
+8,CUS000008,Anita,Halim,Male,2008-07-13,ygunawan@example.com,+62 (0822) 011 4269,Surabaya,Jawa Timur,Silver,New,2024-06-17,True
+9,CUS000009,Gatra,Hidayanto,Female,1989-07-25,wastutiwira@example.org,+62 (62) 219-9087,Makassar,Sulawesi Selatan,Silver,VIP,2025-09-17,False
+10,CUS000010,Dalima,Utami,Female,1992-11-25,rahimahgatra@example.org,+62-13-632-6858,Makassar,Sulawesi Selatan,Bronze,Regular,2025-12-24,True
+11,CUS000011,Putri,Wibowo,Female,1962-10-13,snuraini@example.org,0892224005,Surabaya,Jawa Timur,Silver,Loyal,2023-09-07,True
+12,CUS000012,Cemeti,Sitorus,Male,1963-02-07,emas13@example.com,+62 (289) 508-1532,Denpasar,Bali,Bronze,Regular,2025-05-11,True
+13,CUS000013,Mumpuni,Hakim,Female,1996-03-19,asirwada44@example.com,+62 (888) 168-6429,Denpasar,Bali,Gold,Loyal,2026-07-17,True
+14,CUS000014,Clara,Usamah,Female,2002-01-28,limarwulandari@example.net,(098) 689 7610,Bandung,Jawa Barat,Bronze,New,2024-08-15,True
+15,CUS000015,Harsanto,Oktaviani,Female,2006-10-11,jasminhasanah@example.com,0814901158,Medan,Sumatera Utara,Silver,Regular,2024-03-14,True
+16,CUS000016,Wadi,Rahimah,Female,1996-02-18,carla41@example.com,(0654) 180-6061,Semarang,Jawa Tengah,Silver,Loyal,2025-06-19,True
+17,CUS000017,Joko,Kusumo,Female,1999-05-29,suryonokarja@example.org,+62 (97) 081 2994,Surabaya,Jawa Timur,Silver,Loyal,2023-10-29,True
+18,CUS000018,Drajat,Melani,Female,2000-04-20,uyainahfebi@example.org,087 161 0018,Jakarta,DKI Jakarta,Bronze,Loyal,2026-03-24,True
+19,CUS000019,Yunita,Simbolon,Female,1969-08-12,vivi51@example.com,+62 (0701) 754 1802,Jakarta,DKI Jakarta,Bronze,Regular,2023-07-28,True
+20,CUS000020,Cemplunk,Halimah,Male,1983-01-31,olivia26@example.com,(005) 925-6575,Bandung,Jawa Barat,Bronze,Regular,2025-07-14,False
+21,CUS000021,Raisa,Melani,Female,1988-07-13,harjotampubolon@example.net,+62 (71) 389 1965,Surabaya,Jawa Timur,Gold,Loyal,2024-07-15,True
+22,CUS000022,Padma,Nugroho,Male,1994-06-01,salmanwibisono@example.com,+62 (0529) 091-7815,Yogyakarta,DI Yogyakarta,Silver,Loyal,2025-04-11,False
+23,CUS000023,Cayadi,Widodo,Male,1993-01-06,michellekuswandari@example.com,+62 (27) 583-0698,Jakarta,DKI Jakarta,Gold,Loyal,2026-04-24,True
+24,CUS000024,Farah,Saputra,Male,2001-07-22,lasmonodabukke@example.com,+62 (0717) 336-8598,Jakarta,DKI Jakarta,Platinum,Regular,2024-09-09,True
+25,CUS000025,Restu,Hardiansyah,Female,1993-10-02,pranawausada@example.org,+62 (029) 750-9070,Jakarta,DKI Jakarta,Bronze,New,2023-12-26,False
+26,CUS000026,Endra,Wasita,Male,1966-05-11,sari38@example.com,+62-65-116-2383,Semarang,Jawa Tengah,Platinum,Loyal,2025-07-25,True
+27,CUS000027,Putu,Anggriawan,Female,1989-06-23,zamira98@example.com,(026) 872-7930,Surabaya,Jawa Timur,Bronze,Regular,2026-06-27,True
+28,CUS000028,Galih,Natsir,Male,1979-06-28,bagusprayoga@example.org,+62 (0373) 246-1710,Yogyakarta,DI Yogyakarta,Gold,Regular,2025-09-26,False
+29,CUS000029,Gara,Nugroho,Male,1985-11-08,whalim@example.com,+62 (0060) 655 2820,Jakarta,DKI Jakarta,Bronze,Regular,2024-12-21,True
+30,CUS000030,Laras,Iswahyudi,Male,1980-09-03,ihsanprakasa@example.net,+62 (0024) 136-4781,Denpasar,Bali,Bronze,Regular,2024-07-20,False
+31,CUS000031,Eli,Pradana,Female,1985-11-06,tjanuar@example.org,+62-63-542-7803,Surabaya,Jawa Timur,Bronze,Regular,2025-06-06,True
+32,CUS000032,Calista,Kusmawati,Male,2003-12-29,htarihoran@example.com,+62-197-005-2158,Semarang,Jawa Tengah,Bronze,New,2026-04-05,False
+33,CUS000033,Ikin,Samosir,Male,1973-01-22,tasnim83@example.org,+62 (268) 538 5746,Yogyakarta,DI Yogyakarta,Gold,New,2025-02-05,True
+34,CUS000034,Leo,Tamba,Female,1980-12-23,asirwadasitumorang@example.net,+62 (0469) 606-7169,Medan,Sumatera Utara,Silver,VIP,2024-04-05,True
+35,CUS000035,Nurul,Halim,Male,1990-11-18,suartinibakijan@example.net,(005) 240-5522,Semarang,Jawa Tengah,Bronze,Loyal,2023-09-29,True
+36,CUS000036,Restu,Adriansyah,Female,1966-12-11,jrahmawati@example.net,+62-065-074-5105,Jakarta,DKI Jakarta,Silver,Loyal,2024-04-26,False
+37,CUS000037,Hilda,Mandala,Female,1990-12-19,damarpudjiastuti@example.com,+62-72-018-9422,Surabaya,Jawa Timur,Gold,Loyal,2023-10-24,False
+38,CUS000038,Bancar,Maryadi,Female,1975-08-25,galih45@example.org,+62 (045) 220-2393,Surabaya,Jawa Timur,Silver,Regular,2024-02-25,True
+39,CUS000039,Harimurti,Setiawan,Male,1992-01-12,mandasarijoko@example.org,+62-893-416-6285,Medan,Sumatera Utara,Bronze,VIP,2025-05-02,True
+40,CUS000040,Unjani,Usamah,Female,1976-03-24,laksmiwatihumaira@example.org,+62 (043) 282-9157,Denpasar,Bali,Silver,Loyal,2024-06-18,True
+41,CUS000041,Jarwadi,Santoso,Female,1981-05-10,laksmiwatiasmuni@example.net,+62-0780-628-0399,Surabaya,Jawa Timur,Platinum,VIP,2024-10-02,True
+42,CUS000042,Jaeman,Hutagalung,Female,1985-02-28,anombudiyanto@example.com,+62-84-456-5933,Jakarta,DKI Jakarta,Silver,New,2023-10-16,True
+43,CUS000043,Hilda,Sihombing,Male,2006-03-18,caraka23@example.com,+62 (043) 835-1171,Semarang,Jawa Tengah,Silver,Regular,2025-08-23,True
+44,CUS000044,Yono,Kurniawan,Male,1980-09-09,liliyulianti@example.com,+62 (0099) 230 7416,Jakarta,DKI Jakarta,Bronze,Regular,2023-12-24,True
+45,CUS000045,Radika,Hakim,Male,1966-03-10,kemal53@example.net,+62-093-040-5052,Bandung,Jawa Barat,Bronze,New,2024-01-13,False
+46,CUS000046,Violet,Kuswoyo,Male,1964-03-30,cnuraini@example.org,+62 (35) 799-6234,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2026-03-19,True
+47,CUS000047,Kartika,Kuswandari,Male,1967-06-02,viktor68@example.net,0889340400,Bandung,Jawa Barat,Bronze,VIP,2025-04-10,False
+48,CUS000048,Putri,Maryati,Female,1981-05-10,kambali03@example.org,(024) 646-5201,Medan,Sumatera Utara,Bronze,Regular,2025-09-16,True
+49,CUS000049,Luwes,Waskita,Male,1983-11-12,luthfimaryadi@example.org,+62 (088) 619 6392,Bandung,Jawa Barat,Gold,Regular,2026-05-27,False
+50,CUS000050,Yuni,Jailani,Female,1984-08-21,npurnawati@example.org,+62 (04) 349-4495,Denpasar,Bali,Silver,Loyal,2026-06-07,True
+51,CUS000051,Ina,Saragih,Male,1977-06-21,caraka86@example.org,(0891) 153 7269,Semarang,Jawa Tengah,Silver,New,2023-09-24,True
+52,CUS000052,Devi,Marpaung,Female,1993-06-25,natsirfitria@example.org,+62 (890) 879-4534,Bandung,Jawa Barat,Bronze,VIP,2025-03-24,False
+53,CUS000053,Wardaya,Prastuti,Male,2005-02-13,saptonohendri@example.org,+62 (26) 557-8669,Medan,Sumatera Utara,Bronze,Loyal,2025-07-05,True
+54,CUS000054,Estiawan,Mandasari,Female,1962-11-14,waskitaendra@example.com,(086) 519 4337,Medan,Sumatera Utara,Silver,VIP,2026-04-28,False
+55,CUS000055,Galar,Ramadan,Female,2006-06-15,harsana55@example.org,+62-0227-387-9329,Denpasar,Bali,Bronze,New,2025-04-29,False
+56,CUS000056,Adinata,Nainggolan,Female,1963-10-01,zelda31@example.org,+62 (214) 700 5261,Medan,Sumatera Utara,Bronze,Regular,2025-01-24,False
+57,CUS000057,Olivia,Saptono,Male,2004-01-01,csinaga@example.org,0891196883,Surabaya,Jawa Timur,Silver,Loyal,2024-05-07,True
+58,CUS000058,Maimunah,Saputra,Male,1993-11-12,nsaefullah@example.com,+62 (0255) 257-5265,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2024-09-30,True
+59,CUS000059,Bakianto,Thamrin,Female,2002-09-16,gildamansur@example.com,(071) 155-0326,Jakarta,DKI Jakarta,Silver,Loyal,2023-10-17,True
+60,CUS000060,Arsipatra,Oktaviani,Female,1980-04-13,irsad66@example.com,(009) 068-1155,Jakarta,DKI Jakarta,Silver,New,2024-07-27,True
+61,CUS000061,Mustika,Putra,Female,1973-10-26,jayadi34@example.com,+62 (0384) 833-3923,Surabaya,Jawa Timur,Bronze,Loyal,2023-12-24,True
+62,CUS000062,Kenes,Gunarto,Male,1966-04-06,hidayatgara@example.com,+62-0619-724-7453,Medan,Sumatera Utara,Gold,VIP,2026-02-16,True
+63,CUS000063,Cager,Laksita,Female,1980-05-10,vicky66@example.net,+62 (030) 743 4054,Yogyakarta,DI Yogyakarta,Gold,VIP,2025-07-12,True
+64,CUS000064,Mahfud,Laksmiwati,Male,1999-03-25,wahyunipanji@example.net,(089) 537-7208,Denpasar,Bali,Bronze,Loyal,2025-12-31,False
+65,CUS000065,Jaka,Mayasari,Female,1963-09-18,mandaladadi@example.org,(024) 976-5031,Yogyakarta,DI Yogyakarta,Silver,New,2025-02-26,True
+66,CUS000066,Maida,Uwais,Female,1972-08-11,pranawalaksmiwati@example.net,+62 (0670) 542 3309,Medan,Sumatera Utara,Bronze,Regular,2026-02-11,True
+67,CUS000067,Unjani,Natsir,Female,1967-04-28,luthfirajata@example.org,(006) 751-2895,Surabaya,Jawa Timur,Gold,New,2024-08-16,True
+68,CUS000068,Daliman,Prastuti,Male,1962-01-04,pia31@example.com,+62 (36) 262 8203,Semarang,Jawa Tengah,Bronze,Regular,2025-07-01,True
+69,CUS000069,Raden,Situmorang,Male,1964-04-06,sadina62@example.org,+62-72-457-2527,Medan,Sumatera Utara,Silver,Regular,2023-10-06,True
+70,CUS000070,Dagel,Hidayanto,Male,1964-07-08,ghastuti@example.net,+62 (426) 058-0619,Bandung,Jawa Barat,Bronze,New,2026-02-26,True
+71,CUS000071,Sabri,Anggraini,Female,1992-07-12,mbudiyanto@example.net,0804056981,Yogyakarta,DI Yogyakarta,Silver,Loyal,2025-05-03,True
+72,CUS000072,Vega,Samosir,Female,1964-11-05,murti32@example.com,(029) 943-8794,Jakarta,DKI Jakarta,Silver,VIP,2026-07-16,True
+73,CUS000073,Tania,Hutasoit,Male,1969-06-25,langgengmansur@example.net,(0499) 895-7830,Bandung,Jawa Barat,Silver,Loyal,2025-11-21,True
+74,CUS000074,Damu,Prakasa,Male,1990-09-01,anuraini@example.net,(012) 351 9755,Yogyakarta,DI Yogyakarta,Bronze,Regular,2025-11-09,True
+75,CUS000075,Maman,Sudiati,Male,1991-09-10,narpatiulva@example.org,+62 (0022) 199-0642,Surabaya,Jawa Timur,Bronze,New,2025-05-15,True
+76,CUS000076,Mala,Purwanti,Female,1979-09-29,novitasaripuput@example.com,(0292) 552-0166,Semarang,Jawa Tengah,Bronze,Regular,2024-12-11,True
+77,CUS000077,Rahmi,Zulkarnain,Male,1973-09-01,megantaratitin@example.org,(0988) 150-7061,Bandung,Jawa Barat,Silver,Loyal,2024-02-20,True
+78,CUS000078,Tira,Pratama,Male,1971-09-08,rika05@example.com,081 707 9067,Semarang,Jawa Tengah,Silver,Regular,2025-12-23,True
+79,CUS000079,Dodo,Aryani,Male,1961-04-24,adikasitompul@example.com,+62-36-668-1611,Yogyakarta,DI Yogyakarta,Silver,VIP,2024-06-14,True
+80,CUS000080,Kardi,Pratiwi,Female,2008-04-08,nurul52@example.org,(0836) 841-4461,Surabaya,Jawa Timur,Bronze,Regular,2023-12-01,True
+81,CUS000081,Titi,Rahmawati,Male,1996-09-15,bmaryadi@example.com,+62 (0645) 132-2892,Surabaya,Jawa Timur,Silver,Loyal,2024-08-28,False
+82,CUS000082,Maya,Wacana,Male,1982-10-30,uchitaandriani@example.org,+62-87-375-6628,Yogyakarta,DI Yogyakarta,Bronze,New,2024-04-23,False
+83,CUS000083,Kambali,Nuraini,Male,1975-04-26,utamiami@example.net,+62-028-340-9157,Semarang,Jawa Tengah,Gold,Regular,2026-05-30,True
+84,CUS000084,Candra,Yuniar,Male,1981-04-11,tpranowo@example.org,+62 (074) 386 9691,Jakarta,DKI Jakarta,Silver,VIP,2025-12-05,False
+85,CUS000085,Violet,Saragih,Male,1977-12-31,ian93@example.com,(0741) 405-9269,Bandung,Jawa Barat,Gold,Loyal,2025-04-01,True
+86,CUS000086,Mahfud,Mahendra,Male,2000-11-02,ranggasaefullah@example.com,+62 (02) 590-9964,Surabaya,Jawa Timur,Silver,Regular,2025-05-14,True
+87,CUS000087,Anom,Gunarto,Female,1970-06-25,ajiono62@example.org,+62 (0291) 650 7646,Denpasar,Bali,Bronze,New,2024-06-01,True
+88,CUS000088,Jono,Halimah,Female,1986-01-03,pagustina@example.org,+62 (258) 946 0664,Yogyakarta,DI Yogyakarta,Silver,Loyal,2024-04-03,True
+89,CUS000089,Faizah,Uwais,Male,1975-03-26,puyainah@example.org,+62 (91) 576-3968,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2024-08-07,True
+90,CUS000090,Dian,Prayoga,Female,1969-07-20,gading56@example.net,+62 (77) 042 3098,Makassar,Sulawesi Selatan,Bronze,Loyal,2025-05-30,True
+91,CUS000091,Cager,Nasyiah,Female,1961-04-05,rwastuti@example.org,+62 (185) 872 0794,Surabaya,Jawa Timur,Bronze,Loyal,2026-05-04,False
+92,CUS000092,Prabowo,Dabukke,Female,1983-03-14,banarasudiati@example.net,+62-0150-139-5127,Makassar,Sulawesi Selatan,Bronze,Regular,2025-10-31,False
+93,CUS000093,Kurnia,Sihombing,Male,1999-08-21,dabukkeratih@example.org,+62-0784-494-2694,Denpasar,Bali,Bronze,VIP,2024-04-10,True
+94,CUS000094,Ismail,Wahyuni,Male,1975-04-20,citrasetiawan@example.net,+62-78-604-1801,Semarang,Jawa Tengah,Bronze,VIP,2024-04-16,False
+95,CUS000095,Chelsea,Yolanda,Male,2000-04-07,emaslazuardi@example.net,+62-68-719-6882,Makassar,Sulawesi Selatan,Silver,Loyal,2025-03-29,False
+96,CUS000096,Muhammad,Damanik,Male,1972-12-03,irawanbalapati@example.net,+62 (096) 679-2994,Semarang,Jawa Tengah,Bronze,Regular,2025-09-22,False
+97,CUS000097,Sakura,Nuraini,Female,1970-01-30,mutama@example.com,0878656509,Bandung,Jawa Barat,Silver,Regular,2026-05-22,True
+98,CUS000098,Paiman,Rahmawati,Male,2000-05-28,twibisono@example.net,0806531195,Bandung,Jawa Barat,Silver,Regular,2024-01-21,False
+99,CUS000099,Vanesa,Suryono,Female,2006-04-06,cwibowo@example.net,+62 (081) 420 1547,Jakarta,DKI Jakarta,Gold,Loyal,2024-09-19,True
+100,CUS000100,Naradi,Sudiati,Male,1986-04-14,dpratiwi@example.com,+62 (081) 367 4434,Surabaya,Jawa Timur,Bronze,Regular,2025-06-01,False
+101,CUS000101,Nasab,Laksmiwati,Female,1978-12-11,darmantopadmasari@example.net,+62-489-784-8127,Yogyakarta,DI Yogyakarta,Bronze,Regular,2025-07-03,True
+102,CUS000102,Dagel,Agustina,Male,1973-06-14,azaleagunawan@example.net,+62-014-134-0908,Medan,Sumatera Utara,Silver,VIP,2024-08-07,False
+103,CUS000103,Restu,Yuniar,Male,2007-05-21,kurniaprasetyo@example.com,+62 (065) 342-9731,Denpasar,Bali,Silver,New,2026-06-19,True
+104,CUS000104,Oskar,Waskita,Male,1998-12-28,teddy29@example.org,+62-098-542-4737,Medan,Sumatera Utara,Gold,New,2024-11-20,True
+105,CUS000105,Karna,Lazuardi,Female,1982-11-25,tmansur@example.net,(096) 178-3974,Makassar,Sulawesi Selatan,Silver,Loyal,2025-12-29,True
+106,CUS000106,Zamira,Tarihoran,Female,1977-12-20,jonoardianto@example.com,+62 (077) 283 4122,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2025-11-22,False
+107,CUS000107,Aditya,Rahimah,Male,2004-09-12,nanggriawan@example.net,+62 (076) 845-0597,Surabaya,Jawa Timur,Silver,Regular,2023-09-14,True
+108,CUS000108,Dadap,Rahmawati,Male,1971-07-14,kariman64@example.net,+62-0164-539-4736,Denpasar,Bali,Bronze,Loyal,2024-09-18,True
+109,CUS000109,Hairyanto,Astuti,Female,1989-11-03,imelani@example.org,+62 (0811) 022-5378,Bandung,Jawa Barat,Silver,Regular,2026-01-12,True
+110,CUS000110,Cayadi,Wibisono,Female,1997-02-22,eprasetya@example.com,+62-55-818-8604,Medan,Sumatera Utara,Bronze,VIP,2025-05-28,True
+111,CUS000111,Mursita,Kusumo,Male,1961-11-09,laksmiwatisabrina@example.com,+62-520-703-2586,Semarang,Jawa Tengah,Bronze,Loyal,2025-09-30,True
+112,CUS000112,Lanang,Januar,Male,1964-07-04,hastutiprasetya@example.com,+62-976-829-0695,Surabaya,Jawa Timur,Gold,Regular,2024-09-29,True
+113,CUS000113,Mahdi,Budiman,Male,1998-07-26,kuswoyosafina@example.net,+62 (34) 575 4966,Surabaya,Jawa Timur,Silver,New,2024-05-07,True
+114,CUS000114,Jamal,Mangunsong,Female,1977-12-02,gunawantira@example.org,+62-087-668-8039,Surabaya,Jawa Timur,Gold,VIP,2025-02-06,True
+115,CUS000115,Hasna,Mahendra,Female,1978-08-30,tantri71@example.com,+62 (039) 010 2242,Bandung,Jawa Barat,Bronze,Regular,2025-12-17,True
+116,CUS000116,Gambira,Hassanah,Male,1986-08-17,firgantorohasna@example.org,+62 (813) 066-5548,Semarang,Jawa Tengah,Silver,Regular,2024-04-17,True
+117,CUS000117,Bakda,Wulandari,Female,2003-03-28,verosuwarno@example.com,(0428) 231 8685,Semarang,Jawa Tengah,Bronze,Regular,2025-09-14,True
+118,CUS000118,Karta,Tampubolon,Female,2003-07-17,talia54@example.org,+62-0902-483-1260,Denpasar,Bali,Bronze,Regular,2025-10-14,True
+119,CUS000119,Lamar,Narpati,Male,1986-04-27,lukman78@example.com,(0729) 716-0137,Medan,Sumatera Utara,Bronze,Regular,2026-02-19,True
+120,CUS000120,Yoga,Rahimah,Female,1997-04-26,sihombingyunita@example.net,(062) 532 7670,Jakarta,DKI Jakarta,Silver,Loyal,2024-11-09,True
+121,CUS000121,Capa,Sirait,Female,1990-12-26,zuwais@example.org,+62 (05) 840 4918,Makassar,Sulawesi Selatan,Silver,VIP,2025-09-15,True
+122,CUS000122,Jarwi,Prasasta,Female,1982-08-10,uwibisono@example.com,+62-063-129-2637,Makassar,Sulawesi Selatan,Silver,Regular,2023-08-29,True
+123,CUS000123,Yani,Mangunsong,Female,2002-01-14,maryaditalia@example.org,+62 (0666) 509-9524,Jakarta,DKI Jakarta,Gold,Regular,2024-08-15,True
+124,CUS000124,Artawan,Pradana,Female,2007-07-06,budimannova@example.com,+62 (950) 143 7044,Makassar,Sulawesi Selatan,Silver,Regular,2024-09-24,True
+125,CUS000125,Lembah,Suryono,Female,1965-06-08,dindasaefullah@example.com,(065) 782-0625,Surabaya,Jawa Timur,Silver,Loyal,2025-04-05,True
+126,CUS000126,Simon,Tampubolon,Male,1997-02-26,sadinauwais@example.net,+62 (646) 829 3369,Yogyakarta,DI Yogyakarta,Gold,New,2025-10-16,True
+127,CUS000127,Garda,Santoso,Female,2001-09-05,oyulianti@example.net,(0712) 879 8789,Yogyakarta,DI Yogyakarta,Gold,Regular,2025-12-13,False
+128,CUS000128,Cagak,Fujiati,Male,1999-03-15,padmasarieko@example.com,+62 (39) 847 9795,Jakarta,DKI Jakarta,Silver,Regular,2024-12-08,True
+129,CUS000129,Ega,Thamrin,Female,1989-09-27,umi01@example.net,(0782) 621 5985,Jakarta,DKI Jakarta,Bronze,New,2024-02-16,True
+130,CUS000130,Himawan,Hassanah,Male,1974-08-16,usamahwinda@example.net,+62 (20) 230 2528,Jakarta,DKI Jakarta,Bronze,Regular,2026-06-24,False
+131,CUS000131,Rusman,Waskita,Male,2007-07-23,paramitayulianti@example.com,+62 (61) 995 1771,Denpasar,Bali,Bronze,New,2025-10-09,True
+132,CUS000132,Eva,Sihombing,Female,1975-04-15,zamira25@example.com,+62-026-077-8255,Bandung,Jawa Barat,Platinum,Regular,2024-02-25,True
+133,CUS000133,Faizah,Nasyiah,Male,1992-07-29,indahfirgantoro@example.net,(018) 723 8203,Medan,Sumatera Utara,Silver,Regular,2025-10-11,True
+134,CUS000134,Emas,Sitorus,Female,1989-06-07,prasetyaraina@example.net,+62 (41) 816 1857,Jakarta,DKI Jakarta,Gold,VIP,2024-06-12,False
+135,CUS000135,Muhammad,Wacana,Male,1976-12-28,purwantiimam@example.net,+62 (017) 130-7492,Makassar,Sulawesi Selatan,Gold,Regular,2024-04-14,True
+136,CUS000136,Salman,Zulkarnain,Female,1970-03-30,usamahdanang@example.com,+62-77-758-9389,Makassar,Sulawesi Selatan,Bronze,Loyal,2025-02-03,True
+137,CUS000137,Mutia,Tampubolon,Female,1991-11-08,vsamosir@example.org,+62-018-585-2406,Makassar,Sulawesi Selatan,Silver,Regular,2026-07-14,False
+138,CUS000138,Hani,Hastuti,Male,1985-08-28,rprasetyo@example.net,+62 (0990) 581 5363,Medan,Sumatera Utara,Bronze,New,2025-05-14,True
+139,CUS000139,Manah,Simanjuntak,Female,2005-02-19,caketramadan@example.com,+62 (094) 150-0826,Semarang,Jawa Tengah,Silver,Regular,2026-05-15,False
+140,CUS000140,Nugraha,Sirait,Female,1984-03-10,wahyudinelvina@example.org,0826657838,Jakarta,DKI Jakarta,Gold,New,2026-05-16,True
+141,CUS000141,Estiawan,Wijaya,Male,1976-12-03,sihombingzelaya@example.net,+62 (0101) 438-7543,Denpasar,Bali,Gold,Loyal,2025-03-02,True
+142,CUS000142,Respati,Pratiwi,Male,1975-08-28,yolandaunjani@example.net,0826939644,Medan,Sumatera Utara,Gold,Loyal,2026-07-23,False
+143,CUS000143,Parman,Dabukke,Male,1993-01-08,halimahtiti@example.org,+62 (536) 352-6794,Semarang,Jawa Tengah,Silver,Regular,2026-02-27,True
+144,CUS000144,Rina,Hariyah,Female,1984-01-28,hasan01@example.org,+62-60-674-1192,Yogyakarta,DI Yogyakarta,Silver,Regular,2026-03-22,False
+145,CUS000145,Ami,Halimah,Male,1995-05-22,saragihbagya@example.com,+62-319-094-6783,Makassar,Sulawesi Selatan,Gold,Loyal,2026-05-07,True
+146,CUS000146,Reza,Aryani,Male,2003-12-30,wmaryati@example.com,+62 (75) 704-3425,Makassar,Sulawesi Selatan,Bronze,Loyal,2024-05-15,True
+147,CUS000147,Jindra,Nashiruddin,Male,1984-03-05,inamaga@example.org,+62-0148-901-7060,Medan,Sumatera Utara,Bronze,Loyal,2024-09-17,True
+148,CUS000148,Dipa,Palastri,Female,1995-12-15,waskitagatra@example.net,(029) 212 4366,Medan,Sumatera Utara,Bronze,New,2025-08-02,True
+149,CUS000149,Darman,Waskita,Female,1992-04-11,hidayantoestiono@example.com,085 287 8145,Semarang,Jawa Tengah,Bronze,Loyal,2024-12-23,True
+150,CUS000150,Putu,Iswahyudi,Male,1988-08-11,jinawipangestu@example.org,+62-228-022-3591,Surabaya,Jawa Timur,Bronze,New,2024-06-19,False
+151,CUS000151,Cengkal,Nainggolan,Male,2004-12-27,darmaji84@example.net,+62-0146-607-8006,Bandung,Jawa Barat,Silver,Regular,2026-05-27,False
+152,CUS000152,Jarwi,Saputra,Male,2004-05-18,puspasarikamaria@example.net,(0505) 808-1680,Surabaya,Jawa Timur,Bronze,Regular,2025-09-11,True
+153,CUS000153,Vivi,Gunawan,Female,1977-10-26,daniswarawastuti@example.org,+62 (356) 071 7384,Semarang,Jawa Tengah,Bronze,Loyal,2025-05-31,True
+154,CUS000154,Gambira,Wastuti,Male,1961-03-24,yuwais@example.net,+62 (51) 803-0741,Semarang,Jawa Tengah,Silver,Loyal,2025-03-18,True
+155,CUS000155,Jaka,Maulana,Male,1968-04-29,kunthara94@example.com,(0923) 526-5987,Bandung,Jawa Barat,Silver,VIP,2024-02-14,True
+156,CUS000156,Ismail,Januar,Female,1968-01-01,januarbakda@example.org,+62-38-530-0975,Makassar,Sulawesi Selatan,Platinum,Regular,2025-09-16,True
+157,CUS000157,Almira,Utama,Male,1963-02-26,kartikaandriani@example.org,(047) 227 4378,Denpasar,Bali,Bronze,Regular,2026-02-04,True
+158,CUS000158,Bakiadi,Yolanda,Female,1964-03-05,oktavianiabyasa@example.com,+62-014-258-5948,Medan,Sumatera Utara,Silver,Loyal,2026-02-08,True
+159,CUS000159,Lidya,Januar,Female,1994-11-15,dimazmanullang@example.net,0867427781,Jakarta,DKI Jakarta,Silver,VIP,2024-04-23,False
+160,CUS000160,Kenari,Pudjiastuti,Female,2007-05-21,danusetiawan@example.net,086 643 4622,Medan,Sumatera Utara,Bronze,Loyal,2025-12-23,False
+161,CUS000161,Vanya,Siregar,Female,1996-09-22,ipudjiastuti@example.net,(0532) 069 8446,Bandung,Jawa Barat,Silver,Regular,2025-05-18,False
+162,CUS000162,Harimurti,Pratama,Male,1996-04-26,adriansyahlaswi@example.com,(0863) 363 9600,Semarang,Jawa Tengah,Silver,New,2025-10-23,True
+163,CUS000163,Nugraha,Palastri,Male,1962-11-03,manullangamelia@example.org,+62-0688-898-9443,Medan,Sumatera Utara,Gold,New,2026-06-12,False
+164,CUS000164,Cayadi,Gunawan,Female,1981-10-05,wuyainah@example.net,+62 (739) 082-3514,Bandung,Jawa Barat,Bronze,Regular,2025-07-01,True
+165,CUS000165,Gaiman,Uwais,Female,1995-07-02,adriansyahmitra@example.org,(083) 817 6166,Medan,Sumatera Utara,Gold,Loyal,2023-08-17,True
+166,CUS000166,Dimas,Santoso,Female,1967-11-15,mursita73@example.net,(0745) 889 7263,Makassar,Sulawesi Selatan,Bronze,Regular,2025-08-25,True
+167,CUS000167,Rahmat,Firgantoro,Male,1972-05-11,kusumosalsabila@example.com,+62-344-335-9945,Surabaya,Jawa Timur,Bronze,VIP,2023-11-12,False
+168,CUS000168,Caturangga,Halimah,Female,1975-11-01,talia14@example.com,+62 (908) 720-5169,Surabaya,Jawa Timur,Bronze,Regular,2026-01-24,True
+169,CUS000169,Salimah,Kusumo,Female,1991-08-23,hutapeacindy@example.net,+62 (725) 333 2856,Semarang,Jawa Tengah,Bronze,New,2023-12-13,True
+170,CUS000170,Warji,Widiastuti,Male,2007-11-30,wulanthamrin@example.com,+62-0402-665-3576,Jakarta,DKI Jakarta,Gold,New,2024-06-14,False
+171,CUS000171,Asmadi,Marbun,Female,1973-02-10,janetprasetyo@example.com,+62 (119) 210-2213,Denpasar,Bali,Bronze,Loyal,2023-10-19,True
+172,CUS000172,Maras,Waskita,Female,1988-05-06,genta48@example.org,+62-0651-025-1163,Makassar,Sulawesi Selatan,Bronze,Regular,2024-03-05,True
+173,CUS000173,Prabowo,Sitompul,Female,1987-12-17,wasitalurhur@example.com,+62 (018) 795-7374,Bandung,Jawa Barat,Silver,Regular,2024-10-18,True
+174,CUS000174,Zulfa,Prayoga,Male,2001-08-31,jamil72@example.com,+62 (23) 095-1865,Surabaya,Jawa Timur,Silver,Regular,2023-12-07,False
+175,CUS000175,Hendra,Nugroho,Female,2005-11-04,fhardiansyah@example.net,(047) 074 2095,Bandung,Jawa Barat,Gold,Regular,2023-12-17,True
+176,CUS000176,Nilam,Utama,Female,2006-07-01,prayogaargono@example.net,+62 (098) 334 7105,Surabaya,Jawa Timur,Platinum,Regular,2026-06-13,False
+177,CUS000177,Mahmud,Simbolon,Male,1986-01-17,janehassanah@example.org,+62 (094) 076-6179,Makassar,Sulawesi Selatan,Silver,New,2024-11-15,True
+178,CUS000178,Gawati,Kuswandari,Female,1965-04-12,danuja52@example.net,+62-0222-213-6506,Jakarta,DKI Jakarta,Bronze,Regular,2025-06-25,True
+179,CUS000179,Darimin,Waluyo,Male,2004-11-23,snapitupulu@example.com,+62 (0541) 921 1166,Bandung,Jawa Barat,Gold,Loyal,2023-10-08,False
+180,CUS000180,Darsirah,Napitupulu,Female,2007-02-21,satya90@example.net,+62 (0862) 846 1305,Yogyakarta,DI Yogyakarta,Gold,New,2024-04-17,True
+181,CUS000181,Damu,Yuliarti,Female,1967-05-25,hidayatkarsa@example.com,+62 (88) 546 4408,Surabaya,Jawa Timur,Gold,VIP,2026-03-28,False
+182,CUS000182,Asman,Wastuti,Female,2000-11-25,maryadiajeng@example.com,(027) 331-3780,Bandung,Jawa Barat,Bronze,Regular,2025-09-22,False
+183,CUS000183,Putu,Nashiruddin,Male,1978-06-02,wyuliarti@example.net,+62 (097) 130-7262,Denpasar,Bali,Bronze,Loyal,2023-08-01,False
+184,CUS000184,Putu,Jailani,Male,2007-10-20,elon24@example.net,+62 (11) 433-8028,Makassar,Sulawesi Selatan,Bronze,Regular,2024-03-31,True
+185,CUS000185,Ira,Marbun,Female,1999-03-08,empluksinaga@example.net,+62 (0606) 057 0285,Semarang,Jawa Tengah,Silver,Regular,2025-06-30,True
+186,CUS000186,Clara,Hidayat,Female,1997-02-26,jagaragalaksmiwati@example.org,+62 (0447) 207 8784,Semarang,Jawa Tengah,Gold,Regular,2024-11-10,True
+187,CUS000187,Asirwanda,Santoso,Male,1983-06-01,permatarini@example.net,+62-286-915-3447,Makassar,Sulawesi Selatan,Bronze,VIP,2025-03-28,True
+188,CUS000188,Heru,Saefullah,Male,2000-07-15,pertiwidewi@example.net,+62 (0331) 102-3704,Semarang,Jawa Tengah,Silver,Regular,2023-11-08,False
+189,CUS000189,Amelia,Prasasta,Male,1990-10-26,gprabowo@example.org,(048) 694 5489,Makassar,Sulawesi Selatan,Silver,Regular,2024-06-30,True
+190,CUS000190,Catur,Wulandari,Female,1998-02-22,wakiman33@example.org,+62-0708-837-8129,Denpasar,Bali,Gold,Loyal,2023-12-21,True
+191,CUS000191,Lalita,Mulyani,Female,1984-12-12,usmanmahendra@example.com,(003) 528-6152,Yogyakarta,DI Yogyakarta,Platinum,Regular,2026-05-23,True
+192,CUS000192,Darmanto,Latupono,Female,1963-09-18,michelle50@example.net,+62-0500-906-1289,Bandung,Jawa Barat,Bronze,Loyal,2026-02-26,True
+193,CUS000193,Warsita,Wibowo,Female,2006-04-22,vanyamulyani@example.net,+62-231-201-5022,Jakarta,DKI Jakarta,Bronze,Loyal,2024-10-31,False
+194,CUS000194,Tirtayasa,Situmorang,Female,1962-11-14,cornelia35@example.net,+62-308-428-1322,Jakarta,DKI Jakarta,Gold,New,2025-05-13,True
+195,CUS000195,Joko,Kusmawati,Male,1977-01-15,qsitorus@example.com,087 607 7207,Semarang,Jawa Tengah,Bronze,Regular,2026-05-08,True
+196,CUS000196,Ega,Lestari,Male,1979-01-27,prabowoputi@example.org,+62 (36) 454-6814,Yogyakarta,DI Yogyakarta,Bronze,Regular,2025-07-30,False
+197,CUS000197,Jefri,Suwarno,Male,1992-08-07,nadinemaryadi@example.net,+62 (0884) 854 5998,Yogyakarta,DI Yogyakarta,Gold,Regular,2025-01-05,True
+198,CUS000198,Vanya,Kuswoyo,Female,1972-01-27,doktaviani@example.org,0868654353,Surabaya,Jawa Timur,Bronze,Loyal,2023-08-29,True
+199,CUS000199,Opan,Rahmawati,Female,1978-07-07,hutasoitmaya@example.net,+62 (820) 588 6894,Denpasar,Bali,Bronze,Loyal,2026-04-07,True
+200,CUS000200,Teddy,Usada,Female,1982-03-10,fyuniar@example.org,+62 (43) 326-6344,Semarang,Jawa Tengah,Bronze,Regular,2025-08-30,False
+201,CUS000201,Respati,Jailani,Female,1991-02-28,emplukmelani@example.net,+62 (086) 512-2286,Semarang,Jawa Tengah,Gold,New,2025-06-23,False
+202,CUS000202,Jayadi,Widodo,Female,1995-05-16,simbolonprayogo@example.org,+62 (069) 812-2798,Jakarta,DKI Jakarta,Gold,Loyal,2025-11-08,True
+203,CUS000203,Raharja,Laksita,Male,1983-12-22,natsircakrajiya@example.net,+62-186-891-3314,Jakarta,DKI Jakarta,Bronze,Regular,2024-06-23,False
+204,CUS000204,Nardi,Wijayanti,Female,1982-02-09,sfarida@example.com,0885035290,Jakarta,DKI Jakarta,Gold,New,2026-06-19,False
+205,CUS000205,Sabar,Wijaya,Male,1996-02-17,rahmat51@example.org,+62-0359-527-9638,Bandung,Jawa Barat,Bronze,Loyal,2024-09-18,False
+206,CUS000206,Oskar,Siregar,Female,1974-03-06,saputrabanara@example.net,(0347) 991 5535,Surabaya,Jawa Timur,Silver,New,2024-02-22,True
+207,CUS000207,Ani,Widiastuti,Female,1966-04-25,harsaya13@example.org,+62 (0579) 546-0761,Makassar,Sulawesi Selatan,Bronze,VIP,2025-07-16,True
+208,CUS000208,Daliono,Astuti,Male,1988-11-20,rendy74@example.net,+62 (701) 508-8749,Denpasar,Bali,Bronze,Regular,2023-08-30,False
+209,CUS000209,Gamani,Agustina,Male,2000-07-24,gtarihoran@example.org,(0463) 471-3975,Surabaya,Jawa Timur,Silver,VIP,2024-05-15,False
+210,CUS000210,Gaiman,Mardhiyah,Female,1973-11-29,wibowonajam@example.org,+62-73-129-2789,Medan,Sumatera Utara,Bronze,Regular,2025-04-25,True
+211,CUS000211,Limar,Sihotang,Male,1996-06-02,manullanggalih@example.net,+62 (071) 647-7775,Surabaya,Jawa Timur,Silver,Regular,2025-10-25,False
+212,CUS000212,Anastasia,Fujiati,Female,1986-12-20,wisnumelani@example.org,+62 (701) 921-4781,Jakarta,DKI Jakarta,Silver,Regular,2026-06-21,True
+213,CUS000213,Najwa,Saragih,Male,1981-10-16,setiawanridwan@example.org,(061) 385 5016,Bandung,Jawa Barat,Bronze,Regular,2024-08-09,True
+214,CUS000214,Emong,Narpati,Female,1992-07-04,bhasanah@example.net,0859891745,Surabaya,Jawa Timur,Platinum,Regular,2025-09-04,True
+215,CUS000215,Harsana,Laksmiwati,Female,1992-09-11,kajen93@example.org,+62 (0763) 152 1711,Makassar,Sulawesi Selatan,Silver,Regular,2025-06-25,True
+216,CUS000216,Ganep,Ramadan,Female,2002-05-09,wijayaembuh@example.net,+62-42-969-6796,Makassar,Sulawesi Selatan,Silver,Regular,2023-08-18,True
+217,CUS000217,Jaga,Wibowo,Female,2008-06-10,hariyahcandrakanta@example.org,(0456) 854 9300,Medan,Sumatera Utara,Platinum,Regular,2024-05-27,True
+218,CUS000218,Reksa,Maryadi,Female,1969-04-23,laksitaprayoga@example.net,+62 (961) 985 9948,Medan,Sumatera Utara,Bronze,Loyal,2024-11-29,True
+219,CUS000219,Queen,Widodo,Male,1985-10-23,xhariyah@example.org,+62 (0365) 426-3941,Denpasar,Bali,Gold,Loyal,2026-05-09,False
+220,CUS000220,Jarwadi,Winarno,Female,2002-12-20,luwarfirmansyah@example.org,+62 (054) 457 4562,Denpasar,Bali,Gold,Regular,2025-10-23,True
+221,CUS000221,Garda,Farida,Male,1966-10-12,agustinaanggabaya@example.net,(044) 147 9758,Makassar,Sulawesi Selatan,Bronze,Regular,2025-04-17,True
+222,CUS000222,Caket,Natsir,Male,2001-11-29,iriana06@example.net,+62 (55) 669 5813,Jakarta,DKI Jakarta,Bronze,Regular,2023-12-16,True
+223,CUS000223,Nrima,Suwarno,Male,1964-08-22,hasan87@example.org,(0953) 115-9108,Medan,Sumatera Utara,Bronze,Regular,2024-12-08,True
+224,CUS000224,Ian,Marbun,Male,1991-03-23,gamani67@example.com,+62 (30) 723 3989,Yogyakarta,DI Yogyakarta,Gold,Regular,2024-05-01,True
+225,CUS000225,Pia,Prasetya,Female,1975-03-14,mursininsusanti@example.org,+62-0378-936-9271,Surabaya,Jawa Timur,Bronze,Regular,2025-11-19,True
+226,CUS000226,Hamima,Sihotang,Male,1993-10-04,maimunah95@example.org,+62 (046) 009 7632,Jakarta,DKI Jakarta,Silver,Regular,2025-07-20,True
+227,CUS000227,Hesti,Riyanti,Male,1999-10-24,qtarihoran@example.com,(0566) 985-2070,Yogyakarta,DI Yogyakarta,Silver,Regular,2025-05-11,True
+228,CUS000228,Muni,Thamrin,Male,1992-12-24,kaylawibisono@example.com,+62-004-339-9647,Bandung,Jawa Barat,Bronze,Regular,2023-10-18,True
+229,CUS000229,Bala,Prasetya,Male,2007-02-02,mayasarikenzie@example.com,+62 (021) 074-2611,Surabaya,Jawa Timur,Bronze,Regular,2023-09-17,False
+230,CUS000230,Ganjaran,Hariyah,Female,1984-12-19,pertiwiwardaya@example.com,+62 (19) 243-9241,Bandung,Jawa Barat,Bronze,New,2023-09-19,True
+231,CUS000231,Ayu,Rahayu,Male,1967-05-28,rnarpati@example.com,089 694 8159,Semarang,Jawa Tengah,Silver,VIP,2024-01-23,False
+232,CUS000232,Hamima,Dongoran,Female,1975-06-08,bagiyasaefullah@example.org,+62 (191) 584-2766,Surabaya,Jawa Timur,Gold,Regular,2024-04-14,True
+233,CUS000233,Ian,Dabukke,Female,1961-07-23,megantaradarmanto@example.net,(0024) 009-0866,Jakarta,DKI Jakarta,Silver,Loyal,2025-07-07,True
+234,CUS000234,Lala,Maryadi,Male,1987-03-12,daniswara38@example.com,+62 (266) 306 6139,Yogyakarta,DI Yogyakarta,Gold,Regular,2025-12-31,False
+235,CUS000235,Agus,Napitupulu,Female,1960-09-18,ramadanvivi@example.com,(036) 042-7004,Makassar,Sulawesi Selatan,Gold,Regular,2025-12-11,True
+236,CUS000236,Luwar,Narpati,Female,1974-03-04,lidya58@example.com,+62-87-369-3347,Denpasar,Bali,Bronze,Loyal,2024-03-03,True
+237,CUS000237,Lukita,Fujiati,Male,2008-01-17,setiawanraden@example.org,(084) 841 6577,Medan,Sumatera Utara,Silver,New,2024-03-25,True
+238,CUS000238,Novi,Mayasari,Male,1999-01-14,handayanidwi@example.com,081 962 0713,Jakarta,DKI Jakarta,Silver,Loyal,2024-07-07,True
+239,CUS000239,Baktianto,Kurniawan,Male,1983-12-27,pudjiastutiwawan@example.net,081 319 4498,Yogyakarta,DI Yogyakarta,Bronze,VIP,2025-09-12,True
+240,CUS000240,Cornelia,Simbolon,Male,1994-07-06,xrahimah@example.com,+62-056-931-7937,Bandung,Jawa Barat,Bronze,Loyal,2025-08-08,True
+241,CUS000241,Purwadi,Wibisono,Male,1967-07-17,tnurdiyanti@example.org,+62 (0422) 750-2225,Semarang,Jawa Tengah,Bronze,Regular,2025-08-21,True
+242,CUS000242,Perkasa,Riyanti,Male,1981-01-08,fujiaticatur@example.net,+62 (150) 092 2148,Semarang,Jawa Tengah,Gold,New,2023-12-05,True
+243,CUS000243,Purwadi,Kusumo,Male,1990-07-30,budiyantogabriella@example.com,+62-151-204-2561,Surabaya,Jawa Timur,Bronze,Loyal,2024-02-14,True
+244,CUS000244,Arsipatra,Palastri,Female,1965-11-16,opradipta@example.net,+62 (356) 901 3361,Surabaya,Jawa Timur,Gold,Regular,2026-04-20,False
+245,CUS000245,Makuta,Sitompul,Female,1971-07-22,yahya93@example.org,+62-67-285-2866,Yogyakarta,DI Yogyakarta,Silver,New,2024-04-24,False
+246,CUS000246,Hilda,Wahyudin,Female,2006-03-09,anarahmawati@example.com,0833652044,Medan,Sumatera Utara,Bronze,VIP,2025-09-20,True
+247,CUS000247,Wakiman,Nashiruddin,Female,1963-12-31,snajmudin@example.com,+62 (029) 133 9456,Medan,Sumatera Utara,Silver,New,2024-01-28,True
+248,CUS000248,Rahmi,Rajata,Male,1960-07-26,nardiprayoga@example.net,+62 (71) 046-3215,Medan,Sumatera Utara,Gold,New,2024-10-26,True
+249,CUS000249,Lukita,Prabowo,Male,1988-07-07,paulinirawan@example.net,+62-72-851-6798,Bandung,Jawa Barat,Gold,Regular,2023-08-13,True
+250,CUS000250,Warsita,Utami,Female,1995-07-14,ikhsanwulandari@example.net,083 004 2211,Denpasar,Bali,Silver,New,2024-05-31,True
+251,CUS000251,Jatmiko,Mansur,Male,1982-09-09,qdabukke@example.org,+62-83-103-4480,Yogyakarta,DI Yogyakarta,Silver,New,2025-07-31,False
+252,CUS000252,Nyoman,Purnawati,Male,1989-10-17,tugimansaefullah@example.com,+62 (78) 426-6904,Makassar,Sulawesi Selatan,Gold,Regular,2024-10-02,False
+253,CUS000253,Cagak,Natsir,Male,1999-02-14,taufan79@example.com,+62 (0689) 386 2947,Semarang,Jawa Tengah,Silver,New,2025-12-27,False
+254,CUS000254,Kartika,Sihotang,Male,1965-08-16,galionoaryani@example.net,086 193 8137,Medan,Sumatera Utara,Silver,Regular,2024-07-12,True
+255,CUS000255,Embuh,Prasetyo,Male,2004-08-22,marpaunggada@example.net,+62-53-959-9067,Surabaya,Jawa Timur,Gold,Loyal,2026-07-10,True
+256,CUS000256,Estiono,Dabukke,Female,1998-07-05,apermata@example.org,+62 (0242) 538-7590,Bandung,Jawa Barat,Gold,New,2024-06-22,True
+257,CUS000257,Ian,Hasanah,Female,2005-10-15,igunarto@example.com,+62-034-641-6376,Jakarta,DKI Jakarta,Bronze,Loyal,2024-02-26,True
+258,CUS000258,Rahmi,Hutapea,Male,1967-03-28,adhiarja33@example.org,0895608573,Yogyakarta,DI Yogyakarta,Gold,Loyal,2025-01-06,False
+259,CUS000259,Rahayu,Anggriawan,Male,1968-08-25,xprasetya@example.net,+62-71-283-0982,Bandung,Jawa Barat,Bronze,Regular,2025-01-21,True
+260,CUS000260,Wisnu,Lailasari,Male,1961-08-03,qgunarto@example.com,+62-53-205-8321,Surabaya,Jawa Timur,Bronze,Regular,2024-05-24,True
+261,CUS000261,Melinda,Anggriawan,Male,1985-02-09,chidayat@example.com,+62-0047-574-4503,Bandung,Jawa Barat,Bronze,Regular,2023-10-26,True
+262,CUS000262,Dina,Saefullah,Male,1983-05-09,nrima92@example.org,+62 (398) 248 1023,Bandung,Jawa Barat,Bronze,Regular,2025-06-23,True
+263,CUS000263,Dasa,Megantara,Female,1962-11-30,baktiaditarihoran@example.org,0889830817,Semarang,Jawa Tengah,Bronze,VIP,2024-09-20,True
+264,CUS000264,Erik,Hutapea,Female,1982-12-27,purwantiolivia@example.com,(0447) 196-8370,Denpasar,Bali,Bronze,Regular,2025-09-29,True
+265,CUS000265,Yuliana,Melani,Female,1975-01-12,warsitafarida@example.org,(034) 947-2016,Jakarta,DKI Jakarta,Bronze,Loyal,2023-12-29,True
+266,CUS000266,Almira,Dongoran,Male,2006-05-16,budiyantodarmaji@example.org,+62 (0504) 199 8199,Surabaya,Jawa Timur,Gold,Loyal,2023-10-25,False
+267,CUS000267,Dian,Permadi,Female,1979-04-05,firmansyahsaadat@example.com,+62 (000) 474-1871,Surabaya,Jawa Timur,Platinum,Loyal,2025-01-05,False
+268,CUS000268,Maman,Budiman,Male,1974-12-18,tsaputra@example.org,+62-634-869-1401,Bandung,Jawa Barat,Silver,Regular,2023-10-11,True
+269,CUS000269,Mustofa,Hastuti,Female,2000-03-20,banawianggriawan@example.net,+62-471-654-4008,Makassar,Sulawesi Selatan,Gold,Loyal,2024-04-03,True
+270,CUS000270,Ibrahim,Mahendra,Male,1972-02-19,malika01@example.org,+62 (683) 827 3380,Jakarta,DKI Jakarta,Silver,Regular,2025-11-02,True
+271,CUS000271,Mujur,Nugroho,Female,1965-11-11,oyuniar@example.org,+62 (0574) 718 4782,Yogyakarta,DI Yogyakarta,Bronze,VIP,2023-09-02,True
+272,CUS000272,Vivi,Suwarno,Female,1997-06-12,wadisuartini@example.org,+62 (877) 781 3284,Semarang,Jawa Tengah,Bronze,New,2024-08-13,True
+273,CUS000273,Cahya,Hutagalung,Male,1982-10-02,najwa34@example.net,(008) 974 9161,Semarang,Jawa Tengah,Bronze,New,2026-06-03,True
+274,CUS000274,Titin,Utama,Female,1992-09-16,queenkusmawati@example.com,+62-492-043-1296,Bandung,Jawa Barat,Silver,Regular,2025-03-08,False
+275,CUS000275,Harjo,Yuniar,Female,1989-01-24,emanwidiastuti@example.com,+62 (0735) 106 3627,Yogyakarta,DI Yogyakarta,Gold,Regular,2026-06-18,True
+276,CUS000276,Ghaliyati,Lestari,Female,1963-10-02,asmuni38@example.net,+62 (0490) 378-1148,Bandung,Jawa Barat,Bronze,Regular,2025-01-24,True
+277,CUS000277,Safina,Salahudin,Female,1993-10-31,olaksita@example.org,+62 (83) 365-9729,Yogyakarta,DI Yogyakarta,Bronze,Regular,2025-12-14,True
+278,CUS000278,Aditya,Winarno,Female,1999-09-14,nhidayanto@example.com,(037) 662 6302,Jakarta,DKI Jakarta,Bronze,Loyal,2026-06-07,True
+279,CUS000279,Hadi,Dabukke,Female,1972-02-27,marsito83@example.org,0833709099,Yogyakarta,DI Yogyakarta,Silver,New,2026-01-04,True
+280,CUS000280,Alika,Anggriawan,Female,1977-07-18,melaninasrullah@example.net,(098) 772 2189,Surabaya,Jawa Timur,Silver,Loyal,2024-12-15,True
+281,CUS000281,Titi,Haryanti,Male,1964-10-20,prasetyojefri@example.org,(072) 088-0636,Yogyakarta,DI Yogyakarta,Gold,New,2024-03-01,False
+282,CUS000282,Darmana,Nugroho,Female,1974-05-26,anggriawanmala@example.org,085 107 5175,Yogyakarta,DI Yogyakarta,Platinum,VIP,2026-07-03,False
+283,CUS000283,Paiman,Mandasari,Male,1997-01-14,bgunawan@example.org,+62-49-965-1307,Medan,Sumatera Utara,Silver,VIP,2026-02-26,True
+284,CUS000284,Ratih,Siregar,Female,1980-01-17,mahendramaryadi@example.com,+62 (0199) 106 3415,Yogyakarta,DI Yogyakarta,Silver,Regular,2024-02-09,True
+285,CUS000285,Titi,Uwais,Female,1967-10-07,sabri50@example.net,+62-80-076-4904,Yogyakarta,DI Yogyakarta,Bronze,Regular,2024-10-25,True
+286,CUS000286,Samsul,Santoso,Female,2001-10-07,cadriansyah@example.com,0805992778,Makassar,Sulawesi Selatan,Bronze,Regular,2025-12-05,True
+287,CUS000287,Jaya,Uyainah,Female,2005-03-03,edison38@example.org,+62 (455) 240 7685,Semarang,Jawa Tengah,Bronze,Loyal,2026-02-22,True
+288,CUS000288,Daniswara,Wasita,Male,1992-01-19,cemeti44@example.org,+62-036-233-7576,Bandung,Jawa Barat,Bronze,Loyal,2024-12-10,True
+289,CUS000289,Opan,Novitasari,Male,1989-01-01,raditsuryono@example.com,(0072) 478 3824,Semarang,Jawa Tengah,Bronze,Regular,2023-10-18,True
+290,CUS000290,Ilyas,Namaga,Male,1961-05-07,pranawaanggraini@example.com,+62 (089) 001-1378,Jakarta,DKI Jakarta,Silver,Loyal,2024-06-23,False
+291,CUS000291,Oman,Megantara,Male,1978-05-02,prakosa00@example.net,+62-024-725-9841,Bandung,Jawa Barat,Silver,Regular,2023-08-22,True
+292,CUS000292,Marsudi,Damanik,Female,1986-07-08,pia44@example.net,(032) 453 0832,Surabaya,Jawa Timur,Silver,Loyal,2024-03-07,True
+293,CUS000293,Ilyas,Novitasari,Female,1986-10-20,sakurawinarsih@example.org,+62 (051) 581-6752,Medan,Sumatera Utara,Silver,VIP,2023-10-06,True
+294,CUS000294,Ifa,Marbun,Male,1961-12-20,endahsitorus@example.net,+62 (0498) 528-1220,Semarang,Jawa Tengah,Silver,Loyal,2025-03-25,True
+295,CUS000295,Aurora,Tamba,Male,1994-10-20,gadingsiregar@example.org,(0070) 126 8564,Makassar,Sulawesi Selatan,Platinum,Loyal,2025-12-30,False
+296,CUS000296,Drajat,Suartini,Male,1985-01-08,artanto12@example.net,+62-763-832-4581,Makassar,Sulawesi Selatan,Bronze,Regular,2024-04-16,True
+297,CUS000297,Ina,Wacana,Female,1967-06-12,anapitupulu@example.com,(055) 838 2882,Jakarta,DKI Jakarta,Bronze,Regular,2026-02-21,True
+298,CUS000298,Endra,Prakasa,Male,1993-02-01,epranowo@example.com,+62 (088) 401 7538,Jakarta,DKI Jakarta,Bronze,Loyal,2025-10-06,True
+299,CUS000299,Uda,Gunawan,Male,1994-08-20,zulaikaophelia@example.org,+62 (0054) 786 6632,Makassar,Sulawesi Selatan,Bronze,Regular,2025-01-11,True
+300,CUS000300,Dasa,Ardianto,Male,1980-02-03,owibisono@example.net,(0265) 605 5757,Surabaya,Jawa Timur,Silver,Loyal,2025-12-17,False
+301,CUS000301,Uchita,Permata,Female,2001-02-17,gasti29@example.net,0837353995,Makassar,Sulawesi Selatan,Silver,Loyal,2024-01-25,True
+302,CUS000302,Nrima,Pertiwi,Female,1965-03-25,enasyidah@example.com,+62 (027) 128 9727,Jakarta,DKI Jakarta,Bronze,Regular,2024-10-26,True
+303,CUS000303,Pranata,Nugroho,Female,1967-11-12,cakrajiya27@example.com,+62 (0400) 184-0541,Surabaya,Jawa Timur,Bronze,New,2023-09-26,True
+304,CUS000304,Edi,Lailasari,Female,1995-04-08,omar72@example.com,+62 (0711) 385-5249,Yogyakarta,DI Yogyakarta,Bronze,VIP,2024-01-27,False
+305,CUS000305,Jaka,Haryanti,Male,2006-04-29,kasiyah90@example.org,(0621) 255 2742,Bandung,Jawa Barat,Bronze,Regular,2024-01-29,True
+306,CUS000306,Jessica,Kuswoyo,Female,1994-01-25,utamacengkal@example.org,(047) 159-8742,Jakarta,DKI Jakarta,Silver,Loyal,2025-01-29,True
+307,CUS000307,Eman,Hidayat,Female,2007-07-13,mustika92@example.net,+62 (01) 192 1611,Bandung,Jawa Barat,Silver,New,2025-08-14,False
+308,CUS000308,Yessi,Widiastuti,Male,1997-01-27,lrahimah@example.net,+62-30-108-3544,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2025-07-30,True
+309,CUS000309,Ian,Mustofa,Male,1992-03-27,yulia61@example.net,+62 (319) 444 8111,Surabaya,Jawa Timur,Gold,Loyal,2024-05-03,True
+310,CUS000310,Hasna,Lestari,Female,1983-04-27,raisa55@example.com,(0766) 729 4704,Jakarta,DKI Jakarta,Gold,New,2024-05-31,False
+311,CUS000311,Indra,Uyainah,Female,1961-11-08,gara66@example.com,+62 (0320) 593-0186,Surabaya,Jawa Timur,Bronze,Regular,2026-02-02,True
+312,CUS000312,Victoria,Halimah,Male,1968-10-27,harjayatamba@example.org,+62-274-113-5312,Makassar,Sulawesi Selatan,Gold,Regular,2024-12-16,True
+313,CUS000313,Candra,Nurdiyanti,Male,1964-03-22,rahmanprasetya@example.net,+62-489-566-5322,Jakarta,DKI Jakarta,Bronze,Loyal,2024-07-26,True
+314,CUS000314,Estiawan,Widodo,Male,1974-07-18,zzulkarnain@example.org,+62-65-893-2540,Bandung,Jawa Barat,Silver,Regular,2026-06-16,True
+315,CUS000315,Farah,Saputra,Male,1984-11-26,hartatiellis@example.org,+62 (0483) 538-7276,Denpasar,Bali,Gold,New,2025-08-02,True
+316,CUS000316,Qori,Widiastuti,Female,1968-10-04,mulyanihalim@example.org,+62 (79) 119-1746,Yogyakarta,DI Yogyakarta,Bronze,Regular,2026-02-11,True
+317,CUS000317,Enteng,Pratama,Female,1978-08-04,ranggalailasari@example.net,(033) 389 4867,Semarang,Jawa Tengah,Gold,Loyal,2025-01-10,True
+318,CUS000318,Nalar,Nuraini,Female,2008-07-02,dmaulana@example.org,0816955409,Makassar,Sulawesi Selatan,Silver,Regular,2024-09-02,False
+319,CUS000319,Rudi,Nuraini,Male,1963-02-16,ltamba@example.com,+62-001-459-0792,Makassar,Sulawesi Selatan,Bronze,Loyal,2024-05-08,True
+320,CUS000320,Digdaya,Agustina,Male,1984-02-01,tuyainah@example.org,(0938) 842-0407,Semarang,Jawa Tengah,Silver,Regular,2025-08-15,True
+321,CUS000321,Jasmani,Lestari,Female,1994-08-04,restusuryono@example.com,0815831663,Makassar,Sulawesi Selatan,Silver,Loyal,2026-03-08,True
+322,CUS000322,Galang,Suryono,Male,1972-11-27,alika35@example.org,+62-0020-799-6107,Denpasar,Bali,Gold,New,2025-12-21,True
+323,CUS000323,Raditya,Wasita,Male,1992-04-13,ella09@example.com,0840757558,Jakarta,DKI Jakarta,Silver,Loyal,2024-10-06,True
+324,CUS000324,Saiful,Laksita,Male,1999-01-20,fmulyani@example.net,+62 (002) 270 3474,Jakarta,DKI Jakarta,Bronze,Loyal,2026-04-15,False
+325,CUS000325,Tri,Saputra,Male,1979-07-25,raisalestari@example.com,+62-0637-717-7278,Jakarta,DKI Jakarta,Bronze,Regular,2025-05-07,True
+326,CUS000326,Jaiman,Maheswara,Male,2001-01-04,fwahyudin@example.net,082 289 9556,Denpasar,Bali,Bronze,Regular,2025-09-05,True
+327,CUS000327,Rika,Suryono,Female,1968-04-13,galionoprakasa@example.com,+62 (83) 276 3734,Jakarta,DKI Jakarta,Bronze,VIP,2024-10-04,True
+328,CUS000328,Kasiran,Rajasa,Female,1985-08-26,gutami@example.com,+62 (069) 812 1622,Jakarta,DKI Jakarta,Silver,Regular,2025-08-05,True
+329,CUS000329,Almira,Novitasari,Male,1977-03-20,opheliausamah@example.net,(056) 534-0995,Semarang,Jawa Tengah,Silver,Loyal,2025-07-05,True
+330,CUS000330,Ega,Kurniawan,Male,1971-07-12,qsitumorang@example.net,+62-024-918-2140,Makassar,Sulawesi Selatan,Silver,Regular,2026-02-27,True
+331,CUS000331,Mariadi,Napitupulu,Male,1976-10-09,lanjarpurwanti@example.net,(0223) 200 9039,Makassar,Sulawesi Selatan,Silver,VIP,2025-02-01,True
+332,CUS000332,Zulfa,Adriansyah,Male,2000-11-30,kbudiman@example.com,+62-013-495-8131,Bandung,Jawa Barat,Bronze,VIP,2025-07-09,True
+333,CUS000333,Jelita,Prasetyo,Male,1977-03-21,hidayatreksa@example.org,(0426) 365-9348,Medan,Sumatera Utara,Silver,Loyal,2023-09-09,True
+334,CUS000334,Warji,Jailani,Male,1982-06-13,kokooktaviani@example.net,(069) 795-9070,Jakarta,DKI Jakarta,Silver,Regular,2024-07-04,True
+335,CUS000335,Hardana,Yuniar,Female,1985-05-20,mulyapuspita@example.net,+62 (030) 722 1031,Denpasar,Bali,Silver,Regular,2023-12-03,False
+336,CUS000336,Wage,Marbun,Female,1971-06-03,hasanahkarya@example.com,+62 (020) 801 6125,Medan,Sumatera Utara,Bronze,Regular,2026-05-06,True
+337,CUS000337,Gasti,Kurniawan,Male,2005-03-07,dadifujiati@example.com,+62 (017) 635-4940,Medan,Sumatera Utara,Silver,Loyal,2025-11-18,False
+338,CUS000338,Heru,Rahayu,Female,1978-12-25,maulanafebi@example.com,+62-410-907-4483,Semarang,Jawa Tengah,Bronze,Regular,2025-07-07,True
+339,CUS000339,Faizah,Namaga,Female,1974-07-18,mprasetyo@example.org,+62 (0566) 920 2624,Semarang,Jawa Tengah,Silver,Regular,2025-06-17,True
+340,CUS000340,Hartana,Zulkarnain,Male,2002-01-03,osudiati@example.org,+62 (0287) 581-3496,Denpasar,Bali,Gold,Regular,2025-07-23,True
+341,CUS000341,Nasim,Dongoran,Female,1998-05-19,bakiantonashiruddin@example.net,+62 (326) 965-6139,Bandung,Jawa Barat,Silver,New,2024-10-12,True
+342,CUS000342,Muhammad,Rahayu,Female,1987-10-27,ibranikusumo@example.org,(009) 856-0452,Jakarta,DKI Jakarta,Gold,Loyal,2024-12-02,True
+343,CUS000343,Dalimin,Haryanti,Male,1975-08-21,irawaneja@example.net,+62 (008) 096-0567,Medan,Sumatera Utara,Silver,Loyal,2025-11-03,False
+344,CUS000344,Okto,Salahudin,Female,1978-06-19,yogarahimah@example.com,(0314) 367-3628,Yogyakarta,DI Yogyakarta,Silver,Regular,2026-05-27,True
+345,CUS000345,Jarwi,Wibowo,Male,1979-10-18,rachelmandala@example.com,0857131113,Bandung,Jawa Barat,Gold,Regular,2024-04-13,True
+346,CUS000346,Zaenab,Tarihoran,Male,1966-06-30,hendrinasyidah@example.org,+62-47-469-6537,Bandung,Jawa Barat,Bronze,Loyal,2025-11-04,True
+347,CUS000347,Xanana,Widodo,Female,1967-06-26,hutama@example.net,+62-46-432-6112,Denpasar,Bali,Silver,Loyal,2024-12-21,True
+348,CUS000348,Aswani,Uyainah,Male,1962-07-21,adesaptono@example.net,+62 (0695) 496 9655,Makassar,Sulawesi Selatan,Silver,Loyal,2025-11-11,True
+349,CUS000349,Kawaya,Nuraini,Male,1968-10-30,irwanharyanto@example.org,087 927 7877,Surabaya,Jawa Timur,Bronze,VIP,2025-08-27,True
+350,CUS000350,Tami,Mangunsong,Female,1985-03-08,ajeng75@example.org,+62 (64) 867-0408,Makassar,Sulawesi Selatan,Silver,Regular,2024-11-16,True
+351,CUS000351,Johan,Puspita,Female,1984-11-15,bella05@example.org,+62 (043) 996-9999,Surabaya,Jawa Timur,Gold,Loyal,2024-08-16,False
+352,CUS000352,Pranawa,Jailani,Male,1987-03-12,jasmin32@example.org,086 393 8938,Yogyakarta,DI Yogyakarta,Bronze,New,2026-05-16,True
+353,CUS000353,Laksana,Narpati,Male,2004-04-02,ilyas69@example.org,(0045) 421 8430,Makassar,Sulawesi Selatan,Bronze,Regular,2024-01-03,False
+354,CUS000354,Leo,Kurniawan,Female,1989-12-31,rahmawatiyono@example.com,(0542) 244-0691,Makassar,Sulawesi Selatan,Platinum,Regular,2025-03-17,True
+355,CUS000355,Winda,Prayoga,Female,1972-08-19,wartahardiansyah@example.net,+62 (083) 118 6347,Surabaya,Jawa Timur,Silver,Loyal,2025-06-24,True
+356,CUS000356,Betania,Purnawati,Male,1994-12-28,widodowarta@example.org,+62 (071) 461 0798,Bandung,Jawa Barat,Gold,New,2025-07-08,True
+357,CUS000357,Cakrajiya,Habibi,Male,1989-01-06,prabahalim@example.com,+62 (021) 105-8718,Bandung,Jawa Barat,Bronze,New,2024-08-29,False
+358,CUS000358,Bancar,Pratiwi,Female,1982-03-26,nurdiyantinaradi@example.net,+62-807-927-2944,Bandung,Jawa Barat,Bronze,VIP,2026-03-18,False
+359,CUS000359,Prabawa,Suryono,Female,1980-06-20,gamanto55@example.org,081 410 1147,Medan,Sumatera Utara,Silver,Regular,2024-12-19,True
+360,CUS000360,Dodo,Puspita,Male,1990-09-25,osamosir@example.net,+62-0517-125-4631,Jakarta,DKI Jakarta,Gold,New,2026-04-11,True
+361,CUS000361,Tantri,Budiman,Female,1974-11-25,ajimindamanik@example.net,+62 (71) 199-1682,Bandung,Jawa Barat,Bronze,Regular,2026-03-22,False
+362,CUS000362,Mursita,Wahyuni,Male,1977-12-12,xwinarsih@example.net,+62 (001) 598 0288,Jakarta,DKI Jakarta,Platinum,Loyal,2024-12-23,True
+363,CUS000363,Cakrabuana,Pratiwi,Male,1991-09-25,jokonapitupulu@example.net,082 387 2942,Denpasar,Bali,Bronze,New,2023-08-05,True
+364,CUS000364,Ira,Yulianti,Male,1975-04-27,najamardianto@example.com,+62 (046) 436-8692,Bandung,Jawa Barat,Platinum,New,2024-06-03,True
+365,CUS000365,Intan,Melani,Male,2005-08-13,lulutnugroho@example.net,+62 (022) 448-4085,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2025-08-06,False
+366,CUS000366,Aditya,Mandasari,Male,1985-05-17,anom97@example.com,+62 (0997) 778 0692,Bandung,Jawa Barat,Gold,Loyal,2024-08-03,False
+367,CUS000367,Marsudi,Wahyudin,Female,1988-06-22,budimansakti@example.org,(0168) 814 6210,Surabaya,Jawa Timur,Bronze,Loyal,2024-11-13,True
+368,CUS000368,Jaeman,Yuliarti,Male,1975-10-18,hpadmasari@example.net,(0101) 257-2156,Yogyakarta,DI Yogyakarta,Platinum,Regular,2026-03-15,True
+369,CUS000369,Leo,Maryati,Male,1985-07-27,ozywahyuni@example.org,(050) 578-6499,Surabaya,Jawa Timur,Platinum,New,2025-03-27,True
+370,CUS000370,Daliono,Laksita,Male,2005-01-22,sitisuartini@example.com,+62-25-782-6111,Semarang,Jawa Tengah,Gold,New,2024-04-30,True
+371,CUS000371,Kayla,Maheswara,Male,1984-11-10,mardhiyahlantar@example.com,+62-04-631-4735,Surabaya,Jawa Timur,Bronze,Regular,2023-10-06,True
+372,CUS000372,Laswi,Dongoran,Male,1973-11-08,taswir54@example.com,+62 (05) 239-5841,Bandung,Jawa Barat,Silver,Regular,2025-02-15,True
+373,CUS000373,Tira,Agustina,Female,1986-11-01,patricianatsir@example.net,+62-016-339-4611,Bandung,Jawa Barat,Bronze,VIP,2023-11-12,False
+374,CUS000374,Septi,Tamba,Female,1987-03-28,ekusumo@example.net,(013) 066-2281,Denpasar,Bali,Silver,New,2024-03-18,False
+375,CUS000375,Laksana,Kuswandari,Female,1989-03-06,zmaryati@example.org,085 336 6447,Semarang,Jawa Tengah,Silver,Regular,2025-12-17,False
+376,CUS000376,Galak,Lestari,Female,1994-03-09,yuliantilukita@example.org,+62-094-361-5462,Yogyakarta,DI Yogyakarta,Platinum,VIP,2026-01-17,True
+377,CUS000377,Carla,Anggriawan,Female,1971-11-28,eka24@example.org,+62 (893) 287-5293,Yogyakarta,DI Yogyakarta,Gold,Regular,2025-01-16,False
+378,CUS000378,Tira,Budiman,Female,1987-12-25,bahuwarna09@example.com,+62 (426) 434-0213,Denpasar,Bali,Gold,Regular,2025-12-19,True
+379,CUS000379,Jaeman,Lestari,Female,1992-04-14,siraitbaktianto@example.net,+62 (096) 999-2109,Semarang,Jawa Tengah,Silver,New,2026-03-06,False
+380,CUS000380,Maman,Napitupulu,Female,1987-09-11,capa25@example.com,+62 (0838) 912-5760,Jakarta,DKI Jakarta,Bronze,VIP,2025-07-09,True
+381,CUS000381,Titin,Usamah,Male,1961-01-16,irwan28@example.net,+62 (23) 321-7589,Jakarta,DKI Jakarta,Bronze,Regular,2024-04-27,True
+382,CUS000382,Gatra,Halim,Male,2005-11-26,maras33@example.com,+62 (0269) 825 7362,Surabaya,Jawa Timur,Silver,Regular,2023-11-22,True
+383,CUS000383,Gandi,Tamba,Female,1995-03-15,gprakasa@example.org,+62 (60) 029-1907,Makassar,Sulawesi Selatan,Silver,New,2025-01-24,False
+384,CUS000384,Saka,Iswahyudi,Male,1992-08-09,darmantoriyanti@example.org,+62 (001) 946 1571,Medan,Sumatera Utara,Silver,Loyal,2024-08-14,True
+385,CUS000385,Ratih,Adriansyah,Female,2001-06-01,baktionopangestu@example.com,(0835) 120 6091,Jakarta,DKI Jakarta,Bronze,Regular,2023-08-08,True
+386,CUS000386,Asirwada,Wacana,Male,1960-12-04,ramadanluis@example.net,+62 (025) 950-8721,Surabaya,Jawa Timur,Bronze,Regular,2024-10-26,True
+387,CUS000387,Harto,Mayasari,Female,1981-06-11,bagyamaheswara@example.com,+62 (206) 284-1155,Denpasar,Bali,Gold,Regular,2024-01-19,True
+388,CUS000388,Marsudi,Pratiwi,Female,1971-07-31,nova35@example.com,(0654) 803-7487,Jakarta,DKI Jakarta,Silver,Loyal,2025-07-27,False
+389,CUS000389,Betania,Kuswoyo,Male,1986-01-29,cwidodo@example.com,(0377) 821 5530,Bandung,Jawa Barat,Gold,New,2025-11-25,False
+390,CUS000390,Cawisadi,Handayani,Female,1980-10-04,qhutagalung@example.net,+62 (234) 531 4180,Surabaya,Jawa Timur,Silver,Regular,2023-08-31,False
+391,CUS000391,Vinsen,Manullang,Male,2006-07-14,melanieka@example.com,+62 (070) 429-6162,Surabaya,Jawa Timur,Bronze,Loyal,2026-02-24,True
+392,CUS000392,Wisnu,Nurdiyanti,Female,1967-05-26,asirwandayulianti@example.com,+62-98-514-0130,Surabaya,Jawa Timur,Bronze,New,2025-06-20,True
+393,CUS000393,Hafshah,Prakasa,Female,1998-07-05,zaenabpadmasari@example.org,+62 (700) 969-9645,Makassar,Sulawesi Selatan,Gold,Regular,2026-03-22,True
+394,CUS000394,Raditya,Mandala,Male,1983-11-05,damanikwakiman@example.org,+62-0577-454-0108,Semarang,Jawa Tengah,Silver,Regular,2025-03-13,True
+395,CUS000395,Mumpuni,Mangunsong,Female,1965-11-26,karyasihotang@example.net,(0006) 384-0755,Yogyakarta,DI Yogyakarta,Silver,Loyal,2025-09-13,True
+396,CUS000396,Iriana,Rahmawati,Male,1982-02-10,nugrohotasnim@example.net,0802648397,Bandung,Jawa Barat,Silver,Regular,2025-11-03,True
+397,CUS000397,Yono,Yuliarti,Male,1975-09-06,nasyidahbalangga@example.org,0828865717,Semarang,Jawa Tengah,Silver,New,2026-03-17,True
+398,CUS000398,Dinda,Wijayanti,Female,1991-06-27,habibifarhunnisa@example.com,(088) 949 2568,Surabaya,Jawa Timur,Bronze,Regular,2024-06-16,True
+399,CUS000399,Karsana,Hidayanto,Male,1989-02-18,handayaniumaya@example.com,+62-056-315-4288,Yogyakarta,DI Yogyakarta,Silver,Regular,2025-11-21,False
+400,CUS000400,Latika,Nuraini,Male,1995-04-30,pwasita@example.com,+62-055-146-2393,Surabaya,Jawa Timur,Bronze,Regular,2026-04-14,True
+401,CUS000401,Dadi,Zulkarnain,Male,2002-11-12,pratamabahuraksa@example.org,089 783 4638,Makassar,Sulawesi Selatan,Silver,VIP,2025-01-20,False
+402,CUS000402,Mutia,Farida,Female,2003-02-17,gadang59@example.net,+62-0547-539-0260,Jakarta,DKI Jakarta,Bronze,Loyal,2025-01-21,False
+403,CUS000403,Kasim,Suwarno,Male,1990-01-08,gilang94@example.com,+62 (18) 286 1566,Medan,Sumatera Utara,Bronze,Loyal,2025-05-17,True
+404,CUS000404,Lulut,Nababan,Male,1968-04-23,rkuswandari@example.com,(0097) 377-1456,Denpasar,Bali,Bronze,New,2023-07-26,False
+405,CUS000405,Yulia,Hutapea,Female,1966-03-26,eka50@example.net,+62 (026) 726 4477,Yogyakarta,DI Yogyakarta,Bronze,New,2026-06-18,False
+406,CUS000406,Nugraha,Pudjiastuti,Male,1997-11-07,qsinaga@example.org,+62-095-647-0770,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2026-07-15,True
+407,CUS000407,Titi,Nainggolan,Female,1971-12-09,zulkarnainmariadi@example.com,+62 (317) 579 6008,Makassar,Sulawesi Selatan,Gold,Regular,2024-12-24,True
+408,CUS000408,Endah,Jailani,Male,1979-11-24,faizahprakasa@example.net,+62 (037) 708-9552,Semarang,Jawa Tengah,Bronze,New,2026-05-13,False
+409,CUS000409,Darmaji,Saefullah,Male,2001-12-19,srahimah@example.net,(062) 613 5286,Surabaya,Jawa Timur,Silver,Loyal,2025-01-02,False
+410,CUS000410,Ibun,Nashiruddin,Female,1978-05-11,farah00@example.net,+62 (089) 272-2510,Surabaya,Jawa Timur,Bronze,New,2023-08-08,False
+411,CUS000411,Diah,Zulkarnain,Male,1990-09-11,cahyariyanti@example.org,+62 (019) 967-8051,Medan,Sumatera Utara,Bronze,Regular,2026-01-01,False
+412,CUS000412,Rudi,Prakasa,Female,1984-05-11,yolandaindah@example.net,+62 (060) 854-5781,Bandung,Jawa Barat,Bronze,New,2026-02-08,False
+413,CUS000413,Ikhsan,Januar,Female,1962-04-24,wijayacawisadi@example.org,(097) 861 4894,Yogyakarta,DI Yogyakarta,Silver,Loyal,2023-12-29,True
+414,CUS000414,Farhunnisa,Wacana,Male,1992-09-02,omanullang@example.net,+62 (076) 453-2722,Denpasar,Bali,Bronze,Loyal,2024-12-24,True
+415,CUS000415,Putu,Kuswoyo,Female,1962-03-18,latika38@example.org,+62 (0143) 213 5989,Bandung,Jawa Barat,Bronze,VIP,2024-01-03,True
+416,CUS000416,Gangsa,Adriansyah,Male,1963-04-15,fitriani23@example.net,+62 (806) 454 9403,Denpasar,Bali,Bronze,Regular,2024-11-06,True
+417,CUS000417,Bagas,Setiawan,Male,1987-02-21,upikardianto@example.com,+62-911-210-3301,Denpasar,Bali,Silver,Loyal,2023-12-17,True
+418,CUS000418,Lukita,Hidayat,Female,2000-06-24,zaenab62@example.com,+62 (518) 518 7160,Surabaya,Jawa Timur,Bronze,Regular,2024-02-24,False
+419,CUS000419,Elma,Sirait,Male,1975-01-21,elonsinaga@example.net,+62 (60) 943 8163,Surabaya,Jawa Timur,Silver,Regular,2026-03-23,True
+420,CUS000420,Michelle,Hidayanto,Male,1986-01-20,iswahyudimahesa@example.net,(051) 156-5739,Semarang,Jawa Tengah,Silver,Regular,2025-02-13,True
+421,CUS000421,Iriana,Hassanah,Male,1971-05-25,sihotangindah@example.net,(0707) 716-1525,Yogyakarta,DI Yogyakarta,Gold,New,2023-10-09,True
+422,CUS000422,Shakila,Prabowo,Male,1993-07-02,thamrinlamar@example.org,+62-079-937-5189,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2023-11-17,True
+423,CUS000423,Yosef,Kusumo,Female,1996-10-10,natalia69@example.com,+62-082-371-4776,Surabaya,Jawa Timur,Silver,Regular,2024-04-11,True
+424,CUS000424,Prasetyo,Wasita,Male,1964-02-09,tasnimsantoso@example.net,+62 (68) 317 1186,Semarang,Jawa Tengah,Silver,Regular,2025-03-29,True
+425,CUS000425,Daniswara,Nugroho,Female,1985-11-30,yolandagambira@example.org,+62 (079) 460-7298,Yogyakarta,DI Yogyakarta,Silver,VIP,2026-01-12,True
+426,CUS000426,Irfan,Simbolon,Female,2002-09-14,mangunsongdadi@example.com,+62 (27) 241 4768,Yogyakarta,DI Yogyakarta,Bronze,New,2024-12-03,True
+427,CUS000427,Gandewa,Wijaya,Male,1998-02-12,hartanapangestu@example.net,+62 (033) 229 1235,Denpasar,Bali,Bronze,Regular,2025-11-24,True
+428,CUS000428,Hesti,Pratama,Female,1966-03-26,harjaya13@example.net,+62-45-430-4437,Yogyakarta,DI Yogyakarta,Platinum,Regular,2026-06-22,True
+429,CUS000429,Yani,Palastri,Male,1962-07-18,gina53@example.net,+62 (54) 085-5950,Yogyakarta,DI Yogyakarta,Bronze,Regular,2025-10-06,True
+430,CUS000430,Rama,Hariyah,Female,1970-01-19,cawisadi04@example.com,+62 (095) 813-8465,Semarang,Jawa Tengah,Gold,Loyal,2023-10-08,True
+431,CUS000431,Kunthara,Sinaga,Female,1987-03-17,okta46@example.com,+62 (887) 915-0495,Bandung,Jawa Barat,Platinum,New,2023-09-23,True
+432,CUS000432,Eka,Laksita,Male,2006-07-29,emin41@example.net,(019) 653 2766,Jakarta,DKI Jakarta,Silver,VIP,2025-11-19,True
+433,CUS000433,Agus,Narpati,Male,1961-10-04,fsudiati@example.org,(0949) 596 3907,Denpasar,Bali,Bronze,Regular,2023-09-04,False
+434,CUS000434,Hilda,Megantara,Male,1969-08-24,danumarbun@example.org,+62 (048) 375-9074,Medan,Sumatera Utara,Silver,Loyal,2023-10-18,True
+435,CUS000435,Puput,Sihombing,Female,2003-02-11,yuliartidanang@example.org,(097) 465 8959,Denpasar,Bali,Gold,Regular,2026-06-01,True
+436,CUS000436,Ajiono,Kusumo,Female,1974-03-18,prayogohardiansyah@example.org,0846192061,Yogyakarta,DI Yogyakarta,Silver,Regular,2026-04-04,True
+437,CUS000437,Ella,Hassanah,Female,1980-12-12,auroranainggolan@example.com,+62 (0642) 551-7138,Surabaya,Jawa Timur,Bronze,Loyal,2025-04-19,True
+438,CUS000438,Radit,Firgantoro,Male,1966-06-11,irawanamalia@example.org,+62 (41) 855-9198,Semarang,Jawa Tengah,Gold,VIP,2026-06-23,True
+439,CUS000439,Garda,Prasetya,Female,1983-06-21,jais23@example.net,(064) 049-9002,Medan,Sumatera Utara,Bronze,Loyal,2024-12-18,True
+440,CUS000440,Elma,Oktaviani,Female,1970-04-13,abyasawijaya@example.net,(040) 316-9604,Makassar,Sulawesi Selatan,Silver,Regular,2026-01-15,True
+441,CUS000441,Raden,Hakim,Male,1993-03-23,rahmanwijayanti@example.net,+62 (0520) 798 4705,Medan,Sumatera Utara,Silver,Loyal,2026-04-06,True
+442,CUS000442,Raihan,Purnawati,Male,1969-09-17,prasastagasti@example.com,(067) 488 3236,Medan,Sumatera Utara,Silver,Regular,2025-12-21,False
+443,CUS000443,Raisa,Ramadan,Male,1967-08-14,csaputra@example.org,+62 (0761) 195 8323,Surabaya,Jawa Timur,Bronze,Loyal,2023-11-04,True
+444,CUS000444,Mustofa,Tamba,Male,1998-11-15,padma84@example.org,+62 (0467) 648 5100,Surabaya,Jawa Timur,Silver,VIP,2025-02-14,True
+445,CUS000445,Cemani,Thamrin,Female,1981-04-24,emin54@example.com,0818401373,Surabaya,Jawa Timur,Gold,Regular,2023-12-24,True
+446,CUS000446,Jaeman,Damanik,Male,1962-07-21,nilam63@example.org,0825031175,Surabaya,Jawa Timur,Gold,VIP,2024-07-15,True
+447,CUS000447,Lutfan,Putra,Female,1987-09-23,darmanausamah@example.com,+62 (0790) 366 2339,Makassar,Sulawesi Selatan,Bronze,Regular,2026-06-16,True
+448,CUS000448,Endra,Laksmiwati,Male,2007-01-23,namagasiska@example.net,087 984 5473,Makassar,Sulawesi Selatan,Silver,Loyal,2023-11-14,True
+449,CUS000449,Kamaria,Yuliarti,Male,1989-09-08,radityakuswandari@example.com,+62 (396) 740-2637,Surabaya,Jawa Timur,Silver,Regular,2025-06-10,True
+450,CUS000450,Kasim,Waskita,Female,2000-04-09,najwapradipta@example.com,+62 (286) 464-1725,Medan,Sumatera Utara,Silver,Loyal,2026-02-01,True
+451,CUS000451,Martani,Wahyuni,Male,2001-12-15,kartika18@example.org,(0238) 627-7185,Surabaya,Jawa Timur,Bronze,Regular,2024-01-08,True
+452,CUS000452,Umaya,Sihombing,Male,1982-06-10,wartapradana@example.org,+62-0958-823-0427,Jakarta,DKI Jakarta,Bronze,VIP,2023-09-16,True
+453,CUS000453,Mustofa,Laksita,Female,1982-08-23,endraandriani@example.net,(066) 865-2059,Semarang,Jawa Tengah,Bronze,Loyal,2026-04-08,True
+454,CUS000454,Argono,Rajata,Female,1967-12-20,umarbun@example.com,+62 (367) 563-4111,Makassar,Sulawesi Selatan,Bronze,Regular,2025-11-12,True
+455,CUS000455,Edi,Kurniawan,Male,1988-09-16,ajionofujiati@example.com,+62 (95) 919-9310,Surabaya,Jawa Timur,Bronze,Regular,2024-03-02,True
+456,CUS000456,Juli,Halim,Female,1982-12-24,uyainahmargana@example.net,083 913 0707,Makassar,Sulawesi Selatan,Silver,Regular,2025-11-26,True
+457,CUS000457,Warji,Sihombing,Male,2005-06-08,rprasasta@example.com,+62-08-379-1544,Surabaya,Jawa Timur,Silver,Regular,2024-03-25,False
+458,CUS000458,Kardi,Prayoga,Female,1963-03-07,vanggraini@example.org,+62 (0316) 559-4506,Makassar,Sulawesi Selatan,Bronze,Loyal,2026-03-23,True
+459,CUS000459,Jais,Padmasari,Female,1986-07-26,saiful39@example.net,(000) 098 6150,Medan,Sumatera Utara,Silver,Loyal,2025-05-19,True
+460,CUS000460,Lalita,Wibowo,Female,2007-04-10,muyainah@example.com,0852736358,Bandung,Jawa Barat,Silver,Regular,2023-10-04,True
+461,CUS000461,Damar,Yolanda,Female,1982-06-18,rmarpaung@example.org,+62 (087) 974-0579,Denpasar,Bali,Silver,Regular,2025-07-26,False
+462,CUS000462,Devi,Manullang,Female,2004-06-07,krahmawati@example.net,+62 (29) 706-4532,Jakarta,DKI Jakarta,Platinum,Regular,2023-08-12,False
+463,CUS000463,Adinata,Nababan,Female,1981-08-29,vsuwarno@example.com,+62-0638-553-7701,Jakarta,DKI Jakarta,Silver,Regular,2025-10-20,True
+464,CUS000464,Hairyanto,Hidayat,Male,1992-05-26,edison41@example.org,+62-362-574-2162,Denpasar,Bali,Bronze,Regular,2026-06-24,True
+465,CUS000465,Eli,Natsir,Male,1989-01-30,malasihotang@example.com,(051) 087 9204,Surabaya,Jawa Timur,Platinum,New,2023-09-12,True
+466,CUS000466,Estiono,Samosir,Female,2006-06-24,rsuryono@example.org,+62-0621-894-0455,Yogyakarta,DI Yogyakarta,Bronze,Regular,2024-06-27,True
+467,CUS000467,Cakrabirawa,Nainggolan,Male,1997-08-08,atmahalimah@example.net,+62 (079) 290 2842,Medan,Sumatera Utara,Silver,Regular,2026-01-09,False
+468,CUS000468,Bakiman,Rajata,Male,1971-02-17,shabibi@example.com,+62 (75) 464 9303,Semarang,Jawa Tengah,Bronze,VIP,2023-12-01,True
+469,CUS000469,Galiono,Utama,Female,1992-07-02,nurulsudiati@example.net,+62 (014) 790-5615,Yogyakarta,DI Yogyakarta,Gold,Regular,2025-09-29,True
+470,CUS000470,Hari,Sirait,Female,1996-10-30,qmandasari@example.org,+62-053-709-1710,Surabaya,Jawa Timur,Gold,Regular,2025-03-14,True
+471,CUS000471,Rudi,Hasanah,Female,1975-12-06,anom99@example.com,+62 (0019) 099-6211,Bandung,Jawa Barat,Bronze,Regular,2025-07-24,True
+472,CUS000472,Janet,Hasanah,Male,1995-10-27,danurajata@example.net,(0936) 476 0796,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2025-07-12,True
+473,CUS000473,Tirta,Budiman,Male,2005-05-30,hhalimah@example.net,+62-998-886-2717,Surabaya,Jawa Timur,Silver,Regular,2026-04-05,False
+474,CUS000474,Banawa,Dongoran,Male,1974-01-09,juli57@example.net,(087) 920 9726,Makassar,Sulawesi Selatan,Bronze,Regular,2025-08-11,True
+475,CUS000475,Rendy,Budiyanto,Female,1999-05-28,hana31@example.org,(065) 078 2883,Yogyakarta,DI Yogyakarta,Gold,VIP,2025-10-19,True
+476,CUS000476,Azalea,Megantara,Female,1980-06-17,purnawatikarna@example.com,+62-0294-655-4635,Jakarta,DKI Jakarta,Platinum,Loyal,2023-08-09,True
+477,CUS000477,Vinsen,Nababan,Male,1988-07-25,sarahkusmawati@example.com,+62 (0166) 764 1188,Medan,Sumatera Utara,Bronze,VIP,2025-10-10,True
+478,CUS000478,Lanjar,Budiman,Male,2000-05-09,ganep86@example.org,+62 (898) 438-5709,Medan,Sumatera Utara,Bronze,Regular,2026-03-28,True
+479,CUS000479,Dagel,Rahimah,Male,1967-10-18,nurdiyantijindra@example.org,(054) 406 7396,Denpasar,Bali,Bronze,Loyal,2026-01-20,True
+480,CUS000480,Daniswara,Laksita,Female,1971-03-07,vhalimah@example.org,(0265) 006-8435,Denpasar,Bali,Platinum,Regular,2026-07-16,True
+481,CUS000481,Zalindra,Tamba,Male,1997-01-26,almirahutasoit@example.com,+62 (166) 283 1724,Medan,Sumatera Utara,Silver,Regular,2024-06-01,True
+482,CUS000482,Janet,Permadi,Female,1965-11-26,harsayalazuardi@example.net,+62 (01) 112-7696,Semarang,Jawa Tengah,Bronze,Loyal,2024-06-14,True
+483,CUS000483,Emin,Saputra,Male,1995-10-18,prasetyosaptono@example.com,(027) 329 9996,Surabaya,Jawa Timur,Bronze,Regular,2024-02-26,True
+484,CUS000484,Gaduh,Pradana,Male,1980-07-01,npalastri@example.org,(0971) 722 7180,Medan,Sumatera Utara,Bronze,New,2024-05-21,True
+485,CUS000485,Novi,Yulianti,Male,1975-11-25,najmudinfitria@example.com,(0121) 221 5107,Medan,Sumatera Utara,Silver,Loyal,2024-01-26,True
+486,CUS000486,Nadia,Utama,Female,2008-04-28,gaduh89@example.org,+62 (090) 059-9643,Makassar,Sulawesi Selatan,Silver,New,2024-05-04,True
+487,CUS000487,Paramita,Ardianto,Male,1989-12-09,isetiawan@example.com,+62 (073) 539 7557,Semarang,Jawa Tengah,Gold,Loyal,2026-01-24,True
+488,CUS000488,Ida,Kusumo,Female,1989-03-26,hariyahcaturangga@example.org,+62 (0245) 414 8462,Bandung,Jawa Barat,Gold,Regular,2025-06-23,True
+489,CUS000489,Karya,Napitupulu,Female,1989-06-02,qutama@example.org,+62 (266) 727 0441,Surabaya,Jawa Timur,Bronze,Regular,2026-04-22,False
+490,CUS000490,Panca,Nurdiyanti,Female,1977-03-22,paimanaryani@example.org,+62 (70) 856 3716,Makassar,Sulawesi Selatan,Gold,VIP,2025-09-05,True
+491,CUS000491,Jabal,Nasyiah,Female,1964-07-16,galih65@example.org,+62 (37) 190-5462,Makassar,Sulawesi Selatan,Silver,VIP,2025-02-23,True
+492,CUS000492,Eko,Suwarno,Male,1966-05-22,wmansur@example.net,085 745 2744,Bandung,Jawa Barat,Platinum,New,2025-12-07,False
+493,CUS000493,Gaiman,Utami,Male,1993-02-07,rwidodo@example.org,(023) 171 5913,Makassar,Sulawesi Selatan,Silver,VIP,2025-10-17,True
+494,CUS000494,Putri,Simanjuntak,Male,1982-01-28,septi18@example.net,+62-39-937-3232,Yogyakarta,DI Yogyakarta,Silver,Loyal,2026-03-31,False
+495,CUS000495,Gatot,Widodo,Male,1973-12-15,siregarhimawan@example.net,+62 (060) 413-1025,Denpasar,Bali,Silver,New,2026-07-10,True
+496,CUS000496,Aisyah,Simanjuntak,Female,1983-06-21,dsaptono@example.org,+62 (04) 496-6434,Makassar,Sulawesi Selatan,Silver,New,2026-07-16,False
+497,CUS000497,Jarwi,Waskita,Female,1973-04-29,januarvero@example.com,+62-85-662-6855,Yogyakarta,DI Yogyakarta,Bronze,New,2025-11-15,True
+498,CUS000498,Jamal,Winarsih,Male,1998-06-30,kuncaragunarto@example.org,+62 (0830) 729 0330,Bandung,Jawa Barat,Gold,Loyal,2025-04-26,False
+499,CUS000499,Balidin,Prasetya,Male,1990-02-08,mahendrazahra@example.net,+62 (457) 975-2662,Surabaya,Jawa Timur,Silver,Regular,2025-08-06,True
+500,CUS000500,Darsirah,Mayasari,Female,1972-04-03,tarihorannabila@example.com,+62-820-530-4725,Denpasar,Bali,Gold,Regular,2025-05-07,True
+501,CUS000501,Emong,Marbun,Male,1991-12-03,pradiptaismail@example.com,+62-89-959-7133,Medan,Sumatera Utara,Silver,New,2025-03-25,True
+502,CUS000502,Yoga,Simbolon,Female,1983-06-09,daryanifirmansyah@example.net,+62-63-332-5376,Yogyakarta,DI Yogyakarta,Bronze,Regular,2025-08-23,True
+503,CUS000503,Umay,Simanjuntak,Male,1990-03-29,uwaisqori@example.net,085 123 7513,Surabaya,Jawa Timur,Bronze,Regular,2023-08-24,False
+504,CUS000504,Kenzie,Anggraini,Male,2006-01-13,bagya91@example.com,(0517) 864 8223,Jakarta,DKI Jakarta,Silver,New,2023-09-15,True
+505,CUS000505,Margana,Hardiansyah,Male,1961-05-23,melaniprabowo@example.org,+62-010-846-3895,Medan,Sumatera Utara,Bronze,Regular,2025-05-11,True
+506,CUS000506,Sabri,Wacana,Female,1962-12-25,xprasetyo@example.org,+62 (29) 650-5051,Denpasar,Bali,Bronze,Regular,2026-04-13,True
+507,CUS000507,Among,Zulaika,Female,1970-08-28,dalimawidodo@example.org,0832442562,Yogyakarta,DI Yogyakarta,Bronze,Regular,2024-03-01,True
+508,CUS000508,Cici,Siregar,Female,1990-01-12,panggraini@example.net,+62 (042) 699 3448,Denpasar,Bali,Bronze,Regular,2025-08-09,True
+509,CUS000509,Qori,Hastuti,Female,2007-07-05,kamal96@example.net,+62 (090) 609-0475,Semarang,Jawa Tengah,Bronze,Regular,2024-01-24,True
+510,CUS000510,Prabowo,Padmasari,Female,1977-06-06,radityabudiman@example.org,+62 (0204) 059 0801,Yogyakarta,DI Yogyakarta,Silver,Loyal,2024-07-19,True
+511,CUS000511,Agus,Permadi,Male,1963-02-12,ybudiman@example.net,+62-24-165-5529,Jakarta,DKI Jakarta,Bronze,Regular,2024-10-21,True
+512,CUS000512,Ilyas,Kusumo,Male,2008-03-10,xoktaviani@example.com,+62-017-252-8140,Surabaya,Jawa Timur,Bronze,Regular,2025-02-21,False
+513,CUS000513,Syahrini,Sihombing,Female,1995-08-05,gatra62@example.org,+62 (504) 904-9523,Denpasar,Bali,Bronze,VIP,2025-12-08,True
+514,CUS000514,Panca,Mansur,Female,1965-11-17,bakiadisimbolon@example.net,0878563946,Medan,Sumatera Utara,Silver,New,2025-11-05,True
+515,CUS000515,Gamani,Anggriawan,Female,1999-11-19,ssalahudin@example.com,(0185) 940 2848,Yogyakarta,DI Yogyakarta,Bronze,New,2023-10-05,True
+516,CUS000516,Viktor,Widiastuti,Female,1983-11-07,amiprabowo@example.org,+62 (20) 878-8357,Surabaya,Jawa Timur,Silver,New,2024-01-18,False
+517,CUS000517,Prasetyo,Samosir,Female,1966-12-04,prasetyacemani@example.com,(025) 109 0581,Denpasar,Bali,Gold,Loyal,2025-04-01,True
+518,CUS000518,Nabila,Tamba,Male,1964-07-28,budiyantomanah@example.net,(0053) 145 8579,Medan,Sumatera Utara,Bronze,Regular,2025-06-24,True
+519,CUS000519,Zalindra,Nashiruddin,Female,1980-10-15,zulaikalaswi@example.org,+62 (098) 171 2645,Denpasar,Bali,Silver,Regular,2025-08-08,True
+520,CUS000520,Johan,Purnawati,Male,1971-03-10,lpertiwi@example.net,+62-487-800-7224,Bandung,Jawa Barat,Silver,New,2025-07-28,True
+521,CUS000521,Cakrabuana,Hassanah,Female,2001-01-23,sinagarahayu@example.net,(0686) 180-6506,Jakarta,DKI Jakarta,Silver,Regular,2024-07-07,True
+522,CUS000522,Emong,Mahendra,Female,1981-03-15,cemeti00@example.net,+62 (58) 420 1701,Jakarta,DKI Jakarta,Gold,Regular,2025-07-27,False
+523,CUS000523,Elon,Nashiruddin,Female,1978-08-04,argono31@example.org,+62 (020) 814-3215,Jakarta,DKI Jakarta,Bronze,Regular,2024-10-10,True
+524,CUS000524,Emin,Tampubolon,Male,1966-03-03,alambana10@example.com,+62 (074) 332 1057,Yogyakarta,DI Yogyakarta,Gold,New,2024-02-22,True
+525,CUS000525,Asirwanda,Gunarto,Female,2007-11-30,cutami@example.org,+62 (0593) 204-4951,Denpasar,Bali,Silver,New,2024-06-29,True
+526,CUS000526,Harsanto,Novitasari,Male,2007-09-03,bagya40@example.com,+62 (296) 794 7828,Surabaya,Jawa Timur,Silver,Regular,2025-07-04,True
+527,CUS000527,Respati,Sirait,Female,1980-03-16,salimahputra@example.com,+62-58-227-9505,Semarang,Jawa Tengah,Bronze,New,2026-03-23,True
+528,CUS000528,Yoga,Najmudin,Male,2007-09-21,yhartati@example.com,+62 (046) 217 9806,Jakarta,DKI Jakarta,Bronze,Loyal,2023-11-21,True
+529,CUS000529,Kayun,Suryatmi,Female,2006-07-02,rhidayanto@example.com,087 997 4033,Makassar,Sulawesi Selatan,Bronze,New,2026-06-08,True
+530,CUS000530,Mulyono,Setiawan,Female,1980-12-02,wibisonomakuta@example.com,086 465 1160,Makassar,Sulawesi Selatan,Platinum,New,2025-08-01,True
+531,CUS000531,Rahayu,Puspita,Female,1971-05-07,cecep26@example.com,+62 (008) 223 8873,Denpasar,Bali,Gold,Regular,2023-08-18,False
+532,CUS000532,Hamzah,Purnawati,Male,1973-10-08,limaryuliarti@example.org,+62 (35) 100 0082,Jakarta,DKI Jakarta,Bronze,Regular,2025-02-20,True
+533,CUS000533,Faizah,Zulaika,Male,1977-02-19,rhabibi@example.com,+62 (638) 224 5514,Bandung,Jawa Barat,Silver,Loyal,2026-05-30,False
+534,CUS000534,Praba,Natsir,Male,1997-05-06,oktavianigalih@example.net,(083) 086-2365,Jakarta,DKI Jakarta,Bronze,Regular,2026-01-29,False
+535,CUS000535,Jamal,Saptono,Female,1984-01-02,mardhiyahgalih@example.net,+62 (265) 713 4137,Semarang,Jawa Tengah,Silver,Loyal,2023-08-22,True
+536,CUS000536,Restu,Lailasari,Male,2004-06-14,tirtayasa78@example.org,+62 (532) 138 3028,Medan,Sumatera Utara,Gold,Loyal,2025-04-02,True
+537,CUS000537,Tania,Najmudin,Female,1988-06-03,halim85@example.net,+62 (091) 015-1944,Semarang,Jawa Tengah,Bronze,VIP,2026-01-12,True
+538,CUS000538,Iriana,Lailasari,Male,1981-06-30,lukman28@example.net,+62-438-231-2161,Semarang,Jawa Tengah,Gold,Regular,2024-05-08,True
+539,CUS000539,Ajeng,Napitupulu,Male,2000-05-13,iutami@example.net,0874081998,Makassar,Sulawesi Selatan,Bronze,Loyal,2024-08-02,False
+540,CUS000540,Edi,Nasyiah,Female,1978-11-04,murti51@example.com,+62 (0501) 554 0780,Yogyakarta,DI Yogyakarta,Gold,Regular,2025-06-04,True
+541,CUS000541,Cornelia,Nurdiyanti,Female,1987-07-23,tnarpati@example.net,(0285) 054 0138,Surabaya,Jawa Timur,Silver,Regular,2025-11-01,True
+542,CUS000542,Ida,Pratama,Male,1985-06-23,bakiantoyulianti@example.org,+62 (865) 678-9683,Surabaya,Jawa Timur,Gold,New,2024-12-08,True
+543,CUS000543,Jasmin,Lestari,Male,1969-06-27,wastutitaufan@example.net,+62 (0890) 068-5531,Bandung,Jawa Barat,Bronze,Regular,2024-07-30,True
+544,CUS000544,Tania,Oktaviani,Female,1997-05-30,yyolanda@example.com,(0956) 383 8829,Bandung,Jawa Barat,Gold,Regular,2025-12-30,True
+545,CUS000545,Ganjaran,Narpati,Female,1969-08-14,sudiatijessica@example.com,+62 (0200) 125 9954,Semarang,Jawa Tengah,Gold,Regular,2026-06-04,False
+546,CUS000546,Jasmin,Nainggolan,Female,1991-05-15,adikasamosir@example.net,+62-245-167-4258,Jakarta,DKI Jakarta,Bronze,Regular,2025-02-25,True
+547,CUS000547,Muni,Sihombing,Male,1965-12-24,dpradana@example.net,(0889) 847 4306,Semarang,Jawa Tengah,Gold,Loyal,2024-11-30,False
+548,CUS000548,Prayoga,Rahimah,Male,2000-10-01,maulanakoko@example.net,+62-0981-740-5905,Denpasar,Bali,Bronze,New,2026-01-18,True
+549,CUS000549,Kawaya,Hasanah,Female,2005-08-09,mhastuti@example.com,0857402452,Bandung,Jawa Barat,Bronze,Regular,2024-02-21,False
+550,CUS000550,Najam,Siregar,Female,1993-03-17,ejasaptono@example.net,(0924) 571-2738,Surabaya,Jawa Timur,Bronze,Regular,2024-07-01,False
+551,CUS000551,Paiman,Januar,Male,1987-01-10,maryadi44@example.org,+62 (041) 271-2415,Surabaya,Jawa Timur,Bronze,Regular,2024-09-09,True
+552,CUS000552,Sakura,Santoso,Male,1999-06-12,jasminsitumorang@example.net,082 036 8397,Makassar,Sulawesi Selatan,Silver,Regular,2024-12-25,True
+553,CUS000553,Belinda,Tampubolon,Male,1991-12-20,vera50@example.com,+62-17-084-0183,Bandung,Jawa Barat,Silver,VIP,2024-04-10,True
+554,CUS000554,Rahmi,Januar,Male,1984-05-10,vanesaardianto@example.net,(0997) 823-2908,Jakarta,DKI Jakarta,Silver,VIP,2025-10-01,True
+555,CUS000555,Kezia,Ramadan,Male,1974-10-31,ynurdiyanti@example.com,+62 (024) 859 0885,Jakarta,DKI Jakarta,Bronze,New,2026-06-15,True
+556,CUS000556,Gandewa,Situmorang,Female,1993-06-23,calista88@example.net,+62 (0340) 883 5138,Jakarta,DKI Jakarta,Bronze,New,2024-03-22,True
+557,CUS000557,Artawan,Dongoran,Male,1975-12-15,wage85@example.org,+62 (055) 210-6655,Jakarta,DKI Jakarta,Platinum,VIP,2026-07-23,False
+558,CUS000558,Vicky,Wulandari,Male,1973-12-15,ibranihutasoit@example.net,+62 (350) 215 7083,Denpasar,Bali,Silver,New,2025-05-08,True
+559,CUS000559,Darmaji,Marbun,Male,1996-07-27,narji15@example.com,+62 (0123) 374 2684,Semarang,Jawa Tengah,Silver,New,2025-11-10,False
+560,CUS000560,Adinata,Mahendra,Male,1996-03-29,kwaskita@example.com,089 768 0731,Medan,Sumatera Utara,Gold,Loyal,2024-11-17,False
+561,CUS000561,Cayadi,Saefullah,Female,1977-03-27,awacana@example.com,(0850) 933-8818,Denpasar,Bali,Silver,Regular,2025-05-25,True
+562,CUS000562,Luwar,Yuliarti,Female,1973-08-26,laksanamegantara@example.com,+62 (0107) 515-5108,Makassar,Sulawesi Selatan,Bronze,Loyal,2026-04-21,True
+563,CUS000563,Waluyo,Saragih,Female,1990-05-27,galang27@example.net,+62 (008) 807-3221,Bandung,Jawa Barat,Bronze,Loyal,2026-01-10,True
+564,CUS000564,Cagak,Saptono,Female,1998-07-17,rprakasa@example.com,(0452) 508 8218,Bandung,Jawa Barat,Bronze,Loyal,2026-06-06,True
+565,CUS000565,Endra,Yuniar,Male,1961-07-11,akuswoyo@example.net,+62-158-430-9627,Jakarta,DKI Jakarta,Gold,VIP,2024-06-14,True
+566,CUS000566,Zamira,Kusmawati,Female,2007-04-18,dagel22@example.net,+62 (092) 276-7850,Yogyakarta,DI Yogyakarta,Gold,Loyal,2024-08-12,True
+567,CUS000567,Bagus,Winarsih,Male,1966-09-06,vpradipta@example.com,+62 (33) 628 2408,Makassar,Sulawesi Selatan,Bronze,Regular,2025-07-29,True
+568,CUS000568,Jamalia,Hastuti,Female,1998-03-08,dariminsudiati@example.com,+62-0149-474-4669,Bandung,Jawa Barat,Bronze,Loyal,2026-05-26,False
+569,CUS000569,Umar,Nainggolan,Female,1984-04-09,adamanik@example.net,+62 (008) 907-1537,Bandung,Jawa Barat,Gold,VIP,2025-08-25,True
+570,CUS000570,Michelle,Saragih,Male,1964-11-27,warsahutagalung@example.net,+62-572-614-0480,Yogyakarta,DI Yogyakarta,Bronze,Regular,2025-02-07,False
+571,CUS000571,Titi,Rahmawati,Male,1985-09-12,lasmanto79@example.com,(0050) 091-7411,Makassar,Sulawesi Selatan,Bronze,Loyal,2026-01-06,False
+572,CUS000572,Salman,Anggraini,Female,1977-08-04,cornelia83@example.net,+62 (535) 688-3322,Surabaya,Jawa Timur,Bronze,Loyal,2024-11-13,False
+573,CUS000573,Tami,Mandasari,Female,2003-09-17,ssantoso@example.com,+62-137-022-4861,Denpasar,Bali,Silver,Regular,2023-10-03,False
+574,CUS000574,Paramita,Tampubolon,Female,1980-10-15,suwarnoratna@example.net,+62-575-637-3854,Makassar,Sulawesi Selatan,Bronze,Loyal,2025-04-27,True
+575,CUS000575,Okto,Rahayu,Male,2008-03-05,vanyarahmawati@example.org,(0421) 315 2490,Denpasar,Bali,Silver,New,2024-02-22,True
+576,CUS000576,Ganda,Jailani,Male,1972-02-03,karimah81@example.org,(0018) 785-3755,Bandung,Jawa Barat,Bronze,New,2026-01-25,True
+577,CUS000577,Asman,Wastuti,Female,1995-04-29,zutami@example.org,+62 (12) 393 4072,Denpasar,Bali,Bronze,Regular,2025-02-24,True
+578,CUS000578,Wirda,Nurdiyanti,Male,1976-06-09,unjanimangunsong@example.net,+62 (29) 846 2266,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2024-07-28,True
+579,CUS000579,Karimah,Wibowo,Female,1975-01-09,xbudiyanto@example.net,(078) 925-0948,Yogyakarta,DI Yogyakarta,Gold,Loyal,2025-09-16,True
+580,CUS000580,Among,Wijaya,Male,1963-11-09,wahyudinindra@example.net,+62 (47) 491 7627,Yogyakarta,DI Yogyakarta,Silver,VIP,2023-11-04,True
+581,CUS000581,Sakti,Nashiruddin,Female,1966-02-16,yharyanto@example.net,+62-519-055-5246,Semarang,Jawa Tengah,Bronze,VIP,2024-10-17,True
+582,CUS000582,Lulut,Manullang,Male,1977-07-10,unggulmaheswara@example.net,086 601 1282,Medan,Sumatera Utara,Bronze,Regular,2023-09-10,False
+583,CUS000583,Hadi,Laksita,Female,2005-02-01,daliminnatsir@example.net,+62 (512) 215 5519,Bandung,Jawa Barat,Bronze,Regular,2025-10-31,True
+584,CUS000584,Oman,Latupono,Female,1962-10-22,nnarpati@example.net,+62 (42) 746-3690,Semarang,Jawa Tengah,Silver,Regular,2024-10-13,False
+585,CUS000585,Gamani,Prayoga,Female,1963-04-08,putriprasetyo@example.net,+62-036-945-3522,Surabaya,Jawa Timur,Silver,Loyal,2026-03-17,True
+586,CUS000586,Maria,Laksmiwati,Male,1970-08-07,sihotangraina@example.com,+62 (688) 440-6306,Jakarta,DKI Jakarta,Silver,New,2025-06-06,False
+587,CUS000587,Puti,Suryono,Female,1979-09-16,marwata51@example.org,(0765) 910-5900,Yogyakarta,DI Yogyakarta,Gold,New,2024-05-14,True
+588,CUS000588,Irma,Haryanti,Female,1988-12-21,hassanahcahyadi@example.org,+62 (0570) 442-2202,Bandung,Jawa Barat,Bronze,VIP,2023-12-24,True
+589,CUS000589,Mahmud,Laksita,Male,1966-08-24,yusuf15@example.com,(093) 434-7778,Makassar,Sulawesi Selatan,Silver,VIP,2026-03-26,True
+590,CUS000590,Martani,Widiastuti,Male,1972-09-10,gputra@example.net,(0066) 676 8384,Medan,Sumatera Utara,Gold,Loyal,2024-03-31,False
+591,CUS000591,Jail,Suartini,Male,2007-12-24,latika05@example.com,(0383) 396-3544,Denpasar,Bali,Bronze,New,2024-08-13,True
+592,CUS000592,Edison,Saefullah,Male,2006-05-20,dharyanto@example.com,(0341) 856-2963,Semarang,Jawa Tengah,Bronze,Loyal,2026-07-09,False
+593,CUS000593,Irwan,Kusumo,Male,1988-04-28,muhammadthamrin@example.org,+62 (82) 115-0766,Medan,Sumatera Utara,Bronze,New,2025-12-15,True
+594,CUS000594,Umaya,Suartini,Male,1978-10-07,prasetyoimam@example.org,(091) 772-5497,Medan,Sumatera Utara,Silver,Loyal,2025-07-31,True
+595,CUS000595,Sabri,Napitupulu,Female,1998-08-18,tami82@example.net,0803037150,Semarang,Jawa Tengah,Bronze,Loyal,2023-09-09,True
+596,CUS000596,Faizah,Simanjuntak,Male,2000-04-14,hmulyani@example.org,+62 (021) 185 6169,Medan,Sumatera Utara,Silver,New,2026-01-25,True
+597,CUS000597,Dirja,Samosir,Male,1967-11-15,wsimbolon@example.net,+62-825-213-9377,Bandung,Jawa Barat,Gold,Regular,2026-04-12,False
+598,CUS000598,Saka,Ardianto,Female,1982-02-22,wage34@example.net,+62-239-070-1626,Denpasar,Bali,Bronze,Loyal,2025-06-14,True
+599,CUS000599,Opan,Hastuti,Male,1968-05-23,hidayatkamaria@example.com,088 591 7456,Makassar,Sulawesi Selatan,Silver,Regular,2025-08-23,True
+600,CUS000600,Ajiman,Mahendra,Female,1982-03-06,eka88@example.com,(0389) 016-0411,Denpasar,Bali,Silver,Loyal,2026-04-26,False
+601,CUS000601,Cawisono,Winarno,Female,1992-01-17,susantikayun@example.net,+62 (0030) 127 6043,Makassar,Sulawesi Selatan,Silver,Regular,2025-04-12,False
+602,CUS000602,Hasan,Laksmiwati,Male,1979-04-19,zulkarnaindina@example.net,+62 (0463) 577 8660,Medan,Sumatera Utara,Silver,Regular,2026-07-14,True
+603,CUS000603,Prayitna,Purwanti,Female,1996-08-09,wulandariemin@example.net,+62 (0070) 161 3642,Yogyakarta,DI Yogyakarta,Bronze,VIP,2025-10-01,False
+604,CUS000604,Nadine,Zulkarnain,Female,2006-05-23,lmarpaung@example.com,+62-058-324-5798,Medan,Sumatera Utara,Silver,Regular,2024-02-11,True
+605,CUS000605,Alika,Simbolon,Female,1962-03-03,kusumawaskita@example.org,+62 (032) 983-6379,Surabaya,Jawa Timur,Bronze,New,2025-03-03,True
+606,CUS000606,Cemeti,Saptono,Female,1979-03-15,lmegantara@example.net,+62 (604) 956 7868,Makassar,Sulawesi Selatan,Gold,Regular,2024-05-20,True
+607,CUS000607,Aslijan,Saefullah,Female,1979-11-25,rosman92@example.org,(0424) 317 1506,Surabaya,Jawa Timur,Gold,Regular,2025-07-04,True
+608,CUS000608,Garang,Kuswoyo,Male,1977-05-26,bala33@example.net,+62-034-667-2852,Semarang,Jawa Tengah,Bronze,Regular,2025-09-10,True
+609,CUS000609,Mulya,Permadi,Female,2000-10-15,ajimin45@example.com,+62-0963-063-6817,Semarang,Jawa Tengah,Bronze,Loyal,2026-07-22,True
+610,CUS000610,Vinsen,Nababan,Male,1964-03-27,daryani57@example.com,+62 (087) 016 6849,Bandung,Jawa Barat,Silver,Loyal,2023-10-29,True
+611,CUS000611,Balijan,Thamrin,Male,1993-06-30,enamaga@example.com,089 293 1801,Medan,Sumatera Utara,Bronze,Loyal,2024-07-08,True
+612,CUS000612,Ajimin,Susanti,Female,1999-06-28,calista16@example.net,+62 (021) 277 2465,Surabaya,Jawa Timur,Bronze,New,2024-03-01,True
+613,CUS000613,Danu,Usada,Male,1996-06-24,nababanalika@example.org,+62-023-011-9366,Makassar,Sulawesi Selatan,Platinum,Loyal,2026-07-14,True
+614,CUS000614,Heru,Waluyo,Male,1986-09-06,najib28@example.org,(084) 819-9644,Semarang,Jawa Tengah,Silver,Regular,2023-10-04,True
+615,CUS000615,Hasim,Megantara,Female,1977-12-18,diahsuryatmi@example.net,+62-040-471-4211,Bandung,Jawa Barat,Silver,Loyal,2024-09-11,True
+616,CUS000616,Eman,Melani,Male,1960-12-11,ekawijayanti@example.org,+62 (93) 658 7812,Jakarta,DKI Jakarta,Bronze,New,2025-06-03,True
+617,CUS000617,Aswani,Manullang,Female,1961-08-08,queen60@example.com,+62 (52) 271 8797,Medan,Sumatera Utara,Gold,Regular,2026-05-05,True
+618,CUS000618,Mitra,Oktaviani,Female,1992-01-27,nababangalih@example.org,+62-0461-393-9868,Yogyakarta,DI Yogyakarta,Silver,New,2026-06-12,False
+619,CUS000619,Banawa,Wibisono,Female,1999-06-17,anggabayahidayat@example.com,+62-392-656-9580,Semarang,Jawa Tengah,Gold,Loyal,2026-04-15,True
+620,CUS000620,Rendy,Hartati,Female,1972-12-19,yessisetiawan@example.org,+62 (952) 670 9046,Bandung,Jawa Barat,Platinum,Regular,2026-07-03,True
+621,CUS000621,Jono,Rahmawati,Male,1994-03-16,pandu87@example.com,(0207) 784-2016,Bandung,Jawa Barat,Platinum,Regular,2025-11-25,True
+622,CUS000622,Putri,Halimah,Female,1976-05-24,mutia96@example.com,0895059068,Bandung,Jawa Barat,Silver,Regular,2025-09-01,True
+623,CUS000623,Nugraha,Prasasta,Female,1998-10-22,budiyantocapa@example.com,(084) 448 5071,Semarang,Jawa Tengah,Platinum,VIP,2025-12-02,True
+624,CUS000624,Gaman,Sitompul,Male,1981-09-20,egapalastri@example.net,+62 (0396) 082 9902,Bandung,Jawa Barat,Bronze,Regular,2024-04-02,True
+625,CUS000625,Ciaobella,Kusmawati,Female,1970-04-04,saiful95@example.net,(0231) 886-2961,Makassar,Sulawesi Selatan,Bronze,Regular,2026-06-09,True
+626,CUS000626,Nadia,Gunarto,Male,1970-10-15,gsiregar@example.net,(072) 213-4340,Surabaya,Jawa Timur,Bronze,Loyal,2026-03-10,True
+627,CUS000627,Among,Saragih,Female,1980-08-24,cinthia31@example.org,+62-038-253-4733,Jakarta,DKI Jakarta,Silver,Loyal,2024-06-16,True
+628,CUS000628,Yono,Wahyuni,Female,1974-12-18,upuspita@example.com,0802988152,Yogyakarta,DI Yogyakarta,Gold,Loyal,2026-03-14,False
+629,CUS000629,Cornelia,Megantara,Male,1981-10-13,cahyozulaika@example.org,+62 (83) 879 4654,Makassar,Sulawesi Selatan,Platinum,New,2025-01-30,True
+630,CUS000630,Kambali,Nainggolan,Female,1967-05-01,hyuliarti@example.net,+62-068-702-3251,Makassar,Sulawesi Selatan,Gold,Regular,2023-09-28,True
+631,CUS000631,Mulya,Mahendra,Male,1975-05-20,galuh73@example.net,0846487109,Makassar,Sulawesi Selatan,Bronze,Loyal,2026-02-08,True
+632,CUS000632,Marsudi,Hartati,Female,1978-07-31,purwantimila@example.org,087 817 4087,Jakarta,DKI Jakarta,Gold,Regular,2025-04-01,True
+633,CUS000633,Martaka,Januar,Female,1970-10-28,ramaprabowo@example.org,+62-0804-184-7501,Denpasar,Bali,Silver,Loyal,2023-11-08,True
+634,CUS000634,Daniswara,Waskita,Male,1988-08-26,wasitarachel@example.com,+62-624-953-9151,Medan,Sumatera Utara,Bronze,Regular,2024-01-08,True
+635,CUS000635,Parman,Januar,Female,1991-01-18,pudjiastutiemong@example.org,(059) 956-8282,Makassar,Sulawesi Selatan,Bronze,Regular,2025-02-27,True
+636,CUS000636,Cahyo,Kurniawan,Female,2000-06-29,pmanullang@example.org,(0800) 290 1636,Jakarta,DKI Jakarta,Silver,Regular,2025-05-10,False
+637,CUS000637,Ganep,Padmasari,Male,1997-11-07,fsuryatmi@example.net,(0310) 653 2881,Medan,Sumatera Utara,Silver,Regular,2025-09-12,True
+638,CUS000638,Luhung,Nuraini,Male,1974-03-30,pmanullang@example.net,+62 (0222) 726 2806,Makassar,Sulawesi Selatan,Silver,VIP,2023-09-22,True
+639,CUS000639,Bakidin,Wijayanti,Female,1974-03-15,mahendraomar@example.net,+62 (291) 256 3529,Makassar,Sulawesi Selatan,Silver,New,2025-10-02,True
+640,CUS000640,Among,Pratiwi,Male,1971-04-19,embuh09@example.com,+62-0474-166-7646,Surabaya,Jawa Timur,Gold,Loyal,2026-05-09,True
+641,CUS000641,Martaka,Pradana,Male,1973-04-19,cahyono70@example.com,(014) 103 7873,Makassar,Sulawesi Selatan,Bronze,Regular,2025-11-04,True
+642,CUS000642,Jarwadi,Kusumo,Male,1962-07-11,budimanyusuf@example.com,(071) 244-0038,Makassar,Sulawesi Selatan,Silver,Regular,2025-06-29,True
+643,CUS000643,Dewi,Rahimah,Male,2005-07-18,vanyamayasari@example.com,0811539348,Surabaya,Jawa Timur,Bronze,VIP,2026-03-25,False
+644,CUS000644,Catur,Siregar,Female,1966-07-24,rahayumahendra@example.net,+62 (416) 984 3966,Jakarta,DKI Jakarta,Gold,Loyal,2026-07-18,True
+645,CUS000645,Hasim,Najmudin,Female,1993-07-06,rahayupurwanto@example.org,086 739 3811,Denpasar,Bali,Bronze,Regular,2024-10-29,False
+646,CUS000646,Joko,Oktaviani,Male,1995-10-08,gunartodimaz@example.com,+62 (013) 399 5913,Jakarta,DKI Jakarta,Platinum,New,2025-12-01,True
+647,CUS000647,Cornelia,Usamah,Female,1999-03-13,qdongoran@example.com,+62 (067) 653-9051,Semarang,Jawa Tengah,Silver,Regular,2023-09-16,False
+648,CUS000648,Laila,Halim,Male,1962-06-20,raisapudjiastuti@example.com,(099) 657 9906,Semarang,Jawa Tengah,Bronze,New,2025-08-16,True
+649,CUS000649,Galar,Dabukke,Male,1989-02-14,prabawa32@example.net,+62 (41) 459-3856,Surabaya,Jawa Timur,Silver,Loyal,2024-10-08,True
+650,CUS000650,Satya,Rahmawati,Male,1987-10-05,edisonmayasari@example.org,+62-0854-812-0189,Makassar,Sulawesi Selatan,Gold,Loyal,2026-06-14,True
+651,CUS000651,Viktor,Wulandari,Female,1961-04-20,haryantorafid@example.org,+62-612-033-5001,Makassar,Sulawesi Selatan,Bronze,Regular,2024-01-05,True
+652,CUS000652,Olga,Dongoran,Male,2000-12-05,ramahutapea@example.com,(0017) 601-3052,Yogyakarta,DI Yogyakarta,Gold,New,2024-07-16,True
+653,CUS000653,Luis,Gunawan,Female,2005-04-21,darijan72@example.org,+62 (0946) 528-3699,Surabaya,Jawa Timur,Bronze,Regular,2025-11-12,False
+654,CUS000654,Tugiman,Wahyudin,Female,2003-11-10,primaoktaviani@example.net,+62 (0714) 108-0310,Surabaya,Jawa Timur,Silver,VIP,2025-06-05,True
+655,CUS000655,Cemani,Sirait,Female,1994-12-13,emanullang@example.net,+62 (013) 336-9982,Bandung,Jawa Barat,Bronze,New,2025-02-17,False
+656,CUS000656,Radika,Kusumo,Female,1963-10-24,suryonomumpuni@example.net,+62-0207-776-8601,Yogyakarta,DI Yogyakarta,Gold,Regular,2025-07-16,True
+657,CUS000657,Warta,Astuti,Female,1988-09-21,jais16@example.org,+62 (204) 705 7730,Denpasar,Bali,Bronze,Loyal,2024-08-15,True
+658,CUS000658,Bakianto,Nababan,Male,1964-05-04,primamarbun@example.org,+62 (083) 838 5985,Yogyakarta,DI Yogyakarta,Platinum,Regular,2026-07-07,False
+659,CUS000659,Harsaya,Setiawan,Female,2001-11-20,bmandasari@example.org,+62 (048) 283-7848,Medan,Sumatera Utara,Bronze,Regular,2026-04-24,False
+660,CUS000660,Calista,Wijayanti,Male,1983-08-16,upadmasari@example.org,(0442) 200-5059,Surabaya,Jawa Timur,Platinum,VIP,2024-01-08,True
+661,CUS000661,Sakti,Mandasari,Female,1994-11-11,prakasareksa@example.com,088 348 0956,Surabaya,Jawa Timur,Bronze,Loyal,2023-10-29,True
+662,CUS000662,Danu,Hakim,Male,1975-07-15,puji13@example.org,+62-0522-916-9571,Yogyakarta,DI Yogyakarta,Bronze,New,2026-03-20,False
+663,CUS000663,Dian,Rajata,Female,1969-08-16,iramadan@example.net,+62 (0423) 013-1481,Makassar,Sulawesi Selatan,Bronze,Loyal,2025-01-27,True
+664,CUS000664,Imam,Sitorus,Male,1997-05-26,yuliantiozy@example.net,+62 (49) 735-3490,Jakarta,DKI Jakarta,Bronze,Loyal,2023-09-21,True
+665,CUS000665,Garang,Usamah,Male,1969-08-08,aprasasta@example.org,+62-270-570-2743,Makassar,Sulawesi Selatan,Bronze,Loyal,2025-11-08,True
+666,CUS000666,Adika,Nuraini,Female,1990-06-22,upermadi@example.org,+62-995-826-5062,Surabaya,Jawa Timur,Gold,Loyal,2024-02-11,True
+667,CUS000667,Dalima,Mangunsong,Female,1975-08-03,haryantogading@example.org,+62 (831) 959-5215,Yogyakarta,DI Yogyakarta,Silver,Loyal,2025-12-13,False
+668,CUS000668,Cahyono,Hartati,Male,1975-03-13,sfirmansyah@example.com,+62-555-171-3774,Yogyakarta,DI Yogyakarta,Bronze,Regular,2024-02-13,False
+669,CUS000669,Cahyanto,Laksmiwati,Male,1966-09-29,nasyiahjabal@example.net,+62 (028) 977 3830,Semarang,Jawa Tengah,Bronze,Loyal,2026-05-11,False
+670,CUS000670,Agus,Kusmawati,Male,1979-11-18,muhammad63@example.net,+62-65-954-2057,Semarang,Jawa Tengah,Silver,Loyal,2026-07-02,True
+671,CUS000671,Among,Pangestu,Male,1967-12-15,lantar44@example.org,+62-42-144-2553,Jakarta,DKI Jakarta,Bronze,Loyal,2024-01-18,True
+672,CUS000672,Intan,Salahudin,Male,1975-01-15,najwa64@example.com,(071) 278 5730,Denpasar,Bali,Bronze,Regular,2023-10-16,False
+673,CUS000673,Prabu,Puspita,Male,1994-08-18,zahradongoran@example.com,+62 (06) 330-3715,Bandung,Jawa Barat,Bronze,Regular,2024-08-03,True
+674,CUS000674,Puput,Farida,Male,1994-06-15,makuta70@example.org,(0797) 415 9069,Surabaya,Jawa Timur,Bronze,New,2025-08-18,False
+675,CUS000675,Tania,Wijayanti,Male,1991-05-19,hsitompul@example.org,+62-54-601-4940,Bandung,Jawa Barat,Silver,Regular,2023-09-19,False
+676,CUS000676,Pranata,Purwanti,Male,1965-05-17,mustofarini@example.net,+62 (98) 136-2432,Medan,Sumatera Utara,Gold,Regular,2024-01-30,False
+677,CUS000677,Saadat,Winarno,Male,2003-09-24,thamrinmartaka@example.net,+62-04-017-5396,Denpasar,Bali,Bronze,Regular,2025-12-30,False
+678,CUS000678,Nabila,Pranowo,Male,1969-12-07,bakti22@example.com,(018) 212-1173,Semarang,Jawa Tengah,Silver,Regular,2025-10-16,False
+679,CUS000679,Mutia,Susanti,Female,1993-03-17,ohutagalung@example.com,+62 (007) 432 2958,Yogyakarta,DI Yogyakarta,Platinum,VIP,2024-12-29,True
+680,CUS000680,Ratih,Mustofa,Male,2007-07-17,permaditaswir@example.org,+62 (673) 777 5098,Denpasar,Bali,Silver,Regular,2024-05-02,True
+681,CUS000681,Artanto,Ardianto,Male,1990-12-16,wasitabetania@example.com,+62-260-899-8522,Makassar,Sulawesi Selatan,Silver,VIP,2024-03-08,False
+682,CUS000682,Karja,Pratama,Female,1976-08-19,teddybudiyanto@example.com,+62 (002) 933-8392,Denpasar,Bali,Silver,New,2024-06-07,True
+683,CUS000683,Kawaca,Irawan,Male,1975-11-11,prastutienteng@example.com,+62 (44) 897-2286,Medan,Sumatera Utara,Silver,VIP,2025-12-10,False
+684,CUS000684,Alika,Nugroho,Male,1962-03-25,mandalabaktianto@example.org,+62-038-955-0823,Yogyakarta,DI Yogyakarta,Silver,Regular,2026-03-14,True
+685,CUS000685,Cinta,Nugroho,Female,1981-05-17,kunthara41@example.org,+62 (66) 132 1592,Denpasar,Bali,Bronze,Loyal,2025-06-27,True
+686,CUS000686,Kariman,Namaga,Female,1975-03-30,danangkuswoyo@example.net,+62-156-494-1613,Yogyakarta,DI Yogyakarta,Platinum,Loyal,2025-08-08,True
+687,CUS000687,Limar,Jailani,Female,1993-02-21,bsihotang@example.org,+62 (564) 629-5577,Yogyakarta,DI Yogyakarta,Silver,VIP,2024-03-11,True
+688,CUS000688,Karna,Prasetya,Male,1987-03-07,lasmantodongoran@example.net,(007) 974 3504,Bandung,Jawa Barat,Bronze,Regular,2023-12-30,True
+689,CUS000689,Wardi,Rajata,Female,1996-10-07,yuliantioskar@example.com,+62-064-456-4371,Bandung,Jawa Barat,Bronze,Loyal,2024-02-21,True
+690,CUS000690,Gangsar,Wibisono,Male,2000-08-11,hastutiyuni@example.org,+62 (793) 712-3375,Denpasar,Bali,Platinum,VIP,2026-03-12,False
+691,CUS000691,Vino,Mandasari,Female,2004-06-18,caturanggahabibi@example.net,(0734) 940 3903,Makassar,Sulawesi Selatan,Bronze,Loyal,2025-06-25,False
+692,CUS000692,Dadi,Haryanti,Male,1970-11-26,latuponohardana@example.org,0885082742,Bandung,Jawa Barat,Bronze,Regular,2024-04-13,False
+693,CUS000693,Xanana,Simanjuntak,Female,1970-02-05,adhiarjausada@example.net,(050) 378-1305,Surabaya,Jawa Timur,Bronze,Regular,2024-03-20,True
+694,CUS000694,Pangestu,Tampubolon,Male,1966-11-05,lukmaniswahyudi@example.com,+62-081-761-8680,Medan,Sumatera Utara,Gold,Loyal,2024-07-06,True
+695,CUS000695,Lasmanto,Nasyiah,Male,1974-04-07,megantaradipa@example.net,+62 (0512) 761 1493,Jakarta,DKI Jakarta,Bronze,Regular,2025-09-06,True
+696,CUS000696,Adiarja,Nababan,Male,1969-05-17,melanigaduh@example.org,+62 (726) 534-4936,Semarang,Jawa Tengah,Gold,Regular,2026-04-14,False
+697,CUS000697,Heryanto,Pudjiastuti,Male,1967-10-07,saputradaliono@example.com,086 608 4061,Medan,Sumatera Utara,Bronze,Regular,2026-03-17,True
+698,CUS000698,Cemeti,Siregar,Male,2001-12-07,raden16@example.org,+62 (556) 247-5491,Medan,Sumatera Utara,Silver,New,2025-02-27,True
+699,CUS000699,Ani,Laksita,Female,1971-05-28,cdabukke@example.org,086 475 4073,Surabaya,Jawa Timur,Silver,VIP,2026-07-08,True
+700,CUS000700,Maida,Nasyidah,Female,1999-06-28,ramadanoliva@example.com,+62-45-491-1089,Semarang,Jawa Tengah,Bronze,Regular,2023-11-06,True
+701,CUS000701,Wira,Widiastuti,Male,1964-07-12,hsiregar@example.net,(0845) 483 2778,Medan,Sumatera Utara,Gold,New,2025-09-29,True
+702,CUS000702,Gandi,Novitasari,Female,1971-03-02,vega89@example.org,(041) 415-0477,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2024-07-10,True
+703,CUS000703,Kiandra,Puspasari,Female,1988-04-19,tampubolontirta@example.org,+62 (0103) 052-9396,Denpasar,Bali,Gold,Regular,2025-08-13,True
+704,CUS000704,Oliva,Wibowo,Male,2006-12-30,agustinazahra@example.org,+62 (056) 156-9323,Makassar,Sulawesi Selatan,Silver,Loyal,2025-06-29,True
+705,CUS000705,Argono,Puspita,Male,1983-05-28,nurdiyantikawaca@example.org,+62 (453) 247-3953,Makassar,Sulawesi Selatan,Silver,Regular,2025-01-26,True
+706,CUS000706,Garda,Pudjiastuti,Female,2006-03-21,darmaji69@example.net,+62 (42) 782-7249,Yogyakarta,DI Yogyakarta,Gold,VIP,2024-11-11,False
+707,CUS000707,Maryadi,Wahyudin,Female,1972-04-08,rsalahudin@example.org,+62-0253-267-6386,Medan,Sumatera Utara,Silver,Regular,2024-09-24,True
+708,CUS000708,Adiarja,Suryono,Female,1997-12-17,prasastaade@example.net,(026) 411-8395,Denpasar,Bali,Silver,New,2024-03-05,False
+709,CUS000709,Gamani,Namaga,Male,1982-06-05,yuliantirini@example.net,+62-039-623-3801,Bandung,Jawa Barat,Silver,New,2025-08-01,True
+710,CUS000710,Ira,Andriani,Male,1976-11-06,okta30@example.com,(0441) 726 4232,Denpasar,Bali,Bronze,Loyal,2024-11-29,False
+711,CUS000711,Rina,Wijayanti,Female,2006-11-02,jdamanik@example.com,(095) 842-9229,Surabaya,Jawa Timur,Silver,New,2025-03-21,True
+712,CUS000712,Viktor,Astuti,Male,1967-06-24,hassanahqori@example.com,(050) 217-5319,Yogyakarta,DI Yogyakarta,Silver,VIP,2023-12-02,True
+713,CUS000713,Radit,Hariyah,Female,1987-01-20,sihotanglaksana@example.net,083 174 6500,Medan,Sumatera Utara,Bronze,Regular,2025-04-15,True
+714,CUS000714,Hani,Situmorang,Female,1999-04-16,nasyiahmulya@example.org,+62 (049) 181 8946,Surabaya,Jawa Timur,Silver,New,2025-06-13,True
+715,CUS000715,Emin,Jailani,Female,1974-08-02,permadiulva@example.com,(030) 626-2390,Semarang,Jawa Tengah,Bronze,VIP,2026-03-22,True
+716,CUS000716,Wakiman,Samosir,Female,2008-01-27,firgantorocaraka@example.net,+62 (61) 414 0837,Surabaya,Jawa Timur,Bronze,New,2024-07-06,True
+717,CUS000717,Bakiadi,Pangestu,Female,2002-04-09,thamrinokto@example.com,+62 (54) 280 1169,Bandung,Jawa Barat,Silver,New,2023-10-17,True
+718,CUS000718,Endra,Adriansyah,Female,1977-02-21,cahyo19@example.net,(063) 427 2357,Denpasar,Bali,Gold,Regular,2024-07-08,True
+719,CUS000719,Gamblang,Lailasari,Female,2005-08-16,lukman22@example.org,+62 (0270) 843 3976,Semarang,Jawa Tengah,Silver,Regular,2023-10-01,False
+720,CUS000720,Sari,Melani,Female,1976-03-05,fpradipta@example.net,+62 (06) 338 8416,Makassar,Sulawesi Selatan,Silver,Regular,2023-08-24,True
+721,CUS000721,Ana,Sihotang,Female,1991-03-22,purwadi18@example.com,+62 (0941) 685 3220,Makassar,Sulawesi Selatan,Gold,New,2025-11-05,True
+722,CUS000722,Hendri,Gunarto,Female,1967-04-10,langgeng93@example.org,+62 (79) 979-8330,Semarang,Jawa Tengah,Bronze,VIP,2023-09-05,False
+723,CUS000723,Gangsar,Maryadi,Male,1971-03-02,wnainggolan@example.org,+62 (50) 957 1221,Makassar,Sulawesi Selatan,Bronze,New,2023-11-05,True
+724,CUS000724,Juli,Habibi,Female,1964-07-16,ami60@example.org,088 231 4621,Medan,Sumatera Utara,Silver,New,2023-12-10,True
+725,CUS000725,Wira,Purwanti,Male,1996-10-09,fitriani45@example.org,+62-46-986-5437,Jakarta,DKI Jakarta,Bronze,Loyal,2024-07-20,True
+726,CUS000726,Bagas,Wacana,Male,1977-09-23,usadavera@example.com,(046) 000-4189,Surabaya,Jawa Timur,Bronze,Regular,2026-03-10,True
+727,CUS000727,Gading,Kuswandari,Female,1980-03-08,eja29@example.com,+62 (0153) 213-8514,Medan,Sumatera Utara,Bronze,Regular,2025-09-20,False
+728,CUS000728,Karya,Utami,Female,1981-03-01,perkasa89@example.com,+62 (059) 057 9486,Denpasar,Bali,Bronze,Loyal,2024-05-21,True
+729,CUS000729,Karma,Waskita,Female,1995-11-03,epradana@example.org,(099) 110-2083,Semarang,Jawa Tengah,Bronze,Loyal,2026-03-25,False
+730,CUS000730,Emas,Nababan,Male,1985-03-06,anggrainishakila@example.com,(0254) 925-2275,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2024-09-26,True
+731,CUS000731,Mahfud,Melani,Male,1972-01-22,haryantirosman@example.org,+62 (082) 214-8031,Yogyakarta,DI Yogyakarta,Bronze,VIP,2025-11-24,True
+732,CUS000732,Rusman,Santoso,Male,2003-10-28,hasanahkarna@example.org,(062) 562-7016,Bandung,Jawa Barat,Gold,Regular,2025-08-26,True
+733,CUS000733,Umar,Uwais,Female,1968-04-16,maman42@example.org,+62-48-051-8852,Jakarta,DKI Jakarta,Gold,VIP,2024-08-07,True
+734,CUS000734,Langgeng,Farida,Female,1992-01-10,hrahayu@example.com,+62-0486-947-9156,Semarang,Jawa Tengah,Platinum,Loyal,2025-03-27,True
+735,CUS000735,Harja,Mandasari,Male,1996-02-13,yonohabibi@example.net,+62 (0855) 777-1148,Yogyakarta,DI Yogyakarta,Silver,New,2026-03-28,False
+736,CUS000736,Kunthara,Budiman,Female,1986-03-25,darijansamosir@example.org,+62 (083) 091 6499,Makassar,Sulawesi Selatan,Gold,Loyal,2025-06-17,True
+737,CUS000737,Puti,Oktaviani,Female,1993-03-26,adityazulaika@example.net,0831231084,Makassar,Sulawesi Selatan,Silver,New,2025-01-04,True
+738,CUS000738,Teddy,Fujiati,Female,1999-07-11,limankusumo@example.net,+62 (669) 381-9811,Yogyakarta,DI Yogyakarta,Gold,Loyal,2025-11-10,True
+739,CUS000739,Hana,Budiman,Female,2005-12-02,agnes79@example.net,(049) 125-2315,Yogyakarta,DI Yogyakarta,Gold,New,2026-04-16,False
+740,CUS000740,Cahyadi,Dongoran,Male,1966-03-10,lintang00@example.org,+62 (775) 167 8879,Denpasar,Bali,Bronze,Loyal,2025-01-27,True
+741,CUS000741,Putri,Melani,Female,1966-01-06,gangsar56@example.net,0840079732,Jakarta,DKI Jakarta,Gold,New,2025-05-13,True
+742,CUS000742,Lidya,Hutagalung,Female,1992-11-12,utamapuspita@example.net,+62 (940) 255-9603,Makassar,Sulawesi Selatan,Bronze,New,2024-06-22,False
+743,CUS000743,Ani,Thamrin,Female,1991-07-05,eminsihombing@example.net,080 074 2514,Surabaya,Jawa Timur,Silver,New,2026-05-25,True
+744,CUS000744,Paiman,Iswahyudi,Male,1988-01-04,carlamayasari@example.net,+62 (0320) 013 2589,Jakarta,DKI Jakarta,Bronze,Regular,2025-05-16,True
+745,CUS000745,Usyi,Hartati,Female,1994-05-07,paryani@example.net,(0504) 547-8115,Semarang,Jawa Tengah,Gold,New,2024-06-09,True
+746,CUS000746,Karman,Mayasari,Male,1985-07-21,tirtayasa84@example.org,+62 (494) 237-9154,Makassar,Sulawesi Selatan,Silver,Regular,2023-11-16,True
+747,CUS000747,Fitriani,Yulianti,Male,2006-11-15,dmansur@example.com,+62 (066) 969 8853,Makassar,Sulawesi Selatan,Gold,Loyal,2024-01-18,True
+748,CUS000748,Mila,Salahudin,Male,1981-04-05,fathonahsudiati@example.org,(0338) 857 0249,Makassar,Sulawesi Selatan,Bronze,Regular,2024-04-22,True
+749,CUS000749,Sadina,Prakasa,Female,1985-12-07,tambacalista@example.net,+62 (0393) 695 6757,Medan,Sumatera Utara,Silver,Regular,2025-09-23,False
+750,CUS000750,Lantar,Pranowo,Female,1960-12-18,intan77@example.com,+62 (927) 479 9355,Makassar,Sulawesi Selatan,Gold,Regular,2024-04-01,True
+751,CUS000751,Manah,Maryadi,Female,1980-04-16,prabowohartaka@example.com,+62 (738) 078-8418,Semarang,Jawa Tengah,Silver,Regular,2025-11-08,True
+752,CUS000752,Icha,Pradana,Male,2006-11-20,ysuartini@example.org,+62 (0402) 991-9681,Makassar,Sulawesi Selatan,Bronze,Regular,2025-04-18,True
+753,CUS000753,Lidya,Wibowo,Female,1993-11-13,janebudiyanto@example.net,+62 (017) 101-6265,Medan,Sumatera Utara,Bronze,Loyal,2026-04-12,True
+754,CUS000754,Dadap,Pratama,Male,1972-08-28,belinda82@example.net,+62 (699) 673 6806,Medan,Sumatera Utara,Bronze,Loyal,2024-02-21,True
+755,CUS000755,Najwa,Gunarto,Male,1989-07-28,vwaluyo@example.net,(045) 483 5112,Semarang,Jawa Tengah,Bronze,Regular,2025-07-14,True
+756,CUS000756,Syahrini,Padmasari,Female,1975-03-11,adikasetiawan@example.org,+62 (646) 674-5357,Denpasar,Bali,Silver,Regular,2025-09-13,True
+757,CUS000757,Zelda,Oktaviani,Male,1972-09-09,saptonobakianto@example.com,+62 (041) 013 9477,Makassar,Sulawesi Selatan,Silver,Regular,2023-10-16,False
+758,CUS000758,Kardi,Megantara,Female,1988-08-11,tiralestari@example.org,+62 (48) 390-0379,Yogyakarta,DI Yogyakarta,Bronze,Regular,2024-05-16,False
+759,CUS000759,Candra,Najmudin,Male,1979-01-13,irahimah@example.org,(0041) 466-7302,Medan,Sumatera Utara,Bronze,Regular,2025-06-26,True
+760,CUS000760,Titin,Waskita,Female,1966-01-04,cnuraini@example.com,+62-008-802-0839,Surabaya,Jawa Timur,Gold,Regular,2024-10-27,False
+761,CUS000761,Harimurti,Pudjiastuti,Female,1987-01-28,prasetyoasirwada@example.com,+62 (241) 062-0897,Bandung,Jawa Barat,Silver,Loyal,2026-02-20,False
+762,CUS000762,Maryadi,Prasetyo,Male,2006-05-08,dodo74@example.net,+62-422-930-2080,Surabaya,Jawa Timur,Gold,New,2026-06-29,True
+763,CUS000763,Cengkir,Nurdiyanti,Female,1966-08-19,pwahyudin@example.net,+62-71-717-4220,Denpasar,Bali,Silver,Regular,2023-08-30,False
+764,CUS000764,Sari,Pratiwi,Male,1967-04-03,sihotangjaeman@example.net,+62 (072) 559 9207,Bandung,Jawa Barat,Silver,Loyal,2026-03-15,True
+765,CUS000765,Ratna,Kuswandari,Female,2005-10-09,budimanenteng@example.net,081 580 1198,Jakarta,DKI Jakarta,Silver,Regular,2024-12-24,True
+766,CUS000766,Cemani,Nainggolan,Male,1984-02-28,mgunawan@example.net,+62 (305) 979-0401,Jakarta,DKI Jakarta,Bronze,New,2024-03-22,True
+767,CUS000767,Pangeran,Novitasari,Male,1988-07-21,hmardhiyah@example.net,+62-0244-558-7645,Yogyakarta,DI Yogyakarta,Silver,New,2023-09-01,False
+768,CUS000768,Niyaga,Hassanah,Female,2008-02-24,fujiatirafid@example.com,+62 (13) 994-3576,Surabaya,Jawa Timur,Bronze,New,2025-05-25,True
+769,CUS000769,Gada,Pratama,Male,1968-06-17,harsantonababan@example.org,(067) 183 6935,Yogyakarta,DI Yogyakarta,Gold,Regular,2026-01-13,True
+770,CUS000770,Gaiman,Hassanah,Male,1993-03-04,maryantonamaga@example.org,0812510170,Makassar,Sulawesi Selatan,Bronze,Loyal,2023-09-15,True
+771,CUS000771,Fitria,Maulana,Male,1982-08-16,restu30@example.com,+62 (025) 810-1603,Medan,Sumatera Utara,Bronze,VIP,2025-05-05,True
+772,CUS000772,Emas,Halimah,Male,1963-06-04,gpuspita@example.com,+62 (27) 052 1338,Bandung,Jawa Barat,Bronze,Regular,2025-08-19,False
+773,CUS000773,Eka,Gunarto,Female,2004-02-19,lutfansihotang@example.com,089 905 4138,Yogyakarta,DI Yogyakarta,Bronze,Regular,2024-10-21,True
+774,CUS000774,Raharja,Habibi,Male,2002-08-08,asirwandauwais@example.net,+62-558-964-7563,Medan,Sumatera Utara,Bronze,Regular,2025-12-14,True
+775,CUS000775,Tantri,Adriansyah,Male,1988-12-28,vuwais@example.org,+62 (47) 484 4886,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2023-09-21,False
+776,CUS000776,Cemplunk,Wahyudin,Male,1961-04-22,agussinaga@example.org,0843019819,Bandung,Jawa Barat,Silver,Loyal,2026-07-10,False
+777,CUS000777,Eja,Puspita,Female,1971-10-25,budimanulya@example.com,+62-896-758-9648,Denpasar,Bali,Platinum,VIP,2025-07-29,True
+778,CUS000778,Cahyanto,Maryati,Female,1977-12-22,siregarcakrabirawa@example.com,+62 (44) 546 7119,Bandung,Jawa Barat,Gold,New,2026-05-04,True
+779,CUS000779,Jamal,Ramadan,Female,1985-04-17,asmunimandala@example.org,+62 (021) 477-2405,Yogyakarta,DI Yogyakarta,Platinum,VIP,2025-05-26,False
+780,CUS000780,Darman,Winarsih,Male,1978-06-06,asafitri@example.org,+62 (043) 503-6543,Yogyakarta,DI Yogyakarta,Silver,Loyal,2024-08-23,True
+781,CUS000781,Sidiq,Pratiwi,Male,1974-03-10,harto14@example.net,088 326 9054,Denpasar,Bali,Bronze,Loyal,2026-02-23,True
+782,CUS000782,Wisnu,Riyanti,Female,1996-04-03,haninasyidah@example.com,(093) 488 0393,Semarang,Jawa Tengah,Bronze,Loyal,2024-01-06,True
+783,CUS000783,Ratih,Yolanda,Male,1971-03-25,dacin42@example.org,+62 (37) 553-9928,Jakarta,DKI Jakarta,Bronze,New,2025-07-11,True
+784,CUS000784,Emil,Maryadi,Male,1964-03-05,iwahyudin@example.net,+62 (123) 177-5779,Surabaya,Jawa Timur,Gold,VIP,2025-11-22,False
+785,CUS000785,Nasim,Uwais,Male,1968-07-04,harjasausada@example.net,(0308) 107-0287,Denpasar,Bali,Silver,Regular,2026-07-24,True
+786,CUS000786,Cecep,Prasetya,Male,1974-11-06,habibipangeran@example.com,+62 (73) 871-8237,Medan,Sumatera Utara,Bronze,Regular,2026-03-19,True
+787,CUS000787,Kenari,Budiman,Female,1971-06-17,safitrinadine@example.org,+62 (59) 891-6463,Medan,Sumatera Utara,Gold,Regular,2024-10-27,True
+788,CUS000788,Bahuwarna,Sitompul,Male,1976-07-15,miswahyudi@example.net,+62 (58) 386-1008,Jakarta,DKI Jakarta,Gold,New,2024-11-28,False
+789,CUS000789,Harto,Maryadi,Male,1990-11-11,gambira26@example.net,+62-0222-492-8186,Semarang,Jawa Tengah,Bronze,Regular,2025-11-09,True
+790,CUS000790,Laswi,Maulana,Female,1981-05-06,bahuraksa04@example.org,0844745503,Jakarta,DKI Jakarta,Silver,VIP,2025-08-27,True
+791,CUS000791,Rahmat,Marbun,Female,1985-10-01,zamirasiregar@example.net,(092) 993 6864,Semarang,Jawa Tengah,Bronze,Regular,2023-12-28,False
+792,CUS000792,Banawa,Wijayanti,Female,1983-04-30,ardiantogaman@example.com,(0083) 297 2307,Bandung,Jawa Barat,Gold,Regular,2025-07-20,False
+793,CUS000793,Kartika,Pertiwi,Male,1988-06-13,halimahgara@example.org,+62 (028) 974 5091,Yogyakarta,DI Yogyakarta,Bronze,New,2024-12-25,True
+794,CUS000794,Zulaikha,Widiastuti,Female,1991-04-26,maidasihombing@example.net,(047) 399-8894,Makassar,Sulawesi Selatan,Bronze,Regular,2025-01-05,True
+795,CUS000795,Darmana,Megantara,Male,1989-03-15,ositorus@example.org,+62 (0323) 166 7412,Jakarta,DKI Jakarta,Gold,Regular,2024-10-11,True
+796,CUS000796,Puput,Wahyudin,Male,1995-02-22,cawisadi56@example.com,+62-030-198-0809,Denpasar,Bali,Bronze,New,2025-06-23,False
+797,CUS000797,Maryanto,Prasetya,Male,1976-12-11,opan86@example.net,+62 (038) 364-7190,Yogyakarta,DI Yogyakarta,Silver,Regular,2024-09-30,False
+798,CUS000798,Johan,Saragih,Male,1963-04-10,qmandala@example.net,+62 (0687) 359-9333,Makassar,Sulawesi Selatan,Gold,New,2023-10-31,True
+799,CUS000799,Karma,Winarsih,Female,1991-02-21,kariman69@example.net,(0866) 394-6851,Medan,Sumatera Utara,Silver,Loyal,2025-12-18,False
+800,CUS000800,Bambang,Salahudin,Female,1968-04-27,pradanapuput@example.net,+62-064-184-5547,Medan,Sumatera Utara,Bronze,New,2025-10-19,False
+801,CUS000801,Putu,Laksita,Male,1989-01-26,hutasoitunjani@example.com,+62 (012) 744 2272,Denpasar,Bali,Gold,Regular,2025-01-24,False
+802,CUS000802,Hamzah,Mandala,Male,1962-05-20,kamilanapitupulu@example.net,0899391879,Jakarta,DKI Jakarta,Bronze,Regular,2024-03-02,True
+803,CUS000803,Dirja,Handayani,Female,1974-08-22,qsaputra@example.org,+62 (892) 075 2556,Jakarta,DKI Jakarta,Gold,Loyal,2023-12-26,True
+804,CUS000804,Rizki,Anggraini,Male,1998-07-02,dsusanti@example.org,+62 (0695) 155-6736,Makassar,Sulawesi Selatan,Bronze,New,2025-07-30,False
+805,CUS000805,Gilda,Haryanto,Female,2008-02-07,palastriganep@example.net,+62-015-137-8196,Jakarta,DKI Jakarta,Bronze,Regular,2024-01-17,False
+806,CUS000806,Agus,Maheswara,Male,1966-11-08,viman79@example.com,(0566) 154 2423,Denpasar,Bali,Bronze,Loyal,2024-02-03,True
+807,CUS000807,Harsaya,Narpati,Male,1970-10-28,okuswandari@example.com,(091) 378-9955,Bandung,Jawa Barat,Silver,Loyal,2023-09-01,True
+808,CUS000808,Setya,Kuswoyo,Female,2001-12-05,wmansur@example.net,+62-054-333-3333,Denpasar,Bali,Bronze,Regular,2025-06-16,True
+809,CUS000809,Ani,Haryanto,Female,2006-03-18,ardiantoyuliana@example.org,0854196442,Makassar,Sulawesi Selatan,Gold,Loyal,2025-07-20,True
+810,CUS000810,Kalim,Wulandari,Male,1995-03-02,amahendra@example.org,(0542) 106 2321,Yogyakarta,DI Yogyakarta,Silver,VIP,2026-06-22,True
+811,CUS000811,Jarwadi,Lailasari,Male,1989-10-04,maheswarazizi@example.com,+62-033-788-6216,Jakarta,DKI Jakarta,Gold,Loyal,2024-03-11,True
+812,CUS000812,Arta,Waluyo,Male,1967-10-05,pandriani@example.com,+62 (256) 334-4115,Bandung,Jawa Barat,Bronze,New,2024-07-31,False
+813,CUS000813,Diana,Halimah,Female,1988-10-09,hutapeamakuta@example.net,+62 (018) 432 0768,Medan,Sumatera Utara,Bronze,New,2026-07-13,False
+814,CUS000814,Wisnu,Dongoran,Female,1992-12-18,wawanmahendra@example.com,+62-89-812-7324,Medan,Sumatera Utara,Bronze,New,2024-06-14,True
+815,CUS000815,Anggabaya,Nasyiah,Female,1965-04-28,taryani@example.org,(020) 592 8713,Medan,Sumatera Utara,Gold,Regular,2026-01-19,False
+816,CUS000816,Wulan,Sirait,Female,1968-03-24,marpaungmahdi@example.com,+62 (37) 843-1833,Semarang,Jawa Tengah,Silver,Regular,2024-12-11,True
+817,CUS000817,Bakijan,Hidayat,Female,1985-11-18,pratiwiadika@example.net,+62 (086) 162-4391,Jakarta,DKI Jakarta,Bronze,Regular,2025-12-09,True
+818,CUS000818,Kusuma,Rajasa,Male,1968-05-19,umayasitorus@example.com,+62-014-668-4240,Medan,Sumatera Utara,Bronze,Regular,2025-12-19,False
+819,CUS000819,Anastasia,Damanik,Male,2000-08-10,anggriawanhasna@example.com,+62-770-939-5833,Makassar,Sulawesi Selatan,Bronze,VIP,2024-02-29,True
+820,CUS000820,Tomi,Maheswara,Male,1990-09-19,qaryani@example.net,+62 (0080) 709 7448,Semarang,Jawa Tengah,Gold,Regular,2025-09-03,True
+821,CUS000821,Nalar,Rahmawati,Male,1970-11-03,cayadiiswahyudi@example.com,+62-007-858-0124,Semarang,Jawa Tengah,Gold,Regular,2026-03-14,True
+822,CUS000822,Karma,Damanik,Male,1989-11-17,dirjahalimah@example.net,+62 (0600) 459 2197,Surabaya,Jawa Timur,Bronze,Loyal,2024-09-15,True
+823,CUS000823,Laras,Sihotang,Male,2006-11-04,wulandarianom@example.org,+62-045-539-3990,Denpasar,Bali,Bronze,Regular,2023-11-09,True
+824,CUS000824,Putri,Ramadan,Male,1963-05-05,novaharyanti@example.org,+62 (029) 782 1702,Denpasar,Bali,Silver,New,2024-07-27,True
+825,CUS000825,Ida,Narpati,Male,1966-05-14,pudjiastutiharsana@example.org,+62 (718) 480-7114,Medan,Sumatera Utara,Bronze,Regular,2024-09-23,True
+826,CUS000826,Maras,Saragih,Female,1963-10-06,nashiruddinvega@example.net,+62-047-993-1529,Surabaya,Jawa Timur,Bronze,Loyal,2024-12-16,True
+827,CUS000827,Taswir,Melani,Female,1981-02-20,hnuraini@example.org,(063) 396-1243,Yogyakarta,DI Yogyakarta,Bronze,Regular,2026-06-13,True
+828,CUS000828,Jamil,Waluyo,Male,1965-10-16,laksanautami@example.org,+62 (0328) 545 9019,Makassar,Sulawesi Selatan,Bronze,Regular,2025-12-02,True
+829,CUS000829,Jayeng,Namaga,Female,1984-10-15,nuwais@example.net,+62 (770) 872 9921,Surabaya,Jawa Timur,Gold,New,2023-12-28,True
+830,CUS000830,Galang,Sihombing,Female,1962-02-24,urahmawati@example.com,(084) 290-3943,Bandung,Jawa Barat,Bronze,New,2026-03-10,False
+831,CUS000831,Ajiman,Laksmiwati,Male,1972-03-26,gadingwijaya@example.com,+62 (033) 289 8610,Makassar,Sulawesi Selatan,Bronze,Regular,2025-12-18,True
+832,CUS000832,Paramita,Yolanda,Female,1999-09-24,sihombingcindy@example.net,080 196 5859,Semarang,Jawa Tengah,Silver,Regular,2025-01-18,True
+833,CUS000833,Oni,Pangestu,Female,2007-05-19,anita23@example.net,(0840) 708 2075,Denpasar,Bali,Gold,Regular,2025-04-27,True
+834,CUS000834,Malika,Hidayat,Female,1960-12-09,bakionowijayanti@example.org,(0940) 640-1712,Medan,Sumatera Utara,Silver,New,2024-12-31,True
+835,CUS000835,Kacung,Permadi,Male,2001-11-28,yuliananainggolan@example.com,082 901 2075,Jakarta,DKI Jakarta,Silver,Regular,2024-10-09,False
+836,CUS000836,Daru,Prasasta,Male,1989-08-03,natalia68@example.com,088 890 0713,Denpasar,Bali,Gold,Regular,2023-11-12,True
+837,CUS000837,Yoga,Sitorus,Male,2004-04-07,yaniharyanto@example.org,+62 (072) 586 6369,Denpasar,Bali,Bronze,Regular,2023-11-29,True
+838,CUS000838,Raihan,Tamba,Male,1995-09-05,hsimanjuntak@example.org,+62-961-113-5684,Surabaya,Jawa Timur,Silver,Regular,2024-02-28,True
+839,CUS000839,Unggul,Nainggolan,Female,1962-12-27,sudiatifebi@example.com,+62-56-747-3562,Jakarta,DKI Jakarta,Silver,Loyal,2024-03-28,False
+840,CUS000840,Shania,Laksmiwati,Male,1981-02-23,bwidodo@example.com,+62 (046) 474 7250,Makassar,Sulawesi Selatan,Silver,Regular,2024-05-04,False
+841,CUS000841,Purwa,Usada,Female,1970-07-16,bakimanwidodo@example.net,+62 (92) 311-4303,Denpasar,Bali,Gold,New,2025-03-13,True
+842,CUS000842,Eko,Yuniar,Male,2002-04-24,pangestubalangga@example.org,+62 (40) 546 9381,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2023-11-04,True
+843,CUS000843,Halima,Hutagalung,Male,1973-10-23,sudiatibaktiadi@example.org,087 718 4271,Surabaya,Jawa Timur,Silver,New,2026-04-14,False
+844,CUS000844,Gandi,Padmasari,Male,1967-07-24,sihotangcemeti@example.net,(007) 178 2350,Medan,Sumatera Utara,Gold,Loyal,2024-12-28,True
+845,CUS000845,Lanjar,Habibi,Female,1994-02-15,sinagasidiq@example.org,(088) 887 2795,Surabaya,Jawa Timur,Bronze,VIP,2023-08-08,True
+846,CUS000846,Samiah,Situmorang,Female,1980-02-18,cwidiastuti@example.org,(056) 059-0286,Surabaya,Jawa Timur,Gold,Regular,2025-02-09,True
+847,CUS000847,Sadina,Dabukke,Male,1998-06-27,nababanpatricia@example.org,(0646) 848 4883,Makassar,Sulawesi Selatan,Bronze,Loyal,2025-04-20,True
+848,CUS000848,Dirja,Agustina,Female,1993-04-07,irajasa@example.net,+62 (0988) 395 3577,Semarang,Jawa Tengah,Gold,Regular,2025-11-12,False
+849,CUS000849,Hardana,Permadi,Female,1968-02-04,lulut40@example.com,(0921) 836-6310,Bandung,Jawa Barat,Silver,Loyal,2024-07-24,True
+850,CUS000850,Gambira,Suryono,Female,1998-02-27,jaemanpranowo@example.org,086 981 5832,Semarang,Jawa Tengah,Silver,VIP,2025-06-07,True
+851,CUS000851,Garda,Tarihoran,Male,1964-12-01,unamaga@example.org,0817895039,Denpasar,Bali,Bronze,Regular,2026-02-02,False
+852,CUS000852,Dimaz,Narpati,Male,2005-10-15,najibnasyidah@example.org,0855174689,Bandung,Jawa Barat,Silver,Loyal,2024-10-10,True
+853,CUS000853,Jarwadi,Anggriawan,Male,1976-07-24,simbolonmaryanto@example.net,0895569504,Bandung,Jawa Barat,Silver,VIP,2024-11-12,True
+854,CUS000854,Abyasa,Sihotang,Female,1978-02-10,asantoso@example.net,+62-089-302-1773,Surabaya,Jawa Timur,Bronze,Regular,2025-12-18,True
+855,CUS000855,Wira,Astuti,Female,1993-12-30,byuliarti@example.com,+62 (737) 297-7760,Semarang,Jawa Tengah,Bronze,Loyal,2026-05-20,False
+856,CUS000856,Purwanto,Kuswandari,Female,1993-11-13,mangunsongsakti@example.org,0832587459,Yogyakarta,DI Yogyakarta,Bronze,Regular,2026-02-07,True
+857,CUS000857,Hasim,Suryono,Male,1971-06-05,asuwarno@example.net,+62 (0664) 678-0159,Bandung,Jawa Barat,Gold,Loyal,2024-06-13,True
+858,CUS000858,Tira,Utama,Female,1995-01-24,argonotarihoran@example.net,+62 (0696) 956-2738,Jakarta,DKI Jakarta,Bronze,Loyal,2025-05-23,False
+859,CUS000859,Gangsar,Sirait,Female,2003-02-27,wulandarinugraha@example.net,+62 (206) 425-0590,Denpasar,Bali,Bronze,Regular,2023-11-08,False
+860,CUS000860,Vino,Narpati,Male,1971-12-10,nardi29@example.com,+62-21-273-8932,Makassar,Sulawesi Selatan,Silver,New,2023-08-30,True
+861,CUS000861,Hasan,Rajata,Female,2002-08-08,eirawan@example.org,0850530067,Semarang,Jawa Tengah,Bronze,VIP,2024-11-04,False
+862,CUS000862,Galak,Usada,Male,1996-04-18,amiprasetyo@example.net,+62 (50) 273-7988,Yogyakarta,DI Yogyakarta,Bronze,VIP,2025-03-03,True
+863,CUS000863,Edison,Kusmawati,Female,1981-08-19,irmanuraini@example.com,0844934989,Jakarta,DKI Jakarta,Gold,Regular,2024-08-30,True
+864,CUS000864,Usyi,Latupono,Female,2000-09-30,usyi56@example.net,+62 (031) 925 6387,Yogyakarta,DI Yogyakarta,Gold,Loyal,2024-01-09,True
+865,CUS000865,Galar,Uwais,Female,2008-03-12,sudiatimahesa@example.org,+62 (561) 885 2024,Semarang,Jawa Tengah,Bronze,Regular,2025-09-28,True
+866,CUS000866,Banawa,Nasyiah,Male,1979-01-12,gangsapurwanti@example.net,+62 (592) 970-8639,Yogyakarta,DI Yogyakarta,Silver,Regular,2024-11-18,False
+867,CUS000867,Candra,Melani,Female,1985-06-11,dartonopratama@example.com,0816836375,Medan,Sumatera Utara,Silver,Loyal,2026-05-29,False
+868,CUS000868,Tugiman,Narpati,Male,1986-07-17,trikuswoyo@example.com,+62 (62) 834-2919,Makassar,Sulawesi Selatan,Bronze,Regular,2025-01-26,True
+869,CUS000869,Rangga,Firgantoro,Male,1968-09-02,harjo36@example.com,(047) 518 1774,Semarang,Jawa Tengah,Bronze,Regular,2024-06-06,True
+870,CUS000870,Perkasa,Wahyudin,Female,1986-09-17,septi53@example.com,(042) 640-8144,Yogyakarta,DI Yogyakarta,Gold,New,2024-05-24,True
+871,CUS000871,Yoga,Pratiwi,Male,1993-07-15,hasta65@example.net,(0736) 424-0787,Jakarta,DKI Jakarta,Silver,New,2024-05-17,True
+872,CUS000872,Lantar,Pratama,Female,1991-12-10,septiprakasa@example.com,(068) 171 9185,Jakarta,DKI Jakarta,Bronze,New,2024-11-21,False
+873,CUS000873,Ismail,Andriani,Female,1979-09-03,puspasarimarsito@example.com,+62 (096) 338-6014,Jakarta,DKI Jakarta,Silver,Regular,2023-12-08,True
+874,CUS000874,Adiarja,Thamrin,Female,2006-03-25,firmansyahtedi@example.com,+62-069-397-7006,Bandung,Jawa Barat,Gold,Regular,2024-02-29,True
+875,CUS000875,Lamar,Wulandari,Female,1973-06-08,wirdausada@example.org,+62 (0874) 497 1118,Denpasar,Bali,Bronze,Regular,2025-12-03,True
+876,CUS000876,Widya,Prayoga,Male,1972-09-23,leo66@example.org,(0117) 990-9331,Makassar,Sulawesi Selatan,Gold,New,2026-03-28,True
+877,CUS000877,Prasetya,Puspasari,Female,1995-04-26,sucinugroho@example.org,0813031710,Semarang,Jawa Tengah,Bronze,Regular,2023-08-03,True
+878,CUS000878,Danu,Simbolon,Female,1982-11-24,hpudjiastuti@example.org,(0734) 561 7123,Yogyakarta,DI Yogyakarta,Bronze,Regular,2025-03-28,True
+879,CUS000879,Cakrabirawa,Yuliarti,Female,1989-02-20,gatottarihoran@example.com,+62 (16) 115-8960,Jakarta,DKI Jakarta,Silver,Loyal,2024-03-12,True
+880,CUS000880,Ridwan,Susanti,Female,1986-05-29,lsitumorang@example.org,087 687 9901,Bandung,Jawa Barat,Bronze,Loyal,2024-01-25,False
+881,CUS000881,Yulia,Hassanah,Male,1968-07-13,tpermadi@example.org,+62 (0515) 915 6476,Makassar,Sulawesi Selatan,Gold,Loyal,2023-08-22,False
+882,CUS000882,Candrakanta,Anggriawan,Female,1961-07-25,suartiniyoga@example.com,+62 (335) 804 6591,Makassar,Sulawesi Selatan,Silver,VIP,2025-04-07,False
+883,CUS000883,Panji,Haryanto,Female,1994-02-28,lnurdiyanti@example.net,+62 (0775) 174-8817,Yogyakarta,DI Yogyakarta,Silver,Regular,2024-08-15,False
+884,CUS000884,Cawisono,Gunawan,Male,1986-07-14,xmegantara@example.com,+62 (764) 844 2519,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2026-02-21,False
+885,CUS000885,Johan,Kusumo,Male,1995-03-06,lili00@example.org,+62 (076) 852 3310,Yogyakarta,DI Yogyakarta,Silver,New,2023-08-01,True
+886,CUS000886,Dartono,Suwarno,Female,1997-07-08,nnurdiyanti@example.org,+62 (013) 536 5340,Yogyakarta,DI Yogyakarta,Gold,Regular,2023-09-28,False
+887,CUS000887,Ciaobella,Maryati,Male,2001-11-30,zhandayani@example.org,+62-027-956-3271,Surabaya,Jawa Timur,Silver,Regular,2023-10-06,True
+888,CUS000888,Chandra,Anggraini,Male,1991-07-29,joko14@example.org,(0685) 642 2034,Bandung,Jawa Barat,Silver,VIP,2025-12-01,False
+889,CUS000889,Jarwi,Prabowo,Female,1989-04-12,pranoworusman@example.org,+62-032-228-3579,Yogyakarta,DI Yogyakarta,Gold,VIP,2025-09-17,True
+890,CUS000890,Luwes,Ramadan,Female,1961-09-29,yunita51@example.net,+62 (127) 665 4136,Denpasar,Bali,Gold,VIP,2024-03-30,True
+891,CUS000891,Naradi,Ramadan,Male,1964-02-19,edabukke@example.org,+62 (12) 358 8720,Semarang,Jawa Tengah,Silver,VIP,2024-03-12,True
+892,CUS000892,Mustofa,Hidayanto,Female,1987-11-11,tugimanyolanda@example.com,+62 (094) 975-0725,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2023-11-15,True
+893,CUS000893,Taufik,Mayasari,Female,1986-09-23,habibimaryadi@example.com,(0821) 708-7237,Surabaya,Jawa Timur,Bronze,Regular,2024-05-15,True
+894,CUS000894,Cemplunk,Budiyanto,Male,1981-05-15,prastutikalim@example.net,(059) 862 0747,Medan,Sumatera Utara,Silver,New,2026-05-25,True
+895,CUS000895,Lukita,Maheswara,Male,1967-02-15,fnainggolan@example.net,+62-304-064-4937,Jakarta,DKI Jakarta,Bronze,New,2025-05-25,True
+896,CUS000896,Wira,Thamrin,Female,1999-08-10,susantiputri@example.net,(0161) 607-9349,Denpasar,Bali,Silver,New,2025-07-05,True
+897,CUS000897,Diah,Agustina,Male,1973-09-24,dutama@example.com,+62-0356-926-0851,Jakarta,DKI Jakarta,Silver,Regular,2024-01-10,True
+898,CUS000898,Maryanto,Kurniawan,Female,1964-02-11,latuponoharto@example.org,+62-76-991-1324,Semarang,Jawa Tengah,Bronze,Loyal,2024-10-13,True
+899,CUS000899,Oman,Nasyidah,Female,1991-04-16,wijayantititin@example.com,+62-68-448-8599,Makassar,Sulawesi Selatan,Silver,Regular,2026-06-07,False
+900,CUS000900,Darman,Anggraini,Female,1987-05-17,kayun58@example.com,084 089 3938,Medan,Sumatera Utara,Bronze,Regular,2023-10-17,True
+901,CUS000901,Gangsa,Habibi,Male,2005-06-28,iusada@example.org,+62 (873) 076-6161,Jakarta,DKI Jakarta,Bronze,Regular,2025-03-13,True
+902,CUS000902,Vanya,Budiman,Female,1992-06-02,manah29@example.net,+62-035-833-1262,Makassar,Sulawesi Selatan,Platinum,New,2024-03-25,True
+903,CUS000903,Atma,Najmudin,Male,1977-05-26,dongorankenari@example.net,+62-254-701-7300,Makassar,Sulawesi Selatan,Bronze,New,2024-01-11,True
+904,CUS000904,Cinta,Nashiruddin,Male,1973-08-10,septisalahudin@example.org,+62 (368) 608 5414,Denpasar,Bali,Bronze,Loyal,2023-08-20,True
+905,CUS000905,Viman,Usada,Female,1971-09-03,dwahyudin@example.net,+62 (0551) 927-9955,Denpasar,Bali,Silver,Loyal,2024-10-24,True
+906,CUS000906,Queen,Salahudin,Male,2002-04-30,jramadan@example.com,+62 (73) 233-0961,Surabaya,Jawa Timur,Silver,New,2025-09-17,True
+907,CUS000907,Mahfud,Safitri,Male,1981-02-03,kamaria90@example.com,+62-053-298-9002,Yogyakarta,DI Yogyakarta,Bronze,Regular,2025-04-28,True
+908,CUS000908,Mumpuni,Permadi,Male,1988-05-21,jarwi89@example.org,(092) 614-5358,Bandung,Jawa Barat,Platinum,New,2025-08-07,True
+909,CUS000909,Usyi,Hariyah,Female,2000-12-04,oniharyanto@example.com,(085) 118-1587,Bandung,Jawa Barat,Silver,Loyal,2025-01-05,True
+910,CUS000910,Cemplunk,Marbun,Female,1979-02-09,raharjamangunsong@example.com,(041) 925 8655,Jakarta,DKI Jakarta,Bronze,New,2024-09-09,False
+911,CUS000911,Hartaka,Uwais,Female,1997-04-25,langgeng95@example.org,+62 (0349) 367-1948,Denpasar,Bali,Silver,New,2025-12-11,False
+912,CUS000912,Harto,Januar,Male,1965-02-07,yosef99@example.org,+62-040-440-8912,Makassar,Sulawesi Selatan,Silver,VIP,2023-12-01,True
+913,CUS000913,Candrakanta,Riyanti,Male,1978-09-30,mpangestu@example.net,(092) 288 3630,Jakarta,DKI Jakarta,Silver,Regular,2026-06-04,False
+914,CUS000914,Ajimat,Pradipta,Female,2005-08-25,dododamanik@example.com,085 121 1300,Surabaya,Jawa Timur,Silver,New,2025-08-17,True
+915,CUS000915,Puji,Firgantoro,Male,1980-06-29,spratama@example.org,+62 (0236) 178 0153,Denpasar,Bali,Silver,Regular,2025-03-25,False
+916,CUS000916,Asman,Prastuti,Male,1993-09-24,septiagustina@example.com,+62-534-427-5570,Surabaya,Jawa Timur,Silver,New,2025-01-16,False
+917,CUS000917,Galiono,Rajata,Female,1990-08-18,cpermata@example.com,(0117) 618 0980,Bandung,Jawa Barat,Silver,Loyal,2026-01-21,True
+918,CUS000918,Reksa,Usamah,Male,1985-12-04,gara13@example.org,083 470 5218,Yogyakarta,DI Yogyakarta,Bronze,New,2024-08-23,True
+919,CUS000919,Soleh,Wibisono,Female,1986-11-10,ajimin82@example.net,0880955767,Surabaya,Jawa Timur,Silver,VIP,2024-12-31,True
+920,CUS000920,Muni,Iswahyudi,Male,1971-05-02,qhutapea@example.net,+62 (025) 721-3146,Jakarta,DKI Jakarta,Bronze,Loyal,2026-01-26,False
+921,CUS000921,Radika,Setiawan,Male,1984-03-21,ivan99@example.net,080 584 4823,Semarang,Jawa Tengah,Silver,Loyal,2024-05-24,True
+922,CUS000922,Ellis,Putra,Female,1995-02-13,waluyohalima@example.com,+62 (055) 017-4750,Semarang,Jawa Tengah,Gold,New,2026-03-01,True
+923,CUS000923,Bakti,Damanik,Male,1961-11-23,rajatakemal@example.org,0862454726,Bandung,Jawa Barat,Bronze,Loyal,2025-01-08,False
+924,CUS000924,Jono,Ramadan,Female,1988-08-17,llazuardi@example.org,(0429) 705 8083,Surabaya,Jawa Timur,Gold,New,2025-03-15,True
+925,CUS000925,Lega,Puspasari,Male,1975-04-03,mulyantoprasasta@example.net,+62 (31) 932 9664,Yogyakarta,DI Yogyakarta,Bronze,Regular,2025-12-03,False
+926,CUS000926,Nova,Marbun,Female,2002-08-26,marbunopung@example.net,+62-0656-928-9679,Bandung,Jawa Barat,Platinum,New,2023-09-07,False
+927,CUS000927,Kartika,Prasetya,Male,1981-08-10,laksitarini@example.org,(026) 566 6734,Medan,Sumatera Utara,Bronze,Regular,2025-10-20,False
+928,CUS000928,Tirta,Hardiansyah,Male,2002-10-30,warsitaharyanti@example.net,+62 (56) 003 3620,Yogyakarta,DI Yogyakarta,Silver,Regular,2026-06-06,True
+929,CUS000929,Martani,Mardhiyah,Female,1963-05-01,prastutiwarta@example.com,(0945) 054-1822,Yogyakarta,DI Yogyakarta,Bronze,Regular,2024-01-06,True
+930,CUS000930,Ridwan,Mandasari,Female,2007-11-20,indrauwais@example.com,+62 (623) 613-9407,Yogyakarta,DI Yogyakarta,Gold,Loyal,2024-05-19,False
+931,CUS000931,Shania,Mahendra,Male,1977-07-09,vickyprastuti@example.com,0818635578,Medan,Sumatera Utara,Gold,New,2025-01-24,True
+932,CUS000932,Cornelia,Najmudin,Male,1969-06-19,nsitorus@example.net,+62 (92) 486 7595,Makassar,Sulawesi Selatan,Bronze,VIP,2023-09-28,False
+933,CUS000933,Harto,Nuraini,Male,1965-12-20,nasab49@example.org,+62-557-572-8294,Yogyakarta,DI Yogyakarta,Gold,Regular,2025-11-09,True
+934,CUS000934,Puput,Latupono,Female,2007-06-11,najib75@example.org,+62 (0145) 179-0784,Semarang,Jawa Tengah,Gold,Regular,2026-06-19,False
+935,CUS000935,Ifa,Habibi,Female,1996-09-12,nardi38@example.com,(031) 713 4848,Jakarta,DKI Jakarta,Bronze,Loyal,2023-11-22,False
+936,CUS000936,Bahuraksa,Damanik,Male,1980-07-13,umi18@example.org,+62 (517) 788 1080,Surabaya,Jawa Timur,Bronze,Regular,2025-06-11,False
+937,CUS000937,Harsanto,Agustina,Female,2002-07-23,wasitavega@example.net,+62 (345) 946-2905,Jakarta,DKI Jakarta,Bronze,Regular,2024-12-02,True
+938,CUS000938,Luwes,Sitorus,Female,1969-11-06,fnababan@example.net,+62-075-614-6619,Medan,Sumatera Utara,Silver,Loyal,2026-01-19,True
+939,CUS000939,Ganda,Firgantoro,Female,1988-01-29,jlaksita@example.com,+62 (97) 781 8906,Semarang,Jawa Tengah,Bronze,VIP,2023-11-22,True
+940,CUS000940,Mitra,Hasanah,Male,2006-02-24,maryadi75@example.com,(0091) 058-2365,Medan,Sumatera Utara,Gold,Regular,2025-05-04,True
+941,CUS000941,Wadi,Melani,Female,1993-02-14,martanisimbolon@example.org,+62 (71) 542 5004,Surabaya,Jawa Timur,Bronze,Regular,2024-03-05,True
+942,CUS000942,Najib,Hidayat,Male,1984-06-23,adityapratama@example.org,+62 (069) 871-7153,Jakarta,DKI Jakarta,Bronze,New,2024-03-04,True
+943,CUS000943,Prabu,Setiawan,Male,1998-02-07,megantararahman@example.org,+62 (01) 173-8105,Yogyakarta,DI Yogyakarta,Bronze,Regular,2026-02-11,True
+944,CUS000944,Cemplunk,Maulana,Male,1978-10-01,cintarahmawati@example.com,+62-030-374-0880,Jakarta,DKI Jakarta,Gold,VIP,2025-05-24,False
+945,CUS000945,Endah,Namaga,Male,1968-03-20,dmandala@example.com,+62 (0798) 905-2303,Jakarta,DKI Jakarta,Bronze,Regular,2023-09-16,True
+946,CUS000946,Harja,Rahimah,Female,2004-07-24,jindra83@example.com,+62 (701) 969 2293,Denpasar,Bali,Bronze,Regular,2024-01-01,False
+947,CUS000947,Vera,Simbolon,Female,2001-12-09,andrianibagas@example.com,0851657961,Semarang,Jawa Tengah,Silver,New,2026-05-17,True
+948,CUS000948,Zaenab,Pradipta,Male,1965-10-18,qgunawan@example.org,0828421122,Yogyakarta,DI Yogyakarta,Silver,Regular,2024-12-06,False
+949,CUS000949,Elvina,Mahendra,Female,2002-10-29,sinagaembuh@example.org,(085) 620-5933,Medan,Sumatera Utara,Gold,Loyal,2025-03-29,True
+950,CUS000950,Ganjaran,Yolanda,Male,1980-02-09,rahayugamblang@example.org,081 842 7938,Semarang,Jawa Tengah,Silver,New,2024-01-31,True
+951,CUS000951,Tania,Riyanti,Male,1976-09-11,ekusmawati@example.net,+62-063-177-8527,Semarang,Jawa Tengah,Platinum,Regular,2024-08-16,True
+952,CUS000952,Prasetyo,Sinaga,Female,1987-04-12,ajiminpratiwi@example.com,+62 (574) 759 5567,Yogyakarta,DI Yogyakarta,Gold,Loyal,2025-06-29,True
+953,CUS000953,Wira,Iswahyudi,Female,2003-10-29,bagusnasyidah@example.com,+62 (839) 764-6564,Surabaya,Jawa Timur,Bronze,Loyal,2023-12-10,True
+954,CUS000954,Bambang,Laksmiwati,Male,2008-07-17,ulya89@example.org,(016) 834 9926,Medan,Sumatera Utara,Bronze,New,2026-05-14,True
+955,CUS000955,Cornelia,Siregar,Male,1992-12-12,asudiati@example.org,+62-0273-846-3356,Makassar,Sulawesi Selatan,Bronze,Loyal,2026-01-10,True
+956,CUS000956,Septi,Sihotang,Female,1984-06-25,namagacindy@example.net,+62-15-131-5854,Bandung,Jawa Barat,Gold,New,2024-02-25,True
+957,CUS000957,Empluk,Mangunsong,Female,1962-11-08,hariyahpranawa@example.org,0883403484,Yogyakarta,DI Yogyakarta,Bronze,New,2024-09-24,True
+958,CUS000958,Rachel,Utama,Male,2002-10-05,mnovitasari@example.com,(006) 224-0023,Denpasar,Bali,Bronze,New,2023-08-18,True
+959,CUS000959,Anggabaya,Simbolon,Male,1994-06-29,zpuspasari@example.com,+62 (74) 781 4028,Surabaya,Jawa Timur,Gold,Loyal,2024-06-05,True
+960,CUS000960,Waluyo,Maulana,Female,1972-12-14,handriani@example.net,+62 (51) 543-8125,Surabaya,Jawa Timur,Gold,Loyal,2023-10-21,True
+961,CUS000961,Bancar,Putra,Male,1966-07-08,caketmandala@example.net,(054) 575 2859,Bandung,Jawa Barat,Gold,Regular,2024-12-23,True
+962,CUS000962,Heru,Mangunsong,Female,1970-08-12,bhidayat@example.com,(073) 219-7112,Yogyakarta,DI Yogyakarta,Gold,Regular,2026-01-13,True
+963,CUS000963,Danuja,Hasanah,Male,1980-11-26,karta65@example.net,+62 (0737) 045-0575,Medan,Sumatera Utara,Platinum,Loyal,2025-02-12,True
+964,CUS000964,Maras,Yuniar,Male,2005-03-04,solehmarbun@example.net,+62-0723-133-7686,Yogyakarta,DI Yogyakarta,Bronze,Regular,2026-05-05,True
+965,CUS000965,Nardi,Hardiansyah,Male,1972-04-26,xuwais@example.com,+62-304-893-8497,Surabaya,Jawa Timur,Bronze,Loyal,2024-04-08,False
+966,CUS000966,Argono,Saputra,Female,1970-04-16,pradiptalala@example.net,(0427) 439-0735,Surabaya,Jawa Timur,Gold,Regular,2025-01-21,False
+967,CUS000967,Pranawa,Mahendra,Female,2000-10-17,kokopratiwi@example.com,(046) 953 3823,Yogyakarta,DI Yogyakarta,Bronze,Regular,2023-12-03,True
+968,CUS000968,Cici,Ardianto,Male,1983-09-09,wijayantigaduh@example.org,+62 (60) 044-4175,Yogyakarta,DI Yogyakarta,Bronze,New,2024-02-05,True
+969,CUS000969,Mahdi,Fujiati,Male,1987-05-30,maryadibajragin@example.org,+62 (25) 709-5425,Yogyakarta,DI Yogyakarta,Bronze,Loyal,2024-01-08,True
+970,CUS000970,Betania,Saputra,Male,2001-05-26,gandisimanjuntak@example.net,+62 (42) 898-5025,Surabaya,Jawa Timur,Silver,Loyal,2025-01-20,True
+971,CUS000971,Lalita,Saputra,Male,2007-11-16,kurnia97@example.com,+62 (57) 538 4217,Makassar,Sulawesi Selatan,Gold,Loyal,2024-11-27,True
+972,CUS000972,Tina,Jailani,Male,1980-12-16,prasetyopermadi@example.net,(086) 429 6506,Semarang,Jawa Tengah,Bronze,Regular,2026-03-07,True
+973,CUS000973,Langgeng,Wahyudin,Male,1987-09-08,uda13@example.org,(0749) 060-4486,Makassar,Sulawesi Selatan,Silver,New,2024-01-07,True
+974,CUS000974,Gara,Najmudin,Male,2003-04-12,ypuspasari@example.net,+62-958-739-5806,Bandung,Jawa Barat,Silver,Loyal,2026-03-21,True
+975,CUS000975,Atmaja,Palastri,Female,1964-05-14,tnapitupulu@example.org,+62 (076) 794-9319,Semarang,Jawa Tengah,Gold,Regular,2024-12-25,True
+976,CUS000976,Aurora,Suwarno,Female,1969-03-30,wijayavictoria@example.net,(0160) 886 4765,Surabaya,Jawa Timur,Bronze,VIP,2026-04-12,False
+977,CUS000977,Langgeng,Adriansyah,Female,1996-09-08,waluyo08@example.net,+62 (44) 544-2189,Jakarta,DKI Jakarta,Platinum,Loyal,2025-06-26,True
+978,CUS000978,Tirtayasa,Permata,Male,1997-03-23,jarwiutami@example.org,(0265) 774 6239,Medan,Sumatera Utara,Silver,Regular,2025-10-19,False
+979,CUS000979,Gilda,Winarsih,Female,1998-03-01,rahimahdarmaji@example.com,+62-40-851-8351,Makassar,Sulawesi Selatan,Bronze,New,2023-12-18,True
+980,CUS000980,Nrima,Kusumo,Female,1998-03-02,imardhiyah@example.net,(035) 900-1632,Medan,Sumatera Utara,Gold,Regular,2026-06-28,True
+981,CUS000981,Laksana,Hasanah,Male,1967-04-07,hasim17@example.com,+62 (0615) 616 0167,Makassar,Sulawesi Selatan,Bronze,Regular,2025-08-13,True
+982,CUS000982,Wani,Ramadan,Female,1996-07-11,zulkarnaindacin@example.net,+62 (86) 908 8513,Yogyakarta,DI Yogyakarta,Gold,Regular,2025-05-22,False
+983,CUS000983,Ifa,Susanti,Male,1969-07-06,darmantokusmawati@example.net,+62 (015) 300 9521,Surabaya,Jawa Timur,Bronze,Regular,2025-03-01,True
+984,CUS000984,Nyoman,Padmasari,Female,1997-04-12,niswahyudi@example.net,+62 (46) 466 2442,Jakarta,DKI Jakarta,Silver,Loyal,2024-10-11,True
+985,CUS000985,Hendra,Widiastuti,Male,1973-08-09,ibranibudiman@example.org,(0393) 886 0485,Makassar,Sulawesi Selatan,Gold,Regular,2023-08-07,True
+986,CUS000986,Hasim,Puspasari,Female,1999-10-27,gamani88@example.org,+62 (935) 031 8767,Semarang,Jawa Tengah,Bronze,Loyal,2026-04-21,True
+987,CUS000987,Dartono,Winarno,Male,1990-08-19,haryanticawisono@example.org,+62 (0503) 900-3676,Makassar,Sulawesi Selatan,Silver,New,2024-02-22,False
+988,CUS000988,Luthfi,Permadi,Male,1992-06-19,olivanatsir@example.com,(010) 191-2198,Yogyakarta,DI Yogyakarta,Bronze,Regular,2026-05-15,False
+989,CUS000989,Citra,Yuniar,Male,1989-07-26,yunita62@example.org,+62-991-701-2400,Medan,Sumatera Utara,Silver,Regular,2024-11-14,True
+990,CUS000990,Umaya,Mandala,Female,2006-05-22,anggabayahidayanto@example.org,+62 (024) 531 3259,Medan,Sumatera Utara,Bronze,Loyal,2025-03-15,True
+991,CUS000991,Artawan,Firmansyah,Female,1974-08-25,ajionomaryadi@example.net,+62 (554) 280 9321,Bandung,Jawa Barat,Bronze,Regular,2026-04-01,True
+992,CUS000992,Latif,Zulkarnain,Male,1977-06-18,ohalimah@example.net,(0602) 316-8635,Bandung,Jawa Barat,Bronze,Loyal,2025-09-11,True
+993,CUS000993,Nrima,Usamah,Female,1980-08-16,maryadisimbolon@example.org,+62 (0724) 327-7495,Surabaya,Jawa Timur,Silver,New,2026-05-20,False
+994,CUS000994,Jaswadi,Siregar,Male,1979-10-23,purwantiluthfi@example.com,+62 (31) 689 4073,Surabaya,Jawa Timur,Bronze,Loyal,2024-07-15,True
+995,CUS000995,Cakrawangsa,Hariyah,Female,1968-11-05,emanpranowo@example.net,+62 (091) 285-2182,Medan,Sumatera Utara,Silver,Regular,2025-01-08,True
+996,CUS000996,Mursinin,Sitorus,Male,1972-10-12,eprabowo@example.org,+62 (842) 975 6873,Semarang,Jawa Tengah,Bronze,New,2026-06-24,True
+997,CUS000997,Viman,Nasyidah,Female,1971-04-30,karma59@example.org,0832313265,Yogyakarta,DI Yogyakarta,Silver,VIP,2025-02-21,True
+998,CUS000998,Harto,Nababan,Male,1980-06-15,ganda20@example.org,084 476 6730,Semarang,Jawa Tengah,Bronze,New,2025-11-21,True
+999,CUS000999,Hasan,Pradana,Female,1982-03-02,azaleamustofa@example.com,0898735382,Makassar,Sulawesi Selatan,Silver,Regular,2025-03-07,True
+1000,CUS001000,Prasetya,Gunawan,Male,1968-12-19,farahfujiati@example.com,(002) 623-5779,Makassar,Sulawesi Selatan,Bronze,Regular,2025-05-05,True

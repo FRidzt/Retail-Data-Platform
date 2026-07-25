@@ -1,0 +1,27 @@
+company:
+  name: ABC Retail Indonesia
+
+dataset:
+
+  customers: 1000
+  products: 200
+  stores: 10
+  suppliers: 30
+  employees: 50
+
+transactions:
+
+  sales: 10000
+  returns: 500
+  inventory: 5000
+
+date:
+
+  start: "2023-01-01"
+  end: "2025-12-31"
+
+output:
+
+  format: csv
+
+random_seed: 42
