@@ -1,0 +1,301 @@
+employee_key,employee_code,employee_name,gender,position,salary,hire_date,email,phone,store_key,is_active
+1,EMP000001,Dr. Indah Hastuti,Male,Store Manager,14905197,2021-09-11,yhastuti@example.org,(0076) 909-4975,1,True
+2,EMP000002,Puti Hani Permadi,Female,Supervisor,9923656,2020-11-17,cpurnawati@example.com,+62 (647) 842-4245,1,True
+3,EMP000003,Kusuma Utama,Male,Supervisor,8121994,2023-12-11,kwastuti@example.net,+62 (0929) 961-5171,1,True
+4,EMP000004,Zulaikha Wastuti,Female,Cashier,5902946,2021-04-02,susantibakiman@example.org,+62 (0118) 405 6659,1,True
+5,EMP000005,Maimunah Hidayat,Female,Cashier,5368993,2019-04-15,naradirahimah@example.com,+62-093-649-2820,1,True
+6,EMP000006,Eka Simbolon,Female,Cashier,5770347,2023-05-23,xsitompul@example.org,+62-31-959-9877,1,True
+7,EMP000007,Viktor Pradipta,Male,Cashier,5889683,2019-09-10,ajiman64@example.net,(004) 964-2466,1,True
+8,EMP000008,Nilam Nasyiah,Male,Cashier,5081475,2025-02-22,raihanyuliarti@example.net,+62 (0914) 026 9993,1,True
+9,EMP000009,Puput Zulaika,Female,Cashier,5547617,2026-03-17,qhandayani@example.com,+62 (742) 459 7274,1,True
+10,EMP000010,Queen Sinaga,Male,Warehouse Staff,5613590,2020-07-31,adikarawaskita@example.com,(0897) 245 1329,1,True
+11,EMP000011,"R.M. Warta Hidayat, S.Ked",Female,Warehouse Staff,4359075,2025-03-11,luisgunawan@example.org,+62-688-607-4960,1,True
+12,EMP000012,Nabila Purnawati,Male,Warehouse Staff,5963177,2019-05-20,putramakuta@example.org,+62 (004) 662-9406,1,True
+13,EMP000013,"Gadang Thamrin, S.IP",Female,Store Manager,16801249,2023-05-23,yuliathamrin@example.net,+62 (016) 764-8226,2,True
+14,EMP000014,Belinda Halimah,Male,Supervisor,9422791,2024-02-05,windamaulana@example.net,+62-085-971-4813,2,True
+15,EMP000015,Amelia Salahudin,Female,Supervisor,9708583,2021-10-13,ciaobella16@example.com,(023) 357-3640,2,True
+16,EMP000016,Niyaga Uwais,Male,Cashier,5181580,2021-08-15,kuswandaritami@example.net,(018) 449 5651,2,True
+17,EMP000017,Teguh Oktaviani,Female,Cashier,4983568,2024-01-07,lestariadhiarja@example.net,+62 (893) 914-7347,2,True
+18,EMP000018,Victoria Nugroho,Male,Cashier,4971233,2022-11-14,prasetyaeva@example.org,+62-080-925-3991,2,True
+19,EMP000019,Aditya Winarno,Male,Cashier,5222050,2026-01-27,lprayoga@example.org,0844512002,2,True
+20,EMP000020,"Citra Tamba, S.T.",Male,Cashier,5405150,2023-07-01,situmorangghani@example.com,+62 (0378) 233-2489,2,True
+21,EMP000021,Restu Yulianti,Female,Cashier,6189901,2019-03-19,ibranisetiawan@example.net,+62 (0175) 591 2853,2,True
+22,EMP000022,Ian Pranowo,Male,Warehouse Staff,5611761,2024-03-16,ekolestari@example.com,087 768 3111,2,True
+23,EMP000023,Pia Wahyudin,Female,Warehouse Staff,4191053,2023-10-02,damu75@example.com,+62 (14) 930 3102,2,True
+24,EMP000024,"dr. Luis Nurdiyanti, S.I.Kom",Male,Warehouse Staff,5469801,2025-09-22,kuncaramarpaung@example.net,(028) 232-6746,2,True
+25,EMP000025,Wirda Mandala,Male,Store Manager,14648474,2023-10-18,narpatianggabaya@example.com,+62 (082) 003 1047,3,True
+26,EMP000026,"Galiono Wijaya, M.Ak",Male,Supervisor,9640830,2019-11-23,rahayuismail@example.org,+62-021-607-1917,3,True
+27,EMP000027,"Zahra Utama, S.Psi",Male,Supervisor,8246131,2026-05-03,maulanarika@example.org,(0607) 931 5311,3,True
+28,EMP000028,"Gading Pradana, S.Farm",Male,Cashier,4817819,2023-05-14,edisonhutagalung@example.com,(036) 629-1940,3,True
+29,EMP000029,"Ganjaran Agustina, S.E.",Female,Cashier,4800091,2025-01-05,suwarnoteguh@example.com,+62 (0634) 676-2677,3,True
+30,EMP000030,Malik Hidayat,Male,Cashier,5663719,2022-04-03,halimdaliono@example.org,+62 (0742) 588-5169,3,True
+31,EMP000031,Qori Laksmiwati,Female,Cashier,5417606,2019-03-27,kadir77@example.com,+62 (532) 096-0478,3,True
+32,EMP000032,"Novi Thamrin, S.Psi",Male,Cashier,5071172,2023-09-03,iswahyudidanuja@example.net,+62-080-895-5614,3,True
+33,EMP000033,"Sadina Yuniar, S.Ked",Female,Cashier,4535390,2025-09-05,satyamanullang@example.org,+62-0207-566-9560,3,True
+34,EMP000034,Endra Saragih,Male,Warehouse Staff,5610565,2019-03-28,sihombingyulia@example.net,+62 (781) 500 3858,3,True
+35,EMP000035,Kania Hidayanto,Female,Warehouse Staff,5762263,2019-11-27,hidayatzelda@example.com,+62 (0709) 422-2483,3,True
+36,EMP000036,R. Caraka Pratama,Male,Warehouse Staff,5192640,2021-05-23,rainabudiman@example.net,+62 (062) 589-7048,3,True
+37,EMP000037,Emong Nainggolan,Male,Store Manager,12606143,2019-09-16,qwasita@example.org,+62 (453) 153-0150,4,True
+38,EMP000038,Bambang Wacana,Female,Supervisor,10483149,2018-10-20,znababan@example.org,(090) 952 6119,4,True
+39,EMP000039,Panca Hariyah,Male,Supervisor,8088054,2019-04-21,maryaticager@example.net,+62-0535-940-4610,4,True
+40,EMP000040,KH. Cager Suryatmi,Female,Cashier,6140394,2024-09-21,salman39@example.net,+62 (001) 284-1472,4,True
+41,EMP000041,Emas Haryanto,Female,Cashier,5889539,2020-11-28,mila69@example.com,0864299246,4,True
+42,EMP000042,"R.M. Pangestu Hutapea, S.Psi",Female,Cashier,6388270,2021-03-05,latuponocecep@example.org,+62 (91) 555-0991,4,True
+43,EMP000043,Arta Marpaung,Male,Cashier,5353938,2019-10-12,mutianasyiah@example.net,+62-031-636-3252,4,True
+44,EMP000044,"R.M. Umay Siregar, M.Kom.",Male,Cashier,5448340,2024-01-28,etarihoran@example.net,+62 (065) 905 4067,4,True
+45,EMP000045,Hasan Haryanto,Male,Cashier,6217972,2021-01-06,januarkariman@example.net,(0584) 426 3181,4,True
+46,EMP000046,"Hj. Ika Yuniar, S.H.",Male,Warehouse Staff,5175599,2021-09-20,danuja52@example.org,0807426291,4,True
+47,EMP000047,"Rama Mayasari, S.Pt",Male,Warehouse Staff,5989743,2022-12-06,gastipuspita@example.net,+62 (0112) 014 7506,4,True
+48,EMP000048,Puti Zelda Agustina,Male,Warehouse Staff,5292623,2026-05-10,solehfarida@example.org,+62 (886) 257 0924,4,True
+49,EMP000049,"Satya Rahimah, M.Ak",Male,Store Manager,17326843,2019-08-27,suryakusumo@example.com,+62 (90) 223 3070,5,True
+50,EMP000050,Elisa Sitompul,Male,Supervisor,9660972,2019-03-29,ghidayanto@example.org,+62-88-168-1421,5,True
+51,EMP000051,Capa Zulkarnain,Male,Supervisor,8082730,2022-08-29,hanaagustina@example.org,0838043561,5,True
+52,EMP000052,Kenes Purnawati,Male,Cashier,6188135,2023-02-26,qsaptono@example.org,+62-84-437-1711,5,True
+53,EMP000053,dr. Devi Samosir,Male,Cashier,4963651,2021-11-21,nugrohodadi@example.org,(002) 643-4633,5,True
+54,EMP000054,Gawati Siregar,Female,Cashier,6245749,2018-12-30,atmapadmasari@example.org,+62-012-661-1957,5,True
+55,EMP000055,Parman Rahayu,Female,Cashier,6418340,2022-04-29,bsetiawan@example.org,+62 (12) 311-0686,5,True
+56,EMP000056,"Dr. Alika Sudiati, S.Psi",Female,Cashier,6036241,2018-12-25,ajimin22@example.com,+62 (501) 473 0734,5,True
+57,EMP000057,Martaka Nurdiyanti,Male,Cashier,4538638,2023-06-27,carlamandasari@example.net,(082) 696-1201,5,True
+58,EMP000058,Halima Prastuti,Female,Warehouse Staff,4707013,2022-09-08,danang28@example.net,+62 (696) 258-4237,5,True
+59,EMP000059,"Ir. Victoria Handayani, S.Kom",Female,Warehouse Staff,4725065,2024-07-21,usuryatmi@example.net,(037) 113 0335,5,True
+60,EMP000060,Eluh Nainggolan,Female,Warehouse Staff,4868558,2018-11-01,rahmawatifathonah@example.org,+62 (650) 728-4932,5,True
+61,EMP000061,Jarwa Manullang,Female,Store Manager,15870762,2025-03-06,intanmangunsong@example.org,+62-0621-666-2122,6,True
+62,EMP000062,Bagiya Jailani,Male,Supervisor,8390877,2023-03-13,makutawinarno@example.net,(071) 995-1623,6,True
+63,EMP000063,Dr. Irwan Siregar,Female,Supervisor,9338763,2019-01-08,putu61@example.com,(046) 240-8805,6,True
+64,EMP000064,"Sabrina Gunawan, S.I.Kom",Female,Cashier,5443212,2020-05-24,anggrainiharto@example.net,(0102) 521-8851,6,True
+65,EMP000065,"R.A. Kayla Winarsih, S.Ked",Male,Cashier,4555364,2022-11-05,hutasoitargono@example.org,+62 (266) 896 7677,6,True
+66,EMP000066,Wadi Budiyanto,Female,Cashier,6028834,2024-02-29,novitasariparamita@example.net,+62-016-290-5426,6,True
+67,EMP000067,Jail Pudjiastuti,Male,Cashier,6049052,2019-07-05,situmoranglukman@example.net,(0313) 446 0500,6,True
+68,EMP000068,"R.M. Karma Hidayanto, S.Kom",Male,Cashier,5508504,2021-12-13,endahsusanti@example.net,+62 (018) 383-8852,6,True
+69,EMP000069,Citra Saptono,Female,Cashier,4518206,2025-04-06,cnainggolan@example.org,+62 (022) 873 6877,6,True
+70,EMP000070,Caket Lailasari,Female,Warehouse Staff,5725620,2019-07-25,jaryani@example.net,+62 (69) 738-4460,6,True
+71,EMP000071,Sutan Omar Utami,Female,Warehouse Staff,5639128,2024-05-19,cemplunk97@example.com,+62 (046) 656 2579,6,True
+72,EMP000072,Lembah Wastuti,Male,Warehouse Staff,4416439,2025-01-20,talia20@example.com,+62 (0840) 688-4585,6,True
+73,EMP000073,Uchita Pratiwi,Male,Store Manager,12528619,2026-03-02,hamzahprayoga@example.net,(0270) 802 1775,7,True
+74,EMP000074,Unjani Pangestu,Female,Supervisor,9894931,2024-07-24,laksitaembuh@example.net,+62 (0527) 640 8052,7,True
+75,EMP000075,R.M. Kasim Hutagalung,Male,Supervisor,8985131,2020-03-06,shidayanto@example.net,(012) 663 7927,7,True
+76,EMP000076,"Hadi Rahayu, S.E.",Male,Cashier,5122221,2020-01-05,asmuni09@example.com,+62-050-387-6543,7,True
+77,EMP000077,Azalea Siregar,Female,Cashier,4968496,2025-12-09,titinhabibi@example.com,0800508796,7,True
+78,EMP000078,Anita Hartati,Male,Cashier,5623031,2022-06-07,tgunarto@example.net,+62 (571) 244-2093,7,True
+79,EMP000079,"Cut Faizah Hidayat, S.Psi",Male,Cashier,6394999,2021-01-14,yusufwibisono@example.org,+62 (0223) 156 3150,7,True
+80,EMP000080,Vivi Haryanti,Male,Cashier,5372403,2019-02-10,bmaryadi@example.com,+62-0734-994-5772,7,True
+81,EMP000081,"drg. Nadine Pratama, M.Pd",Male,Cashier,6320941,2023-03-30,yulialazuardi@example.org,+62 (0413) 338-5696,7,True
+82,EMP000082,Latika Sitorus,Female,Warehouse Staff,4072182,2020-12-10,rikamarbun@example.org,+62-277-767-6551,7,True
+83,EMP000083,T. Hardi Putra,Female,Warehouse Staff,4749254,2021-01-04,wasitalaksana@example.net,+62 (0862) 644 9334,7,True
+84,EMP000084,Darimin Purnawati,Female,Warehouse Staff,5743081,2020-04-08,fhariyah@example.com,+62 (0096) 523 3387,7,True
+85,EMP000085,Atma Kusumo,Female,Store Manager,12402229,2024-11-23,tarihoranlukman@example.net,0869074327,8,True
+86,EMP000086,Kezia Uyainah,Female,Supervisor,8747902,2022-06-23,damanikivan@example.net,+62 (904) 553-5693,8,True
+87,EMP000087,Ghaliyati Riyanti,Female,Supervisor,8178906,2025-03-17,anita19@example.net,+62-0995-083-1945,8,True
+88,EMP000088,Laswi Uyainah,Female,Cashier,5548683,2021-11-12,mwijaya@example.net,+62 (98) 223-1339,8,True
+89,EMP000089,Titin Anggraini,Male,Cashier,5451060,2023-06-18,abyasaputra@example.org,+62 (98) 923-5038,8,True
+90,EMP000090,Latika Ardianto,Female,Cashier,5380535,2019-05-06,damaniksabri@example.org,0800337658,8,True
+91,EMP000091,"Dr. Farah Hasanah, M.TI.",Male,Cashier,5431955,2020-07-23,utamahilda@example.org,+62 (70) 458 3082,8,True
+92,EMP000092,Ika Maulana,Female,Cashier,4696679,2023-03-15,pradiptagabriella@example.com,+62 (096) 213 1907,8,True
+93,EMP000093,Janet Puspasari,Female,Cashier,5786217,2024-01-22,asirwanda99@example.net,+62 (0804) 435 7224,8,True
+94,EMP000094,Banawi Hidayanto,Male,Warehouse Staff,5462919,2025-11-09,pangestu26@example.net,+62 (161) 835-7014,8,True
+95,EMP000095,"Tania Waluyo, S.Pd",Female,Warehouse Staff,5038082,2025-06-24,kokorahmawati@example.net,+62-0140-240-2320,8,True
+96,EMP000096,"Gamblang Purwanti, S.IP",Male,Warehouse Staff,5340153,2021-03-16,dasasitompul@example.net,+62-07-620-9972,8,True
+97,EMP000097,Harjo Nashiruddin,Female,Store Manager,16965772,2025-06-18,mandalaajeng@example.com,(0565) 838 2620,9,True
+98,EMP000098,Anita Tamba,Female,Supervisor,8895556,2025-06-29,sihotangjumari@example.org,+62 (532) 320-1091,9,True
+99,EMP000099,Zizi Lazuardi,Male,Supervisor,9005909,2024-03-22,mmarbun@example.org,0812804237,9,True
+100,EMP000100,"Titin Suwarno, M.Kom.",Male,Cashier,5575080,2021-04-18,heru37@example.net,+62 (029) 189 1128,9,True
+101,EMP000101,Elma Budiman,Male,Cashier,5632034,2021-04-15,bahuwarnahalim@example.net,+62-224-655-2237,9,True
+102,EMP000102,"R. Violet Yuniar, S.E.",Male,Cashier,6254128,2022-12-19,umaya29@example.com,+62 (771) 478 3020,9,True
+103,EMP000103,Ega Sihombing,Male,Cashier,6427444,2024-11-22,warjimulyani@example.com,+62 (024) 157 9235,9,True
+104,EMP000104,Najib Pudjiastuti,Female,Cashier,6494198,2018-09-04,safitrichelsea@example.org,+62-724-786-2939,9,True
+105,EMP000105,Aslijan Mulyani,Male,Cashier,5275185,2024-11-16,dono33@example.com,+62 (449) 342 6383,9,True
+106,EMP000106,"Puti Halima Novitasari, S.Psi",Male,Warehouse Staff,5012992,2023-02-09,bakiadithamrin@example.org,+62 (582) 285-8591,9,True
+107,EMP000107,"Eli Napitupulu, S.E.I",Male,Warehouse Staff,4773174,2019-01-30,tira75@example.com,084 536 7212,9,True
+108,EMP000108,Fitria Firmansyah,Female,Warehouse Staff,4553254,2020-09-12,vzulaika@example.net,+62-039-769-4309,9,True
+109,EMP000109,"Ir. Jane Mustofa, M.M.",Male,Store Manager,12140826,2023-10-21,ridwanfirmansyah@example.com,+62 (045) 817-5558,10,True
+110,EMP000110,Tgk. Kartika Santoso,Female,Supervisor,10333139,2024-08-11,wnababan@example.org,+62 (160) 914-2377,10,True
+111,EMP000111,Caturangga Mayasari,Female,Supervisor,8550324,2024-10-30,qandriani@example.net,(088) 257 2308,10,False
+112,EMP000112,Juli Wastuti,Male,Cashier,5008430,2023-01-27,anommayasari@example.com,(078) 761 4796,10,True
+113,EMP000113,Embuh Palastri,Male,Cashier,6011768,2021-11-27,atmajapradana@example.org,(054) 871-1725,10,True
+114,EMP000114,Citra Hutapea,Female,Cashier,5402396,2024-12-12,galiono05@example.com,0895030061,10,True
+115,EMP000115,R. Elma Setiawan,Male,Cashier,5168245,2024-07-25,saktiprasasta@example.org,+62 (044) 662 4282,10,True
+116,EMP000116,Drs. Silvia Winarno,Male,Cashier,5241487,2019-06-16,eyuliarti@example.org,+62-031-194-8756,10,True
+117,EMP000117,Dono Rajasa,Female,Cashier,5862114,2022-07-06,farahsuartini@example.net,+62 (0682) 998-7058,10,True
+118,EMP000118,"Drs. Kamidin Prasetya, S.Gz",Male,Warehouse Staff,5544196,2023-12-19,hhardiansyah@example.com,(040) 617 4950,10,True
+119,EMP000119,Sutan Karsa Saputra,Female,Warehouse Staff,5946477,2018-11-17,maria41@example.net,+62 (76) 560 3527,10,True
+120,EMP000120,"Cut Kayla Zulkarnain, S.Gz",Male,Warehouse Staff,5773129,2025-06-10,fprabowo@example.org,+62 (0634) 595 5815,10,True
+121,EMP000121,"R.A. Rachel Kusumo, S.E.I",Male,Store Manager,15225032,2020-06-10,agusmarbun@example.org,(012) 065 0322,11,True
+122,EMP000122,"KH. Karja Permadi, S.Kom",Female,Supervisor,8655982,2024-02-20,ilyaspuspasari@example.net,+62 (0954) 121 6399,11,True
+123,EMP000123,Puspa Hidayat,Male,Supervisor,8187213,2022-09-25,irwannasyiah@example.net,+62-0367-154-4209,11,True
+124,EMP000124,Lukita Santoso,Male,Cashier,5078636,2023-08-10,nnuraini@example.net,(0717) 950 3846,11,False
+125,EMP000125,"R.M. Budi Mangunsong, S.Pt",Male,Cashier,5191437,2024-05-18,zlestari@example.net,+62 (0953) 038 6203,11,True
+126,EMP000126,Emong Oktaviani,Male,Cashier,4619449,2024-03-22,liman87@example.org,+62-610-218-3217,11,True
+127,EMP000127,"R. Salsabila Sirait, S.Pd",Female,Cashier,4932478,2020-02-27,nasyiahslamet@example.net,+62 (0252) 350-4664,11,True
+128,EMP000128,Ibun Widiastuti,Male,Cashier,5843812,2022-12-26,jinawi67@example.net,+62 (0560) 511-6946,11,True
+129,EMP000129,Ir. Olivia Suartini,Male,Cashier,6144873,2023-09-22,yolandakaren@example.com,+62 (084) 228 6326,11,True
+130,EMP000130,Dalima Pudjiastuti,Male,Warehouse Staff,4125466,2019-06-20,bagiyawidiastuti@example.org,+62 (842) 856 6599,11,True
+131,EMP000131,Alambana Rajasa,Male,Warehouse Staff,5966320,2021-06-05,xprakasa@example.org,(0317) 397-9829,11,True
+132,EMP000132,"Laswi Tamba, S.Kom",Female,Warehouse Staff,5560469,2021-11-05,kurnia68@example.com,+62-0336-873-5651,11,True
+133,EMP000133,"Makuta Narpati, S.Sos",Male,Store Manager,14719849,2019-03-14,wahyunarpati@example.net,+62-03-560-7728,12,True
+134,EMP000134,"Latika Haryanto, M.M.",Female,Supervisor,10622636,2020-06-16,teguhpudjiastuti@example.com,+62 (0513) 984-3753,12,True
+135,EMP000135,Olivia Saputra,Male,Supervisor,8346721,2024-10-12,rhutasoit@example.net,(062) 683 5182,12,True
+136,EMP000136,Galang Rahayu,Female,Cashier,5482375,2018-09-13,cemani93@example.net,082 412 1692,12,True
+137,EMP000137,Eka Habibi,Male,Cashier,5914130,2020-05-16,eva31@example.com,0839907786,12,True
+138,EMP000138,Puti Hasna Pradipta,Male,Cashier,5204336,2019-02-20,kurniawandipa@example.org,+62-12-579-9160,12,True
+139,EMP000139,Wani Permata,Male,Cashier,4937138,2021-01-24,zahra84@example.com,+62 (423) 421 3430,12,True
+140,EMP000140,Rina Sihombing,Female,Cashier,6162546,2024-06-27,adriansyahartawan@example.com,+62 (410) 494-8331,12,True
+141,EMP000141,Ir. Bakiono Mahendra,Male,Cashier,6139863,2023-01-06,eja77@example.net,(0569) 785 7838,12,True
+142,EMP000142,"R. Lidya Narpati, M.Ak",Female,Warehouse Staff,5036673,2023-11-15,darmaji00@example.com,+62-64-769-8412,12,True
+143,EMP000143,Zalindra Pranowo,Female,Warehouse Staff,4239410,2021-10-12,prasetyonatalia@example.org,0877887858,12,True
+144,EMP000144,"Eka Laksmiwati, M.M.",Female,Warehouse Staff,4638325,2020-10-11,maimunahsetiawan@example.com,+62 (96) 004-7990,12,True
+145,EMP000145,Almira Dabukke,Female,Store Manager,13704128,2021-04-05,rajasakawaca@example.net,(0526) 189-6143,13,True
+146,EMP000146,Hadi Wibisono,Male,Supervisor,9896566,2021-11-17,ffirgantoro@example.com,+62-325-769-1050,13,True
+147,EMP000147,Leo Zulaika,Male,Supervisor,9860250,2020-12-10,hhartati@example.org,(0897) 794-7181,13,True
+148,EMP000148,Cemani Nugroho,Female,Cashier,4714000,2019-11-15,gmustofa@example.com,+62-0689-971-2072,13,True
+149,EMP000149,"Sutan Bahuwarna Maheswara, M.Kom.",Male,Cashier,5221675,2024-08-15,vnatsir@example.com,(0921) 146-7383,13,True
+150,EMP000150,drg. Hesti Padmasari,Female,Cashier,5735116,2018-08-06,prasetyabahuwirya@example.net,+62-041-379-8963,13,True
+151,EMP000151,Diah Wahyudin,Male,Cashier,4814197,2022-08-03,nasrullahadriansyah@example.com,(0235) 469-9047,13,True
+152,EMP000152,Wira Nurdiyanti,Female,Cashier,6487925,2020-12-09,damanikindah@example.com,+62 (55) 293-2989,13,True
+153,EMP000153,H. Kajen Mangunsong,Female,Cashier,4517851,2021-09-13,samosirsoleh@example.com,(0192) 827 6133,13,True
+154,EMP000154,Lanang Maryadi,Male,Warehouse Staff,4760748,2024-03-19,candrakantasaefullah@example.org,(028) 294-3813,13,True
+155,EMP000155,Vino Wahyuni,Male,Warehouse Staff,5973140,2025-03-21,sudiatidewi@example.com,+62-053-387-6205,13,True
+156,EMP000156,"Gandi Hidayat, S.E.I",Female,Warehouse Staff,5962405,2019-04-01,hprasasta@example.com,(0889) 977 0318,13,True
+157,EMP000157,Salimah Namaga,Male,Store Manager,12870285,2018-12-10,nsaefullah@example.net,(0114) 167-1326,14,False
+158,EMP000158,Karsa Anggriawan,Female,Supervisor,9294158,2022-05-29,gaman69@example.com,(003) 357-7290,14,True
+159,EMP000159,R. Restu Manullang,Female,Supervisor,8573437,2025-12-27,kaylapuspasari@example.net,0854771037,14,True
+160,EMP000160,KH. Adinata Halimah,Male,Cashier,4738809,2018-10-02,raihan93@example.com,+62-068-105-7975,14,True
+161,EMP000161,Tgk. Ghani Prabowo,Female,Cashier,5597418,2018-09-22,caturangga40@example.net,+62-882-484-5747,14,True
+162,EMP000162,Jarwa Salahudin,Male,Cashier,5415891,2018-10-12,lestarisafina@example.net,+62 (0476) 339-1001,14,True
+163,EMP000163,"Drs. Irma Irawan, S.E.I",Male,Cashier,5336374,2023-10-04,luyainah@example.org,+62 (77) 233 4103,14,True
+164,EMP000164,"Calista Widodo, S.Pd",Female,Cashier,5971984,2020-10-18,gadang88@example.com,+62 (466) 254 6028,14,True
+165,EMP000165,"R. Pangestu Nababan, S.H.",Male,Cashier,5918106,2020-11-14,kanda91@example.org,+62-0187-473-7416,14,True
+166,EMP000166,"Puti Cinta Mahendra, S.Pt",Female,Warehouse Staff,5148055,2021-05-10,jwaskita@example.net,+62-023-551-9640,14,True
+167,EMP000167,"Karja Usada, M.Ak",Female,Warehouse Staff,5362785,2026-02-20,uwibowo@example.com,+62 (21) 358 9453,14,True
+168,EMP000168,"Gading Dabukke, S.I.Kom",Female,Warehouse Staff,4251648,2021-08-23,prasetyo04@example.net,+62 (93) 284 9174,14,True
+169,EMP000169,"R.A. Tania Wulandari, S.E.",Female,Store Manager,13377879,2020-02-27,palastriedi@example.net,+62-682-579-0198,15,False
+170,EMP000170,Dr. Marwata Suryatmi,Male,Supervisor,10972857,2024-01-07,dalima14@example.net,+62-0740-320-3725,15,True
+171,EMP000171,"Dr. Pardi Lestari, M.Kom.",Male,Supervisor,9840107,2021-07-18,nabila98@example.net,(018) 458-2277,15,True
+172,EMP000172,"Sutan Luluh Aryani, S.Kom",Female,Cashier,5040616,2021-05-24,yosef20@example.com,(054) 637 4566,15,True
+173,EMP000173,Ilsa Widiastuti,Female,Cashier,5882154,2023-05-12,ilsasimbolon@example.com,+62 (0050) 298-6808,15,True
+174,EMP000174,Ir. Qori Rahimah,Male,Cashier,6130447,2021-01-03,mmegantara@example.com,0808725338,15,False
+175,EMP000175,"Dr. Darmaji Astuti, M.Ak",Female,Cashier,4550474,2022-05-27,aanggriawan@example.com,085 769 8321,15,True
+176,EMP000176,Ellis Laksita,Male,Cashier,4698010,2018-09-25,purnawatipuji@example.net,+62-13-052-9375,15,True
+177,EMP000177,"Latika Samosir, M.Farm",Female,Cashier,6118152,2023-06-12,galakkusumo@example.net,+62 (064) 966 9135,15,True
+178,EMP000178,Simon Suwarno,Female,Warehouse Staff,4480401,2022-03-03,cinta63@example.org,+62 (112) 314 7929,15,True
+179,EMP000179,Bakda Kuswandari,Female,Warehouse Staff,5435482,2018-11-16,garamahendra@example.net,+62 (078) 867-7559,15,True
+180,EMP000180,Kezia Zulkarnain,Male,Warehouse Staff,5924873,2026-05-31,kunthara67@example.org,+62 (067) 666 1153,15,True
+181,EMP000181,Galar Nainggolan,Male,Store Manager,12322251,2024-12-08,manullangbaktiono@example.org,+62 (001) 088-9337,16,True
+182,EMP000182,Jayeng Anggraini,Male,Supervisor,8334579,2019-08-24,tirawan@example.com,+62 (0065) 418 4665,16,True
+183,EMP000183,Jayadi Lestari,Male,Supervisor,10432648,2019-04-22,dalimanprasetyo@example.com,+62 (010) 733-5062,16,True
+184,EMP000184,"Dr. Raisa Zulaika, S.I.Kom",Male,Cashier,6465052,2026-02-11,ksamosir@example.net,+62 (85) 167 7931,16,True
+185,EMP000185,"Bakiadi Pertiwi, S.E.",Female,Cashier,5801058,2022-05-14,kuswoyonova@example.org,+62 (0764) 795 0047,16,True
+186,EMP000186,Perkasa Safitri,Female,Cashier,6499843,2020-08-16,capa72@example.com,+62 (0176) 715 6806,16,True
+187,EMP000187,"Rafid Budiyanto, M.Kom.",Female,Cashier,5514316,2021-11-12,namagagamani@example.com,+62 (36) 663-9580,16,True
+188,EMP000188,Ade Winarno,Female,Cashier,4692158,2025-11-22,aswaniwijayanti@example.net,084 579 5641,16,True
+189,EMP000189,Shania Melani,Female,Cashier,5347526,2024-10-24,baguspranowo@example.net,+62 (082) 017 8033,16,True
+190,EMP000190,"dr. Malika Sihombing, S.Sos",Male,Warehouse Staff,5669547,2022-04-11,fsihombing@example.com,(0427) 537-9881,16,True
+191,EMP000191,Harjaya Latupono,Female,Warehouse Staff,5487315,2018-10-06,gambira32@example.com,+62 (0210) 278-7949,16,True
+192,EMP000192,Nadine Mandala,Male,Warehouse Staff,4935604,2019-07-07,januardaru@example.net,+62 (0255) 222 6857,16,True
+193,EMP000193,Vivi Halimah,Male,Store Manager,15198178,2023-07-31,iwahyuni@example.org,+62 (005) 498-0939,17,True
+194,EMP000194,Tgk. Ida Prakasa,Female,Supervisor,9112039,2021-06-08,zamira04@example.com,+62 (007) 648-5273,17,True
+195,EMP000195,drg. Mahmud Sitompul,Female,Supervisor,10540314,2026-05-27,larashidayat@example.net,086 580 8584,17,True
+196,EMP000196,Kajen Kurniawan,Female,Cashier,4623313,2021-08-09,wmegantara@example.com,(0850) 016-2381,17,True
+197,EMP000197,Jaiman Salahudin,Male,Cashier,5769476,2024-05-13,sitoruselvina@example.org,(0883) 044 3830,17,True
+198,EMP000198,"Dadap Wasita, M.Pd",Female,Cashier,5834603,2021-02-25,lailasariputri@example.com,(021) 938 1764,17,True
+199,EMP000199,R. Humaira Puspasari,Female,Cashier,4830359,2023-12-28,usamahmujur@example.org,+62 (043) 539 5694,17,True
+200,EMP000200,"Jelita Safitri, S.T.",Female,Cashier,4725811,2021-12-11,fdabukke@example.org,+62 (0150) 186 2103,17,True
+201,EMP000201,Hamzah Lazuardi,Male,Cashier,6264780,2019-07-15,kenziehastuti@example.org,+62 (0943) 409-1074,17,True
+202,EMP000202,Nrima Suwarno,Female,Warehouse Staff,5469067,2023-05-24,rahmat88@example.net,(0827) 804 0682,17,True
+203,EMP000203,Balangga Pudjiastuti,Male,Warehouse Staff,5852317,2020-03-10,osusanti@example.net,088 557 6092,17,True
+204,EMP000204,"Drs. Martana Puspita, S.Sos",Male,Warehouse Staff,4162744,2019-05-20,opan08@example.net,089 474 2820,17,True
+205,EMP000205,Citra Prakasa,Male,Store Manager,15506296,2025-02-26,uwibowo@example.com,+62 (042) 911 7788,18,True
+206,EMP000206,Puti Agnes Yulianti,Male,Supervisor,9437719,2025-10-25,ganjaranpradipta@example.org,080 087 7691,18,True
+207,EMP000207,Sutan Ikin Pangestu,Male,Supervisor,8595717,2019-03-02,kagustina@example.com,+62 (065) 694 8579,18,True
+208,EMP000208,"Paris Samosir, M.Pd",Male,Cashier,5175173,2025-04-07,rahmawatitina@example.org,+62 (419) 148 5787,18,True
+209,EMP000209,Nadine Suwarno,Female,Cashier,5629102,2024-01-19,caturangga74@example.com,+62 (743) 538-3957,18,True
+210,EMP000210,Viktor Napitupulu,Female,Cashier,5164058,2023-11-12,viktor83@example.net,+62-044-775-5520,18,True
+211,EMP000211,Carla Narpati,Male,Cashier,5399298,2025-07-09,umangunsong@example.com,+62 (0075) 206-5199,18,True
+212,EMP000212,Karimah Prastuti,Male,Cashier,6448324,2021-03-02,saifulwacana@example.org,(0686) 213 4894,18,True
+213,EMP000213,Unggul Nasyiah,Male,Cashier,5628652,2021-10-31,prabowo32@example.net,+62-0446-845-2379,18,True
+214,EMP000214,Bagas Pudjiastuti,Female,Warehouse Staff,5140802,2021-12-05,putrikusmawati@example.net,+62 (16) 713-6319,18,True
+215,EMP000215,Paiman Nurdiyanti,Male,Warehouse Staff,5851034,2022-10-10,platupono@example.net,+62 (0943) 985-6235,18,True
+216,EMP000216,"Maryadi Mandala, S.IP",Male,Warehouse Staff,5442074,2022-03-19,vinomayasari@example.org,+62 (0670) 963 2329,18,True
+217,EMP000217,R. Kenes Maulana,Male,Store Manager,16640567,2020-01-23,vhariyah@example.com,+62 (063) 334 0435,19,True
+218,EMP000218,"dr. Raisa Nugroho, S.E.",Male,Supervisor,10740954,2019-05-11,iswahyudijagapati@example.org,+62 (046) 180-7299,19,True
+219,EMP000219,"Asmianto Kurniawan, S.H.",Female,Supervisor,9542384,2018-11-10,harto02@example.com,+62-035-211-4477,19,True
+220,EMP000220,Dr. Erik Rahmawati,Female,Cashier,5165723,2018-08-27,empluk92@example.org,+62-0260-025-2470,19,True
+221,EMP000221,"Yusuf Yuliarti, M.Pd",Male,Cashier,4516430,2019-08-11,isamosir@example.org,(045) 580 7257,19,True
+222,EMP000222,Murti Permata,Female,Cashier,4678134,2021-12-29,keziaprasetya@example.com,+62 (097) 847 5164,19,True
+223,EMP000223,"Puti Salwa Hartati, S.I.Kom",Female,Cashier,6341562,2021-12-18,wastutihalim@example.net,+62 (0493) 090 7430,19,True
+224,EMP000224,"Almira Mardhiyah, M.Pd",Male,Cashier,6369555,2018-08-25,cakrabuanadabukke@example.org,0853575943,19,True
+225,EMP000225,Ajeng Hakim,Female,Cashier,4750265,2021-03-04,chassanah@example.net,088 089 0303,19,True
+226,EMP000226,R.A. Elisa Susanti,Male,Warehouse Staff,4745950,2023-11-30,adriansyahicha@example.com,+62 (0293) 645-0437,19,True
+227,EMP000227,Puti Kayla Tampubolon,Male,Warehouse Staff,4088092,2024-07-16,daliman16@example.net,+62 (030) 430 9571,19,True
+228,EMP000228,Vivi Sudiati,Male,Warehouse Staff,5803622,2019-08-14,widya48@example.com,+62-036-892-8612,19,True
+229,EMP000229,Ade Prastuti,Female,Store Manager,14513614,2026-05-28,luwarutami@example.org,+62 (059) 989 4766,20,True
+230,EMP000230,"Garan Wibowo, M.TI.",Male,Supervisor,10566893,2025-10-21,ghaliyati10@example.org,(014) 426-3407,20,True
+231,EMP000231,Lutfan Sihombing,Male,Supervisor,9927468,2022-03-07,winarsihharsanto@example.net,+62-0351-542-8724,20,True
+232,EMP000232,Himawan Agustina,Male,Cashier,5575019,2026-02-08,gangsahalimah@example.net,+62 (074) 104-0461,20,True
+233,EMP000233,Hj. Ghaliyati Pranowo,Male,Cashier,5936197,2025-08-15,setiawanjarwa@example.org,+62-0069-795-6754,20,True
+234,EMP000234,Zamira Wasita,Male,Cashier,4645037,2026-02-18,siregargading@example.net,+62 (069) 328-3785,20,False
+235,EMP000235,"Cager Kuswandari, S.Kom",Male,Cashier,5652631,2020-03-16,puput19@example.org,+62 (640) 058 3682,20,True
+236,EMP000236,"Ulya Hidayat, S.I.Kom",Female,Cashier,5057601,2019-10-25,ksitorus@example.net,+62 (08) 731 2846,20,True
+237,EMP000237,Calista Handayani,Female,Cashier,4829226,2025-08-29,hakimwira@example.org,+62 (043) 611 9910,20,False
+238,EMP000238,Mala Rahimah,Male,Warehouse Staff,5831929,2019-04-26,mustofakarma@example.net,+62 (026) 902-3516,20,True
+239,EMP000239,Galiono Santoso,Female,Warehouse Staff,4622794,2020-09-21,oktavianinardi@example.org,+62 (75) 525-5441,20,True
+240,EMP000240,Gangsa Mandasari,Male,Warehouse Staff,4218583,2020-12-31,gamantosusanti@example.net,+62-36-027-4367,20,True
+241,EMP000241,Ilsa Firgantoro,Male,Store Manager,12152224,2020-08-04,cakrawangsa42@example.org,(096) 349 9394,21,True
+242,EMP000242,Nalar Nashiruddin,Female,Supervisor,8643059,2020-12-12,bakimantamba@example.com,+62 (027) 453 8226,21,True
+243,EMP000243,"R.A. Jelita Mansur, M.Farm",Male,Supervisor,10857782,2023-01-10,melinda06@example.org,087 425 3403,21,True
+244,EMP000244,Lili Siregar,Male,Cashier,5699698,2019-04-16,zjanuar@example.org,088 282 5844,21,True
+245,EMP000245,Liman Rahimah,Female,Cashier,5771161,2019-02-03,karen85@example.org,+62 (0561) 018-4319,21,True
+246,EMP000246,"Ir. Cinthia Widodo, S.Psi",Female,Cashier,5842353,2020-07-16,kartanamaga@example.net,+62-477-775-9465,21,True
+247,EMP000247,Bajragin Hutagalung,Female,Cashier,6269367,2026-04-13,glaksita@example.com,+62-87-596-7101,21,True
+248,EMP000248,"drg. Yulia Aryani, S.H.",Male,Cashier,6270963,2026-04-12,bmaryati@example.com,+62-339-266-7572,21,True
+249,EMP000249,Sabrina Mangunsong,Male,Cashier,5623791,2024-10-31,estiono39@example.org,+62 (0652) 402-8438,21,True
+250,EMP000250,Joko Agustina,Female,Warehouse Staff,5589901,2019-12-08,vivi16@example.com,(0248) 502-7821,21,True
+251,EMP000251,Opan Nuraini,Male,Warehouse Staff,4874472,2021-12-26,usadazalindra@example.org,+62 (58) 991-3695,21,True
+252,EMP000252,Jaya Utama,Male,Warehouse Staff,4989554,2021-12-11,anomsuartini@example.net,+62 (59) 943 7230,21,False
+253,EMP000253,Dr. Lili Hastuti,Male,Store Manager,12912601,2020-12-25,dwidodo@example.com,+62 (362) 714 2261,22,True
+254,EMP000254,"Cawuk Utama, S.Psi",Female,Supervisor,10394207,2023-03-12,samosirdwi@example.org,0865853671,22,True
+255,EMP000255,"KH. Limar Dabukke, S.Pd",Male,Supervisor,8572194,2020-02-14,marsitokurniawan@example.net,+62 (839) 767-4196,22,True
+256,EMP000256,Yulia Puspasari,Female,Cashier,4664802,2026-03-02,cutama@example.com,+62 (276) 369-2153,22,True
+257,EMP000257,"Yunita Budiyanto, M.TI.",Female,Cashier,5027344,2019-11-06,hartatilimar@example.org,+62 (33) 982-0970,22,True
+258,EMP000258,Lanang Tamba,Female,Cashier,5263470,2020-01-25,rastuti@example.com,+62 (098) 594 5634,22,False
+259,EMP000259,Sarah Putra,Female,Cashier,5227510,2025-01-07,darimin93@example.com,+62 (852) 567 4422,22,False
+260,EMP000260,"Sutan Mariadi Yulianti, S.Gz",Male,Cashier,5004858,2026-01-07,mustika90@example.com,0887172531,22,True
+261,EMP000261,"Rahmi Mandala, M.M.",Male,Cashier,4752394,2023-02-16,lmegantara@example.org,+62 (066) 008-6043,22,True
+262,EMP000262,Shakila Sihotang,Male,Warehouse Staff,5948307,2021-09-05,sitorusjagaraga@example.com,(0354) 659 5167,22,True
+263,EMP000263,Kuncara Waskita,Female,Warehouse Staff,4603012,2025-02-16,upranowo@example.com,+62-45-575-7755,22,True
+264,EMP000264,"Prabu Kurniawan, M.Ak",Male,Warehouse Staff,5454494,2021-09-20,wnajmudin@example.org,+62 (06) 393-3573,22,True
+265,EMP000265,"Cut Puti Widodo, S.IP",Female,Store Manager,12127005,2022-09-13,michelle22@example.com,+62 (793) 964-6481,23,False
+266,EMP000266,Mumpuni Wasita,Female,Supervisor,9512952,2025-12-29,gina99@example.com,0800083326,23,True
+267,EMP000267,Ika Kuswandari,Female,Supervisor,8766543,2020-04-25,halimahharto@example.net,+62-79-355-1084,23,True
+268,EMP000268,Tgk. Narji Usada,Female,Cashier,5027429,2020-05-23,suryonomakara@example.net,+62 (053) 682 2957,23,True
+269,EMP000269,"Reksa Nababan, M.TI.",Female,Cashier,5340877,2024-02-18,purwantilaswi@example.net,(019) 367 3707,23,True
+270,EMP000270,Tgk. Kani Kurniawan,Male,Cashier,6414458,2024-09-30,ulestari@example.org,+62 (089) 593-7748,23,True
+271,EMP000271,Luwar Siregar,Female,Cashier,6253513,2022-07-07,mahesa61@example.com,+62 (091) 683 3187,23,True
+272,EMP000272,"R. Rini Wahyuni, S.Kom",Male,Cashier,4510273,2023-10-11,budimancarla@example.com,(0284) 909-1995,23,True
+273,EMP000273,Edward Padmasari,Female,Cashier,5462414,2018-10-22,waskitarudi@example.org,+62 (062) 970 3705,23,True
+274,EMP000274,Dr. Bakiman Marpaung,Female,Warehouse Staff,4190936,2019-10-14,yuliartidanu@example.net,+62-439-793-6344,23,True
+275,EMP000275,Yunita Sitompul,Male,Warehouse Staff,4814436,2025-02-21,verolaksmiwati@example.com,(0723) 938-3978,23,True
+276,EMP000276,"Tgk. Dadap Andriani, S.Gz",Male,Warehouse Staff,5767588,2019-08-18,gandibudiman@example.net,(047) 895-4193,23,True
+277,EMP000277,Jinawi Kusumo,Female,Store Manager,12438682,2018-07-26,tambagina@example.com,+62-0783-893-1425,24,True
+278,EMP000278,KH. Ihsan Lailasari,Male,Supervisor,8309044,2023-11-09,bahuwarnayulianti@example.com,(090) 222-5136,24,True
+279,EMP000279,Rachel Yuniar,Female,Supervisor,10303856,2024-08-13,umar67@example.org,(0106) 698 0391,24,True
+280,EMP000280,Juli Setiawan,Male,Cashier,4726746,2025-07-07,knajmudin@example.org,(045) 707 4567,24,True
+281,EMP000281,"Jane Simanjuntak, S.Ked",Female,Cashier,6237387,2019-10-07,teddy50@example.com,085 569 6342,24,True
+282,EMP000282,"Ir. Tri Utami, S.Psi",Male,Cashier,5400918,2018-08-06,npradipta@example.net,(0311) 122-8674,24,True
+283,EMP000283,Zulaikha Widiastuti,Male,Cashier,4892269,2024-08-06,ehutagalung@example.net,+62 (077) 692 0288,24,True
+284,EMP000284,Oni Usada,Male,Cashier,4817766,2020-01-20,claramayasari@example.org,0852726387,24,True
+285,EMP000285,Putri Halimah,Male,Cashier,5295353,2024-12-09,vanesazulkarnain@example.com,+62 (966) 388-6069,24,True
+286,EMP000286,Salwa Mansur,Male,Warehouse Staff,4705899,2024-10-03,nasrullahlatupono@example.net,+62-044-810-7547,24,True
+287,EMP000287,"Titi Prayoga, S.IP",Female,Warehouse Staff,4374555,2025-04-14,adinata47@example.net,+62 (003) 051-8503,24,True
+288,EMP000288,Hilda Permata,Male,Warehouse Staff,4437794,2023-11-04,victoriaastuti@example.org,+62 (189) 551-1752,24,True
+289,EMP000289,Clara Najmudin,Male,Store Manager,13485097,2022-04-09,malazulkarnain@example.com,082 792 7422,25,True
+290,EMP000290,Padma Nababan,Male,Supervisor,10236926,2023-09-11,vwasita@example.net,+62-47-349-4007,25,True
+291,EMP000291,"Kartika Dabukke, S.Gz",Female,Supervisor,9259881,2025-03-24,yolandalaras@example.net,085 077 0613,25,True
+292,EMP000292,Yunita Winarsih,Female,Cashier,4710163,2022-06-17,ganjaranprasasta@example.com,0851950249,25,True
+293,EMP000293,Kania Maulana,Female,Cashier,4883854,2024-02-23,prasastanurul@example.com,(0410) 345 6675,25,True
+294,EMP000294,Raisa Prasetyo,Female,Cashier,5401436,2026-02-20,pagustina@example.net,+62 (380) 198-6118,25,True
+295,EMP000295,R.M. Kenari Situmorang,Male,Cashier,4678050,2019-05-13,kpangestu@example.com,+62-082-028-4429,25,True
+296,EMP000296,Siti Farida,Female,Cashier,4952899,2023-02-17,npermadi@example.com,(0274) 636 9172,25,True
+297,EMP000297,"dr. Karen Marpaung, M.TI.",Female,Cashier,5225490,2022-05-13,dadi21@example.org,0844089261,25,True
+298,EMP000298,Jefri Purnawati,Male,Warehouse Staff,4841281,2024-06-15,purwanuraini@example.net,+62 (41) 520 6452,25,True
+299,EMP000299,Indah Maryadi,Female,Warehouse Staff,4978727,2021-12-02,mulya52@example.com,+62 (473) 147 3104,25,True
+300,EMP000300,Indra Wibisono,Male,Warehouse Staff,4074974,2025-03-23,zulaikhaharyanto@example.org,083 812 1213,25,True

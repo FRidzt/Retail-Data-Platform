@@ -1,0 +1,1001 @@
+product_key,product_code,product_name,category_key,brand_key,unit,color,size,storage,weight_gram,cost_price,selling_price,tax_percent,status,is_active
+1,PRD000001,Hasbro Monopoly,25,78,box,,,,254,344100,516800,11,Active,True
+2,PRD000002,Xiaomi Redmi Note 14 Gray 256GB,3,13,pcs,Gray,,256GB,203,9509600,10856600,11,Active,True
+3,PRD000003,Kalbe Fatigon,9,34,box,,,,394,398600,485200,11,Active,True
+4,PRD000004,Uniqlo AIRism T-Shirt Silver,11,41,pcs,Silver,L,,696,1042500,1498600,11,Active,True
+5,PRD000005,Casio CT-X700,22,70,pcs,,,,12290,9246600,11376000,11,Active,True
+6,PRD000006,IKEA BILLY Bookcase Black,5,20,pcs,Black,Medium,,35638,5820400,6990300,11,Active,True
+7,PRD000007,L'Oreal Revitalift,10,38,pcs,,,,259,35600,50600,11,Discontinued,False
+8,PRD000008,Mattel Hot Wheels,25,77,pcs,,,,4144,44100,59300,11,Active,True
+9,PRD000009,H&M Regular Jeans Black,12,43,pcs,Black,XS,,372,313300,487500,11,Active,True
+10,PRD000010,LEGO City,25,76,pcs,,,,1486,1256200,1641500,11,Active,True
+11,PRD000011,SteelSeries Rival 3 White 128GB,21,67,pcs,White,,128GB,3995,8016000,9538600,11,Discontinued,False
+12,PRD000012,MamyPoko Royal Soft,20,63,pcs,,,,135,428800,575400,11,Active,True
+13,PRD000013,Erlangga Science Book,16,54,pcs,,,,220,11700,15600,0,Active,True
+14,PRD000014,Hasbro Transformers,25,78,pcs,,,,3918,299000,417300,11,Active,True
+15,PRD000015,Nestle KitKat,8,31,box,,,,544,39800,46900,11,Active,True
+16,PRD000016,Samsung Galaxy A56 Purple 64GB,3,12,pcs,Purple,,64GB,153,1708900,1849200,11,Active,True
+17,PRD000017,The North Face Borealis Blue,15,52,pcs,Blue,20L,,2112,2370400,3288300,11,Active,True
+18,PRD000018,Consina Carrier 60L Gold,15,51,pcs,Gold,50L,,4576,2366600,3174500,11,Active,True
+19,PRD000019,Bantex Lever Arch File,24,74,pcs,,,,3527,145200,202700,11,Active,True
+20,PRD000020,Carter's Baby Romper Purple,13,45,pcs,Purple,XXL,,52,874400,1179000,11,Active,True
+21,PRD000021,Bantex Document Tray,24,74,pcs,,,,3050,103500,146100,11,Active,True
+22,PRD000022,Indofood Indomie Goreng,7,26,pcs,,,,160,86600,97400,0,Active,True
+23,PRD000023,Bantex Document Tray,24,74,pcs,,,,1032,159700,203900,11,Active,True
+24,PRD000024,MamyPoko Pants Standard,20,63,pack,,,,2245,550500,762000,11,Active,True
+25,PRD000025,Joyko Notebook,17,56,box,,,,164,11200,14900,11,Active,True
+26,PRD000026,Royal Canin Mini Adult,19,61,pack,,,,4071,113900,139300,11,Active,True
+27,PRD000027,Hasbro Monopoly,25,78,pcs,,,,4688,203600,314700,11,Active,True
+28,PRD000028,GarudaFood Pilus,7,28,box,,,,154,49600,57000,0,Active,True
+29,PRD000029,L'Oreal Revitalift,10,38,pcs,,,,317,40300,54200,11,Active,True
+30,PRD000030,Blackmores Fish Oil,9,32,box,,,,330,315900,404500,11,Discontinued,False
+31,PRD000031,Indofood Indomie Soto,7,26,pcs,,,,290,8000,9400,0,Active,True
+32,PRD000032,Mattel Hot Wheels,25,77,box,,,,411,1149000,1538400,11,Active,True
+33,PRD000033,ASUS Vivobook 15 White 128GB,2,9,pcs,White,,128GB,2490,6012700,6944800,11,Active,True
+34,PRD000034,Olympic Kitchen Cabinet Gray,5,22,pcs,Gray,Medium,,10989,385200,483300,11,Active,True
+35,PRD000035,The North Face Borealis Blue,15,52,pcs,Blue,20L,,526,3606900,4647000,11,Active,True
+36,PRD000036,Whiskas Kitten Ocean Fish,19,60,pcs,,,,4896,57000,68600,11,Discontinued,False
+37,PRD000037,Maspion Cooking Pot,6,25,set,,,,2436,199900,284500,11,Active,True
+38,PRD000038,L'Oreal Revitalift,10,38,pcs,,,,207,208000,313700,11,Active,True
+39,PRD000039,Faber Castell Color Pencil,17,55,box,,,,60,15900,20100,11,Active,True
+40,PRD000040,Deli Stapler,24,75,pcs,,,,3904,315100,420700,11,Active,True
+41,PRD000041,Anker PowerCore 10000 Black,23,71,pcs,Black,,,286,1182500,1842100,11,Active,True
+42,PRD000042,Midea Microwave Oven,4,18,pcs,,,,3881,2803300,3278900,11,Active,True
+43,PRD000043,Bantex Lever Arch File,24,74,pcs,,,,1290,279600,376300,11,Active,True
+44,PRD000044,Deli Paper Cutter,24,75,pcs,,,,1015,316600,436100,11,Active,True
+45,PRD000045,Cussons Baby Baby Oil,20,64,pack,,,,2092,484300,591200,11,Active,True
+46,PRD000046,Royal Canin Mini Adult,19,61,pcs,,,,317,246000,328100,11,Active,True
+47,PRD000047,Coca-Cola Fanta Orange,8,29,pack,,,,1662,39400,46000,11,Active,True
+48,PRD000048,Philips Rice Cooker HD,4,16,pcs,,,,4842,933600,1138200,11,Active,True
+49,PRD000049,Uniqlo Chino Pants Green,12,44,pcs,Green,M,,171,119900,189800,11,Active,True
+50,PRD000050,Bantex Lever Arch File,24,74,pcs,,,,1455,344700,463100,11,Active,True
+51,PRD000051,Baseus Power Bank Green,23,72,pcs,Green,,,937,98400,148500,11,Active,True
+52,PRD000052,Carter's Baby Pajamas Red,13,45,pcs,Red,M,,94,978700,1297900,11,Active,True
+53,PRD000053,Deli Stapler,24,75,pcs,,,,1288,115500,155900,11,Active,True
+54,PRD000054,Wardah Perfect Bright,10,35,bottle,,,,198,244500,321200,11,Active,True
+55,PRD000055,Mattel Barbie,25,77,pcs,,,,2665,174900,236400,11,Active,True
+56,PRD000056,Informa Dining Chair Silver,5,21,pcs,Silver,Small,,23342,2400400,3217400,11,Active,True
+57,PRD000057,UGREEN 65W Charger Gold,23,73,pcs,Gold,,,313,959900,1355700,11,Active,True
+58,PRD000058,Sony PlayStation 5 Gold,1,3,pcs,Gold,,,769,4425800,5425100,11,Active,True
+59,PRD000059,Make Over Lip Cream,10,36,bottle,,,,179,78200,108200,11,Active,True
+60,PRD000060,Consina Tracking Pole White,15,51,pcs,White,20L,,5817,2581400,3399000,11,Active,True
+61,PRD000061,MamyPoko Royal Soft,20,63,pcs,,,,509,429400,570700,11,Active,True
+62,PRD000062,Informa Office Desk Gray,5,21,pcs,Gray,Medium,,28511,4167200,5331300,11,Active,True
+63,PRD000063,Tupperware Eco Bottle,6,23,pcs,,,,3823,382800,535800,11,Active,True
+64,PRD000064,Cussons Baby Baby Lotion,20,64,pcs,,,,256,1102500,1403800,11,Active,True
+65,PRD000065,Tupperware Lunch Box,6,23,set,,,,4679,385500,523300,11,Active,True
+66,PRD000066,Yamaha P-145,22,68,pcs,,,,1580,4309200,5207800,11,Active,True
+67,PRD000067,Hasbro Nerf Elite,25,78,pcs,,,,237,603900,920600,11,Active,True
+68,PRD000068,Philips Rice Cooker HD,4,16,pcs,,,,5192,6828800,7864600,11,Active,True
+69,PRD000069,Make Over Lip Cream,10,36,bottle,,,,123,383900,532700,11,Active,True
+70,PRD000070,Casio WK-6600,22,70,pcs,,,,4890,3526800,4063200,11,Active,True
+71,PRD000071,Erlangga Science Book,16,54,pcs,,,,485,88200,118300,0,Active,True
+72,PRD000072,Shell Brake Fluid,18,58,pcs,,,,543,363800,474900,11,Active,True
+73,PRD000073,LocknLock Glass Container,6,24,set,,,,4624,162600,207300,11,Active,True
+74,PRD000074,Sony PlayStation 5 Purple,1,3,pcs,Purple,,,3392,2545100,3034200,11,Active,True
+75,PRD000075,Gramedia Novel,16,53,pcs,,,,720,22700,30100,0,Active,True
+76,PRD000076,MamyPoko Pants Standard,20,63,pack,,,,2338,1408700,1825700,11,Active,True
+77,PRD000077,L'Oreal Revitalift,10,38,pcs,,,,457,219200,306900,11,Active,True
+78,PRD000078,Royal Canin Persian,19,61,pcs,,,,4992,407900,491700,11,Active,True
+79,PRD000079,Olympic Kitchen Cabinet Green,5,22,pcs,Green,Small,,16024,258700,325700,11,Active,True
+80,PRD000080,Bosch Battery,18,57,pcs,,,,7644,517700,681700,11,Active,True
+81,PRD000081,Midea Air Conditioner,4,18,pcs,,,,9819,3798500,4613300,11,Active,True
+82,PRD000082,SteelSeries Apex Pro Gray 64GB,21,67,pcs,Gray,,64GB,2961,10804800,13293900,11,Active,True
+83,PRD000083,Apple iPhone 16 Pro Gold 512GB,3,11,pcs,Gold,,512GB,174,13172400,15055400,11,Active,True
+84,PRD000084,Castrol Magnatec,18,59,pcs,,,,1911,2729200,3637800,11,Active,True
+85,PRD000085,Bosch Battery,18,57,pcs,,,,3658,1690600,2251500,11,Active,True
+86,PRD000086,Midea Air Conditioner,4,18,pcs,,,,2482,5126800,6190600,11,Active,True
+87,PRD000087,Cussons Baby Baby Oil,20,64,pcs,,,,1684,310500,406700,11,Active,True
+88,PRD000088,The North Face Borealis Purple,15,52,pcs,Purple,20L,,3344,2864100,3598700,11,Active,True
+89,PRD000089,Wardah Perfect Bright,10,35,bottle,,,,312,318600,468300,11,Active,True
+90,PRD000090,Erlangga Science Book,16,54,pcs,,,,902,125300,165500,0,Active,True
+91,PRD000091,Uniqlo Chino Pants Red,11,41,pcs,Red,XL,,281,302900,448000,11,Active,True
+92,PRD000092,Royal Canin Indoor,19,61,pcs,,,,574,19400,26900,11,Active,True
+93,PRD000093,SteelSeries Apex Pro White 64GB,21,67,pcs,White,,64GB,1499,7697400,9883100,11,Discontinued,False
+94,PRD000094,Mothercare Baby Shoes Green,13,46,pcs,Green,S,,160,856400,1277700,11,Active,True
+95,PRD000095,Kalbe Hydro Coco,9,34,box,,,,416,31600,41500,11,Active,True
+96,PRD000096,OPPO A5 Pro Pink 1TB,3,14,pcs,Pink,,1TB,205,9931500,11372800,11,Active,True
+97,PRD000097,SteelSeries Rival 3 Black 256GB,21,67,pcs,Black,,256GB,899,10740800,12967800,11,Active,True
+98,PRD000098,Roland TD-07,22,69,pcs,,,,6887,431400,531300,11,Active,True
+99,PRD000099,Bantex Document Tray,24,74,pcs,,,,1095,318500,434500,11,Active,True
+100,PRD000100,LEGO Creator,25,76,pcs,,,,2973,396900,562000,11,Active,True
+101,PRD000101,Entrasol Gold,9,33,box,,,,397,29000,39400,11,Active,True
+102,PRD000102,Uniqlo Chino Pants Red,12,44,pcs,Red,L,,337,1057200,1612700,11,Active,True
+103,PRD000103,Whiskas Adult Tuna,19,60,pcs,,,,4458,261800,366000,11,Active,True
+104,PRD000104,Pepsi Mirinda,8,30,pack,,,,1372,6500,7800,11,Active,True
+105,PRD000105,The North Face Summit Jacket White,15,52,pcs,White,20L,,3906,3108700,4372200,11,Active,True
+106,PRD000106,Mothercare Baby Shoes Black,13,46,pcs,Black,XXL,,183,206700,284600,11,Active,True
+107,PRD000107,Nike Air Max Pink,11,39,pcs,Pink,S,,683,1725400,2345800,11,Active,True
+108,PRD000108,Pampers Baby Dry,20,62,pack,,,,1344,371300,509100,11,Active,True
+109,PRD000109,Nike Mercurial Blue,14,47,pcs,Blue,XS,,2532,816400,1013600,11,Active,True
+110,PRD000110,Informa Wardrobe Silver,5,21,pcs,Silver,Small,,30087,3338000,4085700,11,Active,True
+111,PRD000111,Zara Leather Jacket Purple,12,42,pcs,Purple,XXL,,212,1041600,1663800,11,Active,True
+112,PRD000112,Electrolux Front Load Washer,4,17,pcs,,,,4629,2784100,3476100,11,Active,True
+113,PRD000113,Joyko Ballpoint,17,56,box,,,,271,22500,31400,11,Active,True
+114,PRD000114,Logitech G Pro X Pink 128GB,21,66,pcs,Pink,,128GB,338,11566000,14803300,11,Active,True
+115,PRD000115,L'Oreal Revitalift,10,38,bottle,,,,144,452400,630400,11,Active,True
+116,PRD000116,Nike Court Vision Gray,14,47,pcs,Gray,L,,2540,3821600,4701100,11,Active,True
+117,PRD000117,Yamaha P-145,22,68,pcs,,,,12124,4894400,6259900,11,Active,True
+118,PRD000118,Cussons Baby Baby Powder,20,64,pack,,,,2161,1101800,1463400,11,Active,True
+119,PRD000119,Joyko Stapler,17,56,box,,,,127,10300,14800,11,Active,True
+120,PRD000120,Royal Canin Persian,19,61,pcs,,,,4037,137800,167700,11,Active,True
+121,PRD000121,Deli Paper Cutter,24,75,pcs,,,,2311,118600,159100,11,Active,True
+122,PRD000122,Emina Sun Protection,10,37,pcs,,,,63,321200,456800,11,Active,True
+123,PRD000123,Carter's Baby Pajamas Green,13,45,pcs,Green,XS,,229,905400,1229200,11,Active,True
+124,PRD000124,Logitech MX Master 3 Pink 512GB,21,66,pcs,Pink,,512GB,2418,10327400,13374200,11,Active,True
+125,PRD000125,Faber Castell Color Pencil,17,55,pcs,,,,267,15300,22100,11,Active,True
+126,PRD000126,The North Face Summit Jacket Gray,15,52,pcs,Gray,20L,,3810,1822800,2477700,11,Active,True
+127,PRD000127,ASUS ROG Strix G16 Gold 256GB,2,9,pcs,Gold,,256GB,1648,11126800,12926800,11,Active,True
+128,PRD000128,Castrol Magnatec,18,59,pcs,,,,6101,2164400,2683700,11,Active,True
+129,PRD000129,MamyPoko Pants Standard,20,63,pcs,,,,1748,1319400,1660700,11,Active,True
+130,PRD000130,Faber Castell 2B Pencil,17,55,box,,,,159,12000,16700,11,Active,True
+131,PRD000131,The North Face Borealis Red,15,52,pcs,Red,50L,,774,1594400,2216700,11,Active,True
+132,PRD000132,Royal Canin Indoor,19,61,pcs,,,,1415,240300,300800,11,Active,True
+133,PRD000133,ASUS TUF A15 Blue 64GB,2,9,pcs,Blue,,64GB,2787,15129400,16927400,11,Active,True
+134,PRD000134,Yamaha F310,22,68,pcs,,,,13921,4612800,5507200,11,Active,True
+135,PRD000135,Joyko Stapler,17,56,box,,,,174,54400,75700,11,Active,True
+136,PRD000136,Pampers Premium Care,20,62,pcs,,,,2569,1052200,1336700,11,Active,True
+137,PRD000137,Joyko Ballpoint,17,56,pcs,,,,153,22800,29900,11,Active,True
+138,PRD000138,Carter's Baby Romper Gold,13,45,pcs,Gold,XS,,447,783800,1103200,11,Active,True
+139,PRD000139,Castrol Power1,18,59,pcs,,,,5292,2232700,2992700,11,Active,True
+140,PRD000140,Deli Calculator,24,75,pcs,,,,258,296500,398500,11,Active,True
+141,PRD000141,GarudaFood Kacang Garuda,7,28,pcs,,,,667,60600,68100,0,Active,True
+142,PRD000142,Tupperware Lunch Box,6,23,set,,,,3609,416000,579600,11,Active,True
+143,PRD000143,Apple iPhone 16 Pro Blue 1TB,3,11,pcs,Blue,,1TB,239,6116600,6827800,11,Active,True
+144,PRD000144,Blackmores Vitamin C,9,32,bottle,,,,51,253000,345200,11,Active,True
+145,PRD000145,Deli Calculator,24,75,pcs,,,,3913,331400,441300,11,Discontinued,False
+146,PRD000146,Coca-Cola Sprite 390ml,8,29,pack,,,,1655,35700,41700,11,Active,True
+147,PRD000147,Sony PlayStation 5 Gray,1,3,pcs,Gray,,,4473,7537900,9452800,11,Active,True
+148,PRD000148,The North Face Base Camp Duffel Pink,15,52,pcs,Pink,30L,,653,3490800,4850900,11,Active,True
+149,PRD000149,LocknLock Food Keeper,6,24,pcs,,,,4265,260100,353200,11,Active,True
+150,PRD000150,Baseus GaN Charger Purple,23,72,pcs,Purple,,,921,1430500,1877900,11,Active,True
+151,PRD000151,Adidas Stan Smith White,14,48,pcs,White,XS,,2576,1107700,1346700,11,Active,True
+152,PRD000152,Zara Slim Blazer Black,12,42,pcs,Black,XXL,,378,1237400,1968200,11,Active,True
+153,PRD000153,Apple iPad Air Red 128GB,3,11,pcs,Red,,128GB,175,10776400,11901400,11,Active,True
+154,PRD000154,Mattel Hot Wheels,25,77,box,,,,3328,706900,977100,11,Active,True
+155,PRD000155,Make Over Lip Cream,10,36,pcs,,,,370,31700,47400,11,Active,True
+156,PRD000156,Midea Microwave Oven,4,18,pcs,,,,9182,4821700,5824000,11,Active,True
+157,PRD000157,Panasonic Rice Cooker SR Blue,1,4,pcs,Blue,,,2308,3250700,3852300,11,Active,True
+158,PRD000158,Nike Revolution Blue,11,39,pcs,Blue,XL,,531,1889900,2990500,11,Active,True
+159,PRD000159,Faber Castell Color Pencil,17,55,pcs,,,,266,47500,68900,11,Active,True
+160,PRD000160,Zara Leather Jacket Blue,12,42,pcs,Blue,XS,,577,1687900,2297300,11,Active,True
+161,PRD000161,H&M Basic Hoodie Silver,12,43,pcs,Silver,L,,183,1911800,2919000,11,Active,True
+162,PRD000162,Nike Mercurial Pink,14,47,pcs,Pink,XXL,,1142,2901600,3558400,11,Active,True
+163,PRD000163,Nestle Nescafe,8,31,pack,,,,1826,10300,12700,11,Active,True
+164,PRD000164,Roland TD-07,22,69,pcs,,,,608,8827100,10307700,11,Discontinued,False
+165,PRD000165,Nike Air Max Green,14,47,pcs,Green,L,,319,1145700,1439100,11,Active,True
+166,PRD000166,Indofood Indomie Goreng,7,26,pcs,,,,256,80900,92100,0,Active,True
+167,PRD000167,UGREEN 65W Charger Black,23,73,pcs,Black,,,408,33900,48400,11,Active,True
+168,PRD000168,Deli Stapler,24,75,pcs,,,,1387,194700,262300,11,Discontinued,False
+169,PRD000169,Shell Advance AX7,18,58,pcs,,,,3001,2834100,3420500,11,Active,True
+170,PRD000170,LEGO Technic,25,76,box,,,,2423,430500,662500,11,Active,True
+171,PRD000171,IKEA BILLY Bookcase Gold,5,20,pcs,Gold,Small,,48685,3497400,4364700,11,Active,True
+172,PRD000172,SteelSeries Apex Pro Black 256GB,21,67,pcs,Black,,256GB,369,8178700,10569100,11,Active,True
+173,PRD000173,Castrol EDGE,18,59,pcs,,,,2310,3225600,4137300,11,Active,True
+174,PRD000174,Logitech G102 White 128GB,21,66,pcs,White,,128GB,2917,2758900,3522900,11,Active,True
+175,PRD000175,Samsung Galaxy S25+ Black,1,1,pcs,Black,,,2333,6047600,7151000,11,Active,True
+176,PRD000176,Zara Midi Dress Green,12,42,pcs,Green,S,,124,187700,254800,11,Active,True
+177,PRD000177,MamyPoko Extra Dry,20,63,pcs,,,,2320,966500,1233300,11,Active,True
+178,PRD000178,Deli Stapler,24,75,pcs,,,,2565,224100,301100,11,Active,True
+179,PRD000179,Maspion Pressure Cooker,6,25,set,,,,4112,721200,915300,11,Active,True
+180,PRD000180,Samsung Galaxy A36 White 512GB,3,12,pcs,White,,512GB,187,14948200,17385700,11,Active,True
+181,PRD000181,Coca-Cola Fanta Orange,8,29,box,,,,621,16900,21100,11,Active,True
+182,PRD000182,Hasbro Monopoly,25,78,pcs,,,,592,258800,365800,11,Active,True
+183,PRD000183,Electrolux Vacuum Cleaner,4,17,pcs,,,,10002,3699000,4335100,11,Active,True
+184,PRD000184,Lenovo IdeaPad Slim 5 White 1TB,2,8,pcs,White,,1TB,1920,19989200,23474400,11,Active,True
+185,PRD000185,Entrasol Active,9,33,bottle,,,,403,28500,38400,11,Active,True
+186,PRD000186,IKEA BILLY Bookcase Red,5,20,pcs,Red,Large,,13055,1933000,2578400,11,Active,True
+187,PRD000187,Gramedia Workbook,16,53,pcs,,,,362,82500,111000,0,Active,True
+188,PRD000188,Nike Air Max Red,14,47,pcs,Red,XS,,2362,2480200,3419600,11,Active,True
+189,PRD000189,Mayora Roma Biscuit,7,27,kg,,,,842,82700,95500,0,Active,True
+190,PRD000190,Mothercare Baby Blanket Purple,13,46,pcs,Purple,S,,63,352500,489800,11,Active,True
+191,PRD000191,vivo V50 Blue 512GB,3,15,pcs,Blue,,512GB,257,9219700,10313000,11,Discontinued,False
+192,PRD000192,Emina Sun Protection,10,37,bottle,,,,150,281600,412700,11,Active,True
+193,PRD000193,Nike Pegasus Blue,11,39,pcs,Blue,XXL,,598,137700,209300,11,Active,True
+194,PRD000194,Nestle Milo,8,31,bottle,,,,679,5200,6300,11,Active,True
+195,PRD000195,Baseus USB-C Hub Black,23,72,pcs,Black,,,757,2207600,2901800,11,Active,True
+196,PRD000196,SteelSeries Arctis Nova Gold 512GB,21,67,pcs,Gold,,512GB,1572,3596400,4539400,11,Active,True
+197,PRD000197,Tupperware Lunch Box,6,23,set,,,,4335,26900,34400,11,Active,True
+198,PRD000198,Mothercare Baby Onesie Purple,13,46,pcs,Purple,L,,191,217600,319500,11,Active,True
+199,PRD000199,Uniqlo AIRism T-Shirt Purple,11,41,pcs,Purple,L,,994,2041600,2767200,11,Active,True
+200,PRD000200,Apple AirPods Pro Red 64GB,3,11,pcs,Red,,64GB,275,4667500,5397600,11,Active,True
+201,PRD000201,Sharp Aquos TV Gold,1,5,pcs,Gold,,,2323,7504800,9141500,11,Active,True
+202,PRD000202,Wardah Hydrating Toner,10,35,pcs,,,,431,481100,686900,11,Active,True
+203,PRD000203,UGREEN HDMI Cable Red,23,73,pcs,Red,,,954,387900,531200,11,Active,True
+204,PRD000204,Bantex Document Tray,24,74,pcs,,,,848,165900,225000,11,Active,True
+205,PRD000205,Joyko Stapler,17,56,pcs,,,,159,46200,66900,11,Active,True
+206,PRD000206,Indofood Pop Mie,7,26,kg,,,,584,61600,72100,0,Active,True
+207,PRD000207,LocknLock Water Bottle,6,24,pcs,,,,1999,524300,664600,11,Active,True
+208,PRD000208,Mayora Beng Beng,7,27,pack,,,,609,26400,31100,0,Active,True
+209,PRD000209,Midea Microwave Oven,4,18,pcs,,,,12590,1184700,1413100,11,Active,True
+210,PRD000210,Zara Slim Blazer Gray,12,42,pcs,Gray,S,,733,246100,354900,11,Active,True
+211,PRD000211,Carter's Baby Romper Purple,13,45,pcs,Purple,XS,,349,45100,60500,11,Active,True
+212,PRD000212,Deli Stapler,24,75,pcs,,,,842,20800,27700,11,Active,True
+213,PRD000213,Entrasol Platinum,9,33,bottle,,,,467,12400,16900,11,Active,True
+214,PRD000214,Olympic TV Cabinet White,5,22,pcs,White,Large,,14456,434500,570200,11,Active,True
+215,PRD000215,Whiskas Adult Tuna,19,60,pcs,,,,2197,425300,510700,11,Active,True
+216,PRD000216,SteelSeries Apex Pro Black 64GB,21,67,pcs,Black,,64GB,577,3044800,3711200,11,Active,True
+217,PRD000217,Gramedia Dictionary,16,53,pcs,,,,1479,125900,157700,0,Active,True
+218,PRD000218,Sharp Microwave R728 Gold,1,5,pcs,Gold,,,1201,3622000,4564100,11,Active,True
+219,PRD000219,OPPO A5 Pro White 128GB,3,14,pcs,White,,128GB,205,3415400,3907200,11,Active,True
+220,PRD000220,Baseus GaN Charger Pink,23,72,pcs,Pink,,,656,358400,471500,11,Active,True
+221,PRD000221,Joyko Notebook,17,56,box,,,,219,44800,64700,11,Active,True
+222,PRD000222,Nike Pegasus Red,14,47,pcs,Red,XL,,1276,1072200,1318800,11,Active,True
+223,PRD000223,Mattel Barbie,25,77,box,,,,2679,363800,535800,11,Active,True
+224,PRD000224,Nike Court Vision Gray,14,47,pcs,Gray,M,,2042,3399900,4246100,11,Active,True
+225,PRD000225,Gramedia Dictionary,16,53,pcs,,,,1261,126900,161600,0,Active,True
+226,PRD000226,IKEA MALM Bed Silver,5,20,pcs,Silver,Large,,59178,3427400,4471000,11,Active,True
+227,PRD000227,Mayora Roma Biscuit,7,27,pack,,,,405,79200,92100,0,Active,True
+228,PRD000228,LEGO City,25,76,pcs,,,,2367,729600,1046200,11,Active,True
+229,PRD000229,Uniqlo Oxford Shirt Pink,11,41,pcs,Pink,S,,830,728900,1054300,11,Active,True
+230,PRD000230,Bosch Battery,18,57,pcs,,,,5879,3276600,4159200,11,Active,True
+231,PRD000231,Roland GO Keys,22,69,pcs,,,,13681,3976200,5044900,11,Active,True
+232,PRD000232,Anker PowerCore 10000 Red,23,71,pcs,Red,,,775,1819400,2541800,11,Active,True
+233,PRD000233,Whiskas Wet Food,19,60,pack,,,,1043,228400,281500,11,Active,True
+234,PRD000234,Casio PX-S1100,22,70,pcs,,,,12421,9475800,11215400,11,Active,True
+235,PRD000235,Royal Canin Indoor,19,61,kg,,,,2797,422900,549300,11,Active,True
+236,PRD000236,Baseus Power Bank Green,23,72,pcs,Green,,,718,2018100,2778600,11,Active,True
+237,PRD000237,Razer Kraken Purple 256GB,21,65,pcs,Purple,,256GB,2528,7099900,8370800,11,Active,True
+238,PRD000238,Uniqlo Chino Pants Gold,11,41,pcs,Gold,L,,309,1322900,2058700,11,Active,True
+239,PRD000239,Uniqlo AIRism T-Shirt Black,12,44,pcs,Black,XXL,,491,325700,488500,11,Active,True
+240,PRD000240,Blackmores Multivitamin,9,32,bottle,,,,114,44800,57600,11,Active,True
+241,PRD000241,Midea Air Conditioner,4,18,pcs,,,,5587,4602800,5616100,11,Active,True
+242,PRD000242,Mayora Roma Biscuit,7,27,kg,,,,882,51700,61900,0,Active,True
+243,PRD000243,H&M Cotton Shirt Black,12,43,pcs,Black,XS,,216,1658400,2516400,11,Active,True
+244,PRD000244,Adidas Stan Smith Black,14,48,pcs,Black,XS,,1970,786300,1017500,11,Active,True
+245,PRD000245,Informa Wardrobe Purple,5,21,pcs,Purple,Medium,,30726,5695100,6910000,11,Active,True
+246,PRD000246,Nestle Milo,8,31,pack,,,,263,24400,28500,11,Active,True
+247,PRD000247,Logitech G102 Blue 1TB,21,66,pcs,Blue,,1TB,654,9952600,11759800,11,Active,True
+248,PRD000248,Casio WK-6600,22,70,pcs,,,,5645,1610800,1978300,11,Active,True
+249,PRD000249,Casio WK-6600,22,70,pcs,,,,6463,2997500,3713100,11,Active,True
+250,PRD000250,Blackmores Multivitamin,9,32,bottle,,,,81,248200,306300,11,Active,True
+251,PRD000251,Faber Castell Marker,17,55,pcs,,,,217,12400,16500,11,Active,True
+252,PRD000252,OPPO Reno 13 Pink 256GB,3,14,pcs,Pink,,256GB,200,13298600,15592700,11,Discontinued,False
+253,PRD000253,LEGO Classic,25,76,box,,,,4597,129300,199900,11,Active,True
+254,PRD000254,Uniqlo AIRism T-Shirt Red,11,41,pcs,Red,XL,,255,400900,635200,11,Active,True
+255,PRD000255,Roland GO Keys,22,69,pcs,,,,6231,769300,961800,11,Discontinued,False
+256,PRD000256,Lenovo Yoga 7 Gray 256GB,2,8,pcs,Gray,,256GB,1010,20269800,23795500,11,Active,True
+257,PRD000257,Electrolux Front Load Washer,4,17,pcs,,,,3730,1889000,2350300,11,Active,True
+258,PRD000258,Sony Alpha A7 IV Gray,1,3,pcs,Gray,,,4423,4600000,5615900,11,Active,True
+259,PRD000259,Uniqlo Ultra Light Down Gray,11,41,pcs,Gray,L,,241,1827000,2570500,11,Active,True
+260,PRD000260,Joyko Notebook,17,56,pcs,,,,193,6800,9600,11,Active,True
+261,PRD000261,Kalbe Hydro Coco,9,34,bottle,,,,372,133800,173900,11,Active,True
+262,PRD000262,Coca-Cola Fanta Orange,8,29,pack,,,,506,23900,29500,11,Active,True
+263,PRD000263,The North Face Summit Jacket Gold,15,52,pcs,Gold,30L,,3055,2433400,3316900,11,Active,True
+264,PRD000264,GarudaFood Pilus,7,28,box,,,,430,66100,77300,0,Active,True
+265,PRD000265,Anker PowerCore 10000 Red,23,71,pcs,Red,,,699,802900,1129900,11,Active,True
+266,PRD000266,ASUS Zenbook 14 Green 64GB,2,9,pcs,Green,,64GB,2214,16346100,19193500,11,Active,True
+267,PRD000267,Xiaomi Redmi Note 14 White 512GB,3,13,pcs,White,,512GB,268,9752700,10958800,11,Active,True
+268,PRD000268,Roland TD-07,22,69,pcs,,,,11787,5762800,6638500,11,Active,True
+269,PRD000269,Yamaha F310,22,68,pcs,,,,13295,7020000,8902100,11,Active,True
+270,PRD000270,Pepsi Mirinda,8,30,pack,,,,782,23500,29100,11,Active,True
+271,PRD000271,TCL QLED TV,4,19,pcs,,,,11679,5369200,6483400,11,Active,True
+272,PRD000272,Nike Court Vision Black,14,47,pcs,Black,XS,,2415,3193300,4193600,11,Active,True
+273,PRD000273,Castrol Power1,18,59,pcs,,,,965,1320900,1683500,11,Active,True
+274,PRD000274,Sony PlayStation 5 Gold,1,3,pcs,Gold,,,1233,6705000,8115000,11,Active,True
+275,PRD000275,Nike Pegasus Gray,14,47,pcs,Gray,XXL,,2791,325300,423200,11,Active,True
+276,PRD000276,Baseus Power Bank Green,23,72,pcs,Green,,,604,806900,1282800,11,Active,True
+277,PRD000277,Mattel Thomas & Friends,25,77,box,,,,4916,968400,1293400,11,Active,True
+278,PRD000278,Shell Helix HX7,18,58,pcs,,,,1213,883500,1114000,11,Active,True
+279,PRD000279,The North Face Borealis Blue,15,52,pcs,Blue,20L,,1659,649200,827200,11,Active,True
+280,PRD000280,Nestle KitKat,8,31,pack,,,,1471,6400,7400,11,Active,True
+281,PRD000281,Olympic Kitchen Cabinet White,5,22,pcs,White,Medium,,49082,4927300,5989900,11,Active,True
+282,PRD000282,vivo X200 White 1TB,3,15,pcs,White,,1TB,214,15063500,16958800,11,Active,True
+283,PRD000283,Pampers Pants,20,62,pack,,,,2873,69400,84700,11,Active,True
+284,PRD000284,Royal Canin Indoor,19,61,pcs,,,,3968,82600,99400,11,Active,True
+285,PRD000285,LG Smart TV 55 Green,1,2,pcs,Green,,,3733,3539600,4556200,11,Discontinued,False
+286,PRD000286,Deli Stapler,24,75,pcs,,,,2172,342100,467000,11,Active,True
+287,PRD000287,Yamaha PSR-E373,22,68,pcs,,,,3174,7077500,8798200,11,Active,True
+288,PRD000288,Deli Calculator,24,75,pcs,,,,536,29700,38000,11,Active,True
+289,PRD000289,Emina Bright Stuff,10,37,bottle,,,,443,240500,344900,11,Active,True
+290,PRD000290,GarudaFood Gery,7,28,pack,,,,440,7100,7800,0,Active,True
+291,PRD000291,Sony Bravia X90L Red,1,3,pcs,Red,,,2764,3843400,4544400,11,Active,True
+292,PRD000292,Whiskas Wet Food,19,60,pack,,,,572,346800,483600,11,Active,True
+293,PRD000293,IKEA LACK Table Purple,5,20,pcs,Purple,Large,,51325,1479000,1920300,11,Active,True
+294,PRD000294,Emina Bright Stuff,10,37,bottle,,,,485,459700,703100,11,Active,True
+295,PRD000295,Indofood Indomie Soto,7,26,pack,,,,530,28200,32300,0,Active,True
+296,PRD000296,H&M Basic Hoodie Blue,12,43,pcs,Blue,XS,,321,602800,853800,11,Active,True
+297,PRD000297,Electrolux Vacuum Cleaner,4,17,pcs,,,,13043,1379400,1597800,11,Active,True
+298,PRD000298,Bosch Spark Plug,18,57,pcs,,,,2963,94700,115500,11,Active,True
+299,PRD000299,Tupperware Lunch Box,6,23,set,,,,988,466700,594600,11,Active,True
+300,PRD000300,Yamaha P-145,22,68,pcs,,,,11972,3996300,5164800,11,Active,True
+301,PRD000301,Blackmores Fish Oil,9,32,box,,,,263,68200,85600,11,Active,True
+302,PRD000302,Olympic Shoe Rack Pink,5,22,pcs,Pink,Large,,40538,5230100,6833800,11,Active,True
+303,PRD000303,UGREEN USB Hub Red,23,73,pcs,Red,,,754,1120200,1535700,11,Active,True
+304,PRD000304,MamyPoko Pants Standard,20,63,pack,,,,111,701000,856500,11,Active,True
+305,PRD000305,Nestle Milo,8,31,bottle,,,,1549,26700,32100,11,Active,True
+306,PRD000306,Anker Nano Charger Gray,23,71,pcs,Gray,,,856,1324300,2033500,11,Active,True
+307,PRD000307,Zara Midi Dress Gray,12,42,pcs,Gray,XS,,210,1492500,2255800,11,Active,True
+308,PRD000308,L'Oreal Infallible Foundation,10,38,pcs,,,,288,387300,590900,11,Active,True
+309,PRD000309,Make Over Eyeliner,10,36,pcs,,,,324,468700,658000,11,Active,True
+310,PRD000310,Coca-Cola Sprite 390ml,8,29,bottle,,,,836,16600,20500,11,Active,True
+311,PRD000311,Zara Midi Dress Green,12,42,pcs,Green,L,,266,903200,1355300,11,Active,True
+312,PRD000312,Acer Predator Helios Gold 512GB,2,10,pcs,Gold,,512GB,1764,19709800,23087800,11,Active,True
+313,PRD000313,MamyPoko Pants Standard,20,63,pack,,,,927,914000,1172500,11,Active,True
+314,PRD000314,Lenovo ThinkPad X1 Purple 64GB,2,8,pcs,Purple,,64GB,2572,11522700,13744700,11,Active,True
+315,PRD000315,Bosch Battery,18,57,pcs,,,,2998,1468400,1766800,11,Active,True
+316,PRD000316,Informa Wardrobe Purple,5,21,pcs,Purple,Large,,18669,4375000,5534700,11,Active,True
+317,PRD000317,Maspion Pressure Cooker,6,25,set,,,,1058,93100,126600,11,Active,True
+318,PRD000318,OPPO A5 Pro Purple 64GB,3,14,pcs,Purple,,64GB,282,5287500,5829800,11,Active,True
+319,PRD000319,Emina Sun Protection,10,37,pcs,,,,116,354700,507100,11,Active,True
+320,PRD000320,Acer Swift Go Gray 1TB,2,10,pcs,Gray,,1TB,2441,10263400,12005600,11,Active,True
+321,PRD000321,IKEA MALM Bed Blue,5,20,pcs,Blue,Large,,56886,1316600,1652800,11,Active,True
+322,PRD000322,Kalbe Promag,9,34,box,,,,204,269700,367500,11,Active,True
+323,PRD000323,Yamaha PSR-E373,22,68,pcs,,,,12598,5349200,6171100,11,Active,True
+324,PRD000324,Pepsi Pepsi Cola,8,30,bottle,,,,636,5700,6800,11,Active,True
+325,PRD000325,Razer Kraken Purple 1TB,21,65,pcs,Purple,,1TB,2494,6850900,8211800,11,Active,True
+326,PRD000326,Baseus USB-C Hub White,23,72,pcs,White,,,185,1992600,2672600,11,Active,True
+327,PRD000327,Adidas Ultraboost Black,11,40,pcs,Black,XXL,,589,715700,1088100,11,Active,True
+328,PRD000328,UGREEN USB Hub Pink,23,73,pcs,Pink,,,499,560100,747300,11,Active,True
+329,PRD000329,Electrolux Vacuum Cleaner,4,17,pcs,,,,4432,3536000,4271400,11,Active,True
+330,PRD000330,Nike Air Max Silver,11,39,pcs,Silver,XXL,,265,556600,822800,11,Active,True
+331,PRD000331,Electrolux Vacuum Cleaner,4,17,pcs,,,,12656,5527300,6618700,11,Active,True
+332,PRD000332,Whiskas Kitten Ocean Fish,19,60,pack,,,,3945,455600,632700,11,Active,True
+333,PRD000333,Maspion Cooking Pot,6,25,set,,,,3348,102300,145900,11,Active,True
+334,PRD000334,Nestle KitKat,8,31,box,,,,1907,35200,43100,11,Active,True
+335,PRD000335,Bantex Lever Arch File,24,74,pcs,,,,2091,152800,207100,11,Active,True
+336,PRD000336,Nestle KitKat,8,31,box,,,,446,20400,24700,11,Active,True
+337,PRD000337,Roland FP-30X,22,69,pcs,,,,6424,6424100,7559500,11,Active,True
+338,PRD000338,Erlangga Math Book,16,54,pcs,,,,484,118200,144900,0,Active,True
+339,PRD000339,HP Pavilion 15 Green 128GB,2,7,pcs,Green,,128GB,1166,15827700,17895600,11,Active,True
+340,PRD000340,Kalbe Fatigon,9,34,bottle,,,,153,283600,356600,11,Active,True
+341,PRD000341,Roland FP-30X,22,69,pcs,,,,13198,942000,1181500,11,Active,True
+342,PRD000342,Maspion Pressure Cooker,6,25,set,,,,1106,293000,405800,11,Active,True
+343,PRD000343,Electrolux Vacuum Cleaner,4,17,pcs,,,,3497,5437800,6344300,11,Active,True
+344,PRD000344,Nike Mercurial Gold,11,39,pcs,Gold,S,,953,444500,622800,11,Active,True
+345,PRD000345,Erlangga Math Book,16,54,pcs,,,,843,65000,86500,0,Active,True
+346,PRD000346,Erlangga Math Book,16,54,pcs,,,,1432,107900,140700,0,Active,True
+347,PRD000347,Adidas Superstar Red,14,48,pcs,Red,XXL,,2837,3460100,4327700,11,Discontinued,False
+348,PRD000348,Casio PX-S1100,22,70,pcs,,,,1319,1654900,1918200,11,Active,True
+349,PRD000349,Joyko Ballpoint,17,56,box,,,,285,52600,74800,11,Active,True
+350,PRD000350,LEGO Technic,25,76,box,,,,158,1168300,1722200,11,Active,True
+351,PRD000351,UGREEN HDMI Cable Green,23,73,pcs,Green,,,820,307400,447500,11,Active,True
+352,PRD000352,TCL Smart AC,4,19,pcs,,,,3954,1659900,1923500,11,Active,True
+353,PRD000353,Midea Microwave Oven,4,18,pcs,,,,11063,5986000,6984300,11,Active,True
+354,PRD000354,Yamaha F310,22,68,pcs,,,,8752,4889300,5689600,11,Active,True
+355,PRD000355,Logitech G Pro X Red 1TB,21,66,pcs,Red,,1TB,1342,3370000,4135800,11,Active,True
+356,PRD000356,Indofood Indomie Goreng,7,26,pack,,,,180,82400,95200,0,Active,True
+357,PRD000357,Bosch Battery,18,57,pcs,,,,5201,3145500,4136000,11,Active,True
+358,PRD000358,GarudaFood Kacang Garuda,7,28,pack,,,,622,52200,62400,0,Active,True
+359,PRD000359,Olympic TV Cabinet Gold,5,22,pcs,Gold,Small,,36948,3180300,3997600,11,Active,True
+360,PRD000360,Nike Air Max Silver,14,47,pcs,Silver,XS,,1786,2586300,3478600,11,Active,True
+361,PRD000361,Bosch Spark Plug,18,57,pcs,,,,5043,3606200,4471600,11,Active,True
+362,PRD000362,Adidas Stan Smith Blue,11,40,pcs,Blue,XXL,,231,1399300,2101700,11,Active,True
+363,PRD000363,Casio CT-X700,22,70,pcs,,,,8406,6157300,7299700,11,Active,True
+364,PRD000364,Informa Office Desk Gray,5,21,pcs,Gray,Medium,,12614,4238400,5324700,11,Discontinued,False
+365,PRD000365,vivo Y300 Black 1TB,3,15,pcs,Black,,1TB,205,3278200,3715400,11,Active,True
+366,PRD000366,IKEA LACK Table Black,5,20,pcs,Black,Medium,,24129,2214800,2685900,11,Active,True
+367,PRD000367,Eiger Daypack Gold,15,50,pcs,Gold,30L,,1422,2135800,2815500,11,Active,True
+368,PRD000368,HP Pavilion 15 Black 512GB,2,7,pcs,Black,,512GB,3290,19535100,22997000,11,Active,True
+369,PRD000369,Anker PowerCore 10000 Red,23,71,pcs,Red,,,414,442600,588400,11,Active,True
+370,PRD000370,SteelSeries Apex Pro Gray 256GB,21,67,pcs,Gray,,256GB,1462,9972900,12476400,11,Active,True
+371,PRD000371,IKEA MALM Bed Red,5,20,pcs,Red,Large,,7628,3330900,4257300,11,Active,True
+372,PRD000372,Consina Sleeping Bag White,15,51,pcs,White,50L,,2681,2904700,4069400,11,Active,True
+373,PRD000373,Baseus USB-C Hub Blue,23,72,pcs,Blue,,,521,294100,427900,11,Active,True
+374,PRD000374,Anker Soundcore R50i Blue,23,71,pcs,Blue,,,71,1736900,2386500,11,Active,True
+375,PRD000375,Erlangga Math Book,16,54,pcs,,,,803,181800,232200,0,Active,True
+376,PRD000376,Zara Leather Jacket Purple,12,42,pcs,Purple,S,,532,823000,1287000,11,Discontinued,False
+377,PRD000377,Adidas Predator Red,11,40,pcs,Red,XXL,,725,1686400,2430100,11,Active,True
+378,PRD000378,Electrolux Refrigerator Ultimate,4,17,pcs,,,,7635,2567100,2982900,11,Active,True
+379,PRD000379,Bantex Binder,24,74,pcs,,,,1000,44200,56200,11,Active,True
+380,PRD000380,Make Over Lip Cream,10,36,pcs,,,,362,493500,747700,11,Active,True
+381,PRD000381,LG DualCool AC Gold,1,2,pcs,Gold,,,4206,762700,990200,11,Active,True
+382,PRD000382,Joyko Stapler,17,56,box,,,,205,26700,34600,11,Active,True
+383,PRD000383,ASUS TUF A15 Blue 64GB,2,9,pcs,Blue,,64GB,2216,5542000,6519700,11,Active,True
+384,PRD000384,Erlangga English Book,16,54,pcs,,,,353,80900,107600,0,Active,True
+385,PRD000385,vivo V50 Red 128GB,3,15,pcs,Red,,128GB,152,4288900,4978500,11,Active,True
+386,PRD000386,Faber Castell 2B Pencil,17,55,pcs,,,,135,6200,8900,11,Active,True
+387,PRD000387,Deli Calculator,24,75,pcs,,,,737,246700,331100,11,Active,True
+388,PRD000388,SteelSeries Apex Pro Green 128GB,21,67,pcs,Green,,128GB,2732,10861800,13306500,11,Active,True
+389,PRD000389,Deli Calculator,24,75,pcs,,,,1577,43200,54400,11,Active,True
+390,PRD000390,LEGO Technic,25,76,box,,,,1473,941300,1228100,11,Active,True
+391,PRD000391,Wardah Lightening Serum,10,35,pcs,,,,468,397300,583100,11,Active,True
+392,PRD000392,Adidas Duramo Blue,14,48,pcs,Blue,XL,,1962,422500,533900,11,Active,True
+393,PRD000393,Cussons Baby Baby Oil,20,64,pack,,,,2429,1138100,1390800,11,Active,True
+394,PRD000394,Bosch Battery,18,57,pcs,,,,1682,3042300,3655800,11,Active,True
+395,PRD000395,Entrasol Platinum,9,33,bottle,,,,449,96000,118100,11,Active,True
+396,PRD000396,Emina Bright Stuff,10,37,pcs,,,,323,186500,257700,11,Active,True
+397,PRD000397,Olympic Shoe Rack Pink,5,22,pcs,Pink,Small,,44978,5202900,6280300,11,Active,True
+398,PRD000398,Lenovo IdeaPad Slim 5 Blue 64GB,2,8,pcs,Blue,,64GB,3264,9364700,10661700,11,Active,True
+399,PRD000399,Casio PX-S1100,22,70,pcs,,,,4401,297500,382400,11,Active,True
+400,PRD000400,Olympic Kitchen Cabinet White,5,22,pcs,White,Small,,44784,3335900,4166000,11,Active,True
+401,PRD000401,IKEA MALM Bed Pink,5,20,pcs,Pink,Large,,59606,375000,466900,11,Active,True
+402,PRD000402,Wardah Perfect Bright,10,35,pcs,,,,205,216100,330300,11,Active,True
+403,PRD000403,vivo V50 Purple 256GB,3,15,pcs,Purple,,256GB,173,13148900,14359400,11,Active,True
+404,PRD000404,Nike Mercurial Black,11,39,pcs,Black,XL,,422,1104200,1600200,11,Active,True
+405,PRD000405,Whiskas Kitten Ocean Fish,19,60,pcs,,,,2010,339300,467500,11,Active,True
+406,PRD000406,Pepsi Mirinda,8,30,bottle,,,,1461,9900,11900,11,Active,True
+407,PRD000407,GarudaFood Gery,7,28,kg,,,,197,29500,34100,0,Active,True
+408,PRD000408,Anker PowerCore 10000 Silver,23,71,pcs,Silver,,,76,698300,1024300,11,Active,True
+409,PRD000409,HP Victus 16 Gold 64GB,2,7,pcs,Gold,,64GB,2579,7379000,8394900,11,Active,True
+410,PRD000410,Uniqlo Oxford Shirt Green,11,41,pcs,Green,M,,168,1271000,1966700,11,Active,True
+411,PRD000411,Anker PowerCore 10000 Black,23,71,pcs,Black,,,200,228200,361800,11,Active,True
+412,PRD000412,Mothercare Baby Blanket Gold,13,46,pcs,Gold,XL,,286,929600,1315700,11,Active,True
+413,PRD000413,Make Over Eyeliner,10,36,pcs,,,,225,224500,322000,11,Active,True
+414,PRD000414,Nestle KitKat,8,31,bottle,,,,1230,16000,19000,11,Active,True
+415,PRD000415,Uniqlo AIRism T-Shirt Gray,11,41,pcs,Gray,XXL,,297,233300,318600,11,Active,True
+416,PRD000416,ASUS Zenbook 14 Green 128GB,2,9,pcs,Green,,128GB,1486,13503000,15645200,11,Active,True
+417,PRD000417,Logitech G Pro X Purple 512GB,21,66,pcs,Purple,,512GB,1924,499100,636800,11,Active,True
+418,PRD000418,Dell Alienware M18 Gray 256GB,2,6,pcs,Gray,,256GB,2086,18507900,21545300,11,Active,True
+419,PRD000419,IKEA BILLY Bookcase Blue,5,20,pcs,Blue,Large,,40351,2617300,3255300,11,Active,True
+420,PRD000420,Nike Air Max Red,11,39,pcs,Red,L,,365,1818000,2655300,11,Active,True
+421,PRD000421,L'Oreal Infallible Foundation,10,38,pcs,,,,82,80300,122800,11,Active,True
+422,PRD000422,Nike Court Vision Blue,11,39,pcs,Blue,XL,,208,1393200,2175200,11,Active,True
+423,PRD000423,Adidas Duramo Gray,11,40,pcs,Gray,M,,666,531100,756700,11,Active,True
+424,PRD000424,Consina Carrier 60L Red,15,51,pcs,Red,50L,,944,1112500,1530800,11,Active,True
+425,PRD000425,Dell Inspiron 15 Pink 1TB,2,6,pcs,Pink,,1TB,2100,17542900,20067400,11,Active,True
+426,PRD000426,Shell Helix HX7,18,58,pcs,,,,2863,2121800,2855000,11,Active,True
+427,PRD000427,Lenovo IdeaPad Slim 5 White 64GB,2,8,pcs,White,,64GB,3092,19235300,22329400,11,Active,True
+428,PRD000428,Deli Calculator,24,75,pcs,,,,3530,246900,337500,11,Active,True
+429,PRD000429,SteelSeries Rival 3 Black 256GB,21,67,pcs,Black,,256GB,1279,1107200,1431800,11,Active,True
+430,PRD000430,Xiaomi Redmi Note 14 Black 1TB,3,13,pcs,Black,,1TB,294,6279200,6967800,11,Active,True
+431,PRD000431,HP Pavilion 15 Red 1TB,2,7,pcs,Red,,1TB,2224,14124600,16884200,11,Active,True
+432,PRD000432,Uniqlo Ultra Light Down Pink,11,41,pcs,Pink,L,,869,846700,1205700,11,Active,True
+433,PRD000433,IKEA MALM Bed Pink,5,20,pcs,Pink,Small,,54865,1749300,2353300,11,Active,True
+434,PRD000434,Electrolux Vacuum Cleaner,4,17,pcs,,,,5378,4091900,4897100,11,Active,True
+435,PRD000435,Maspion Frying Pan,6,25,pcs,,,,431,461000,616200,11,Active,True
+436,PRD000436,Gramedia Novel,16,53,pcs,,,,693,55500,67500,0,Discontinued,False
+437,PRD000437,GarudaFood Gery,7,28,kg,,,,863,60200,71800,0,Active,True
+438,PRD000438,Whiskas Adult Tuna,19,60,kg,,,,309,459800,565900,11,Active,True
+439,PRD000439,Maspion Cooking Pot,6,25,set,,,,3563,295300,421700,11,Active,True
+440,PRD000440,Olympic TV Cabinet Green,5,22,pcs,Green,Large,,22686,3991100,5113500,11,Active,True
+441,PRD000441,Apple AirPods Pro Red 256GB,3,11,pcs,Red,,256GB,288,12390000,14338400,11,Active,True
+442,PRD000442,ASUS ROG Strix G16 Gold 128GB,2,9,pcs,Gold,,128GB,2038,17714200,20819600,11,Active,True
+443,PRD000443,Castrol Power1,18,59,pcs,,,,4262,235600,293800,11,Active,True
+444,PRD000444,Adidas Ultraboost Silver,14,48,pcs,Silver,S,,1954,2615500,3636900,11,Active,True
+445,PRD000445,Indofood Indomie Goreng,7,26,pack,,,,946,19700,22800,0,Active,True
+446,PRD000446,Mayora Kopiko,7,27,pack,,,,489,48200,55900,0,Active,True
+447,PRD000447,Informa Wardrobe Purple,5,21,pcs,Purple,Medium,,50758,569500,764000,11,Active,True
+448,PRD000448,Carter's Baby Set Black,13,45,pcs,Black,XXL,,382,705900,968900,11,Active,True
+449,PRD000449,Sony Bravia X90L Silver,1,3,pcs,Silver,,,3241,1730000,2083900,11,Active,True
+450,PRD000450,Mattel Barbie,25,77,box,,,,4122,171600,259900,11,Active,True
+451,PRD000451,Eiger Carrier 45L Gold,15,50,pcs,Gold,50L,,5389,1755000,2296200,11,Active,True
+452,PRD000452,Gramedia Dictionary,16,53,pcs,,,,414,168600,206400,0,Active,True
+453,PRD000453,Pepsi Mirinda,8,30,box,,,,294,15600,18100,11,Active,True
+454,PRD000454,Blackmores Multivitamin,9,32,bottle,,,,496,96600,120000,11,Active,True
+455,PRD000455,Eiger Daypack Black,15,50,pcs,Black,50L,,5146,724200,959500,11,Active,True
+456,PRD000456,Casio WK-6600,22,70,pcs,,,,6851,3307600,3824900,11,Active,True
+457,PRD000457,Indofood Supermi,7,26,pcs,,,,453,26000,31200,0,Active,True
+458,PRD000458,Indofood Supermi,7,26,pack,,,,693,79300,89800,0,Active,True
+459,PRD000459,Erlangga Science Book,16,54,pcs,,,,738,157400,203900,0,Discontinued,False
+460,PRD000460,Tupperware Eco Bottle,6,23,set,,,,4793,516400,698400,11,Active,True
+461,PRD000461,Lenovo Yoga 7 Red 64GB,2,8,pcs,Red,,64GB,1125,9060300,10183800,11,Active,True
+462,PRD000462,Midea Microwave Oven,4,18,pcs,,,,3057,4027700,4891100,11,Active,True
+463,PRD000463,LG NeoChef Microwave Silver,1,2,pcs,Silver,,,1813,5604000,6647400,11,Active,True
+464,PRD000464,Samsung Galaxy S25 Purple 256GB,3,12,pcs,Purple,,256GB,266,4210200,4947000,11,Active,True
+465,PRD000465,Baseus USB-C Hub Purple,23,72,pcs,Purple,,,264,1785400,2389900,11,Active,True
+466,PRD000466,Faber Castell Color Pencil,17,55,pcs,,,,33,22900,28800,11,Active,True
+467,PRD000467,Anker PowerCore 10000 Red,23,71,pcs,Red,,,558,1061200,1671400,11,Active,True
+468,PRD000468,Apple MacBook Air M4 Gold 512GB,3,11,pcs,Gold,,512GB,199,6245600,6749700,11,Active,True
+469,PRD000469,Erlangga English Book,16,54,pcs,,,,871,120300,154300,0,Active,True
+470,PRD000470,The North Face Borealis Black,15,52,pcs,Black,20L,,2435,948300,1340800,11,Active,True
+471,PRD000471,Olympic Kitchen Cabinet White,5,22,pcs,White,Medium,,45188,1559900,2021500,11,Active,True
+472,PRD000472,Make Over Powerstay Foundation,10,36,bottle,,,,163,126400,182600,11,Active,True
+473,PRD000473,Roland GO Keys,22,69,pcs,,,,14423,5968100,7127200,11,Active,True
+474,PRD000474,Olympic Shoe Rack Blue,5,22,pcs,Blue,Small,,20696,2032000,2492700,11,Active,True
+475,PRD000475,Yamaha P-145,22,68,pcs,,,,825,1167100,1379100,11,Active,True
+476,PRD000476,Blackmores Multivitamin,9,32,box,,,,457,119100,143800,11,Active,True
+477,PRD000477,Faber Castell Marker,17,55,box,,,,65,30600,43100,11,Active,True
+478,PRD000478,Erlangga Science Book,16,54,pcs,,,,1247,139400,185600,0,Active,True
+479,PRD000479,Shell Helix HX7,18,58,pcs,,,,4383,1700900,2286800,11,Active,True
+480,PRD000480,Yamaha PSR-E373,22,68,pcs,,,,2647,8093600,10143100,11,Active,True
+481,PRD000481,Tupperware Lunch Box,6,23,set,,,,1486,507500,729200,11,Active,True
+482,PRD000482,IKEA MALM Bed Black,5,20,pcs,Black,Large,,10240,2748300,3590800,11,Active,True
+483,PRD000483,Kalbe Fatigon,9,34,box,,,,242,130600,167500,11,Active,True
+484,PRD000484,Shell Helix HX7,18,58,pcs,,,,5367,324100,406600,11,Active,True
+485,PRD000485,Gramedia Dictionary,16,53,pcs,,,,406,142500,174900,0,Active,True
+486,PRD000486,Adidas Superstar Purple,11,40,pcs,Purple,M,,954,853200,1176800,11,Active,True
+487,PRD000487,Sony Alpha A7 IV Purple,1,3,pcs,Purple,,,3191,5880400,7340900,11,Active,True
+488,PRD000488,LEGO City,25,76,pcs,,,,2948,804600,1175200,11,Active,True
+489,PRD000489,Coca-Cola Sprite 390ml,8,29,box,,,,1532,30400,37300,11,Discontinued,False
+490,PRD000490,Deli Calculator,24,75,pcs,,,,3925,10000,12600,11,Active,True
+491,PRD000491,L'Oreal Infallible Foundation,10,38,pcs,,,,188,503200,656500,11,Active,True
+492,PRD000492,Samsung Galaxy A36 Gray 512GB,3,12,pcs,Gray,,512GB,277,2635400,2977700,11,Active,True
+493,PRD000493,The North Face Summit Jacket Red,15,52,pcs,Red,50L,,5501,2206500,3075600,11,Active,True
+494,PRD000494,Apple iPad Air Blue 1TB,3,11,pcs,Blue,,1TB,171,5605200,6480400,11,Active,True
+495,PRD000495,The North Face Base Camp Duffel Blue,15,52,pcs,Blue,20L,,4349,777200,1086900,11,Active,True
+496,PRD000496,Coca-Cola Fanta Orange,8,29,pack,,,,997,3000,3600,11,Active,True
+497,PRD000497,Whiskas Wet Food,19,60,pcs,,,,3960,259500,342700,11,Active,True
+498,PRD000498,Joyko Stapler,17,56,pcs,,,,299,39800,55700,11,Active,True
+499,PRD000499,Carter's Baby Pajamas Purple,13,45,pcs,Purple,M,,108,555200,792600,11,Active,True
+500,PRD000500,Royal Canin Mini Adult,19,61,kg,,,,4180,402800,493700,11,Active,True
+501,PRD000501,Mayora Beng Beng,7,27,box,,,,127,79500,92500,0,Active,True
+502,PRD000502,Samsung Galaxy S25 Silver,1,1,pcs,Silver,,,2567,8440400,9824900,11,Active,True
+503,PRD000503,Roland GO Keys,22,69,pcs,,,,4397,8830800,10231100,11,Active,True
+504,PRD000504,Whiskas Kitten Ocean Fish,19,60,kg,,,,4937,686500,855700,11,Active,True
+505,PRD000505,Electrolux Vacuum Cleaner,4,17,pcs,,,,6032,6455300,7658200,11,Active,True
+506,PRD000506,SteelSeries Arctis Nova White 128GB,21,67,pcs,White,,128GB,1972,3950300,4696600,11,Active,True
+507,PRD000507,Eiger Carrier 45L Black,15,50,pcs,Black,50L,,4321,1504300,2101300,11,Active,True
+508,PRD000508,UGREEN 65W Charger White,23,73,pcs,White,,,257,549700,763500,11,Active,True
+509,PRD000509,Tupperware Eco Bottle,6,23,set,,,,2061,243400,322700,11,Discontinued,False
+510,PRD000510,Mothercare Baby Shoes Gold,13,46,pcs,Gold,S,,289,239700,333600,11,Active,True
+511,PRD000511,Carter's Baby Romper Green,13,45,pcs,Green,L,,361,158800,208500,11,Active,True
+512,PRD000512,Pepsi Pepsi Cola,8,30,box,,,,1844,12600,15600,11,Active,True
+513,PRD000513,Electrolux Refrigerator Ultimate,4,17,pcs,,,,14638,4799100,5659500,11,Active,True
+514,PRD000514,Uniqlo AIRism T-Shirt Blue,11,41,pcs,Blue,M,,245,886100,1281100,11,Active,True
+515,PRD000515,Carter's Baby Romper Gold,13,45,pcs,Gold,S,,290,131300,182200,11,Active,True
+516,PRD000516,Sharp Plasmacluster AC Green,1,5,pcs,Green,,,1041,746600,941800,11,Active,True
+517,PRD000517,Eiger Adventure Jacket Purple,15,50,pcs,Purple,30L,,3257,1375500,1917500,11,Active,True
+518,PRD000518,Deli Calculator,24,75,pcs,,,,2122,168000,242000,11,Discontinued,False
+519,PRD000519,Apple iPhone 16 Purple 256GB,3,11,pcs,Purple,,256GB,231,2683100,2950000,11,Active,True
+520,PRD000520,Royal Canin Mini Adult,19,61,pack,,,,1454,349800,427700,11,Active,True
+521,PRD000521,Casio WK-6600,22,70,pcs,,,,1697,8248800,10567100,11,Active,True
+522,PRD000522,Tupperware Lunch Box,6,23,set,,,,545,339400,458000,11,Active,True
+523,PRD000523,The North Face Borealis Gray,15,52,pcs,Gray,30L,,1272,2286500,3218200,11,Active,True
+524,PRD000524,ASUS ROG Strix G16 Gray 256GB,2,9,pcs,Gray,,256GB,1907,12220400,14546700,11,Active,True
+525,PRD000525,Mayora Roma Biscuit,7,27,kg,,,,464,14100,16500,0,Active,True
+526,PRD000526,Consina Sleeping Bag Silver,15,51,pcs,Silver,50L,,3563,2232800,2879400,11,Active,True
+527,PRD000527,Dell Inspiron 15 Silver 512GB,2,6,pcs,Silver,,512GB,1351,18346200,20621600,11,Discontinued,False
+528,PRD000528,Carter's Baby Romper Gold,13,45,pcs,Gold,L,,294,750000,1011400,11,Active,True
+529,PRD000529,Coca-Cola Sprite 390ml,8,29,pack,,,,272,9700,11400,11,Active,True
+530,PRD000530,UGREEN HDMI Cable Gray,23,73,pcs,Gray,,,785,1276800,2024900,11,Active,True
+531,PRD000531,Uniqlo AIRism T-Shirt Gray,12,44,pcs,Gray,XL,,140,235500,376200,11,Discontinued,False
+532,PRD000532,Hasbro Monopoly,25,78,box,,,,410,18500,26000,11,Active,True
+533,PRD000533,Bosch Brake Pad,18,57,pcs,,,,1937,2733100,3630700,11,Active,True
+534,PRD000534,Mattel Thomas & Friends,25,77,box,,,,2017,1257800,1758100,11,Active,True
+535,PRD000535,IKEA MALM Bed Purple,5,20,pcs,Purple,Large,,52189,1603200,2144100,11,Active,True
+536,PRD000536,Casio PX-S1100,22,70,pcs,,,,3151,6597000,8478200,11,Active,True
+537,PRD000537,Royal Canin Mini Adult,19,61,kg,,,,2077,438600,533000,11,Active,True
+538,PRD000538,Informa Office Desk Silver,5,21,pcs,Silver,Small,,58750,3680900,4841100,11,Active,True
+539,PRD000539,IKEA LACK Table Pink,5,20,pcs,Pink,Small,,45682,4155100,5383800,11,Active,True
+540,PRD000540,Adidas Ultraboost Pink,11,40,pcs,Pink,XXL,,135,1016300,1572800,11,Active,True
+541,PRD000541,Faber Castell 2B Pencil,17,55,pcs,,,,243,63700,85200,11,Active,True
+542,PRD000542,Anker Soundcore R50i Black,23,71,pcs,Black,,,306,1555300,2455500,11,Active,True
+543,PRD000543,Adidas Duramo Gold,14,48,pcs,Gold,XXL,,1197,2139000,2590000,11,Active,True
+544,PRD000544,ASUS TUF A15 Red 256GB,2,9,pcs,Red,,256GB,3476,8702500,9812700,11,Active,True
+545,PRD000545,Anker PowerCore 10000 Gray,23,71,pcs,Gray,,,237,941000,1479100,11,Active,True
+546,PRD000546,Mayora Roma Biscuit,7,27,pack,,,,574,35600,42500,0,Active,True
+547,PRD000547,Electrolux Front Load Washer,4,17,pcs,,,,13618,2708000,3371300,11,Active,True
+548,PRD000548,Baseus USB-C Hub Blue,23,72,pcs,Blue,,,559,662600,1027800,11,Active,True
+549,PRD000549,Entrasol Platinum,9,33,box,,,,226,336300,407400,11,Active,True
+550,PRD000550,Bosch Brake Pad,18,57,pcs,,,,2522,1816700,2385900,11,Active,True
+551,PRD000551,Zara Leather Jacket White,12,42,pcs,White,XL,,195,559100,876200,11,Active,True
+552,PRD000552,Dell Inspiron 15 Red 64GB,2,6,pcs,Red,,64GB,2808,10079300,11181800,11,Active,True
+553,PRD000553,Bosch Spark Plug,18,57,pcs,,,,4691,1359600,1823900,11,Active,True
+554,PRD000554,LEGO Classic,25,76,pcs,,,,2125,895300,1310600,11,Active,True
+555,PRD000555,Midea Microwave Oven,4,18,pcs,,,,6599,4964700,6188200,11,Active,True
+556,PRD000556,Coca-Cola Coca-Cola 330ml,8,29,pack,,,,1106,33000,38600,11,Active,True
+557,PRD000557,Electrolux Vacuum Cleaner,4,17,pcs,,,,9250,5717100,6912900,11,Active,True
+558,PRD000558,Nike Mercurial Pink,14,47,pcs,Pink,XS,,1522,555600,752000,11,Active,True
+559,PRD000559,Uniqlo Ultra Light Down Purple,12,44,pcs,Purple,XXL,,101,426200,646300,11,Active,True
+560,PRD000560,Puma RS-X Red,14,49,pcs,Red,XL,,2873,1952800,2389600,11,Active,True
+561,PRD000561,Wardah Lightening Serum,10,35,pcs,,,,336,177900,282200,11,Discontinued,False
+562,PRD000562,Uniqlo Oxford Shirt Gold,12,44,pcs,Gold,M,,157,1068000,1442400,11,Active,True
+563,PRD000563,Informa Office Desk Green,5,21,pcs,Green,Small,,21386,2924900,3774100,11,Active,True
+564,PRD000564,Deli Calculator,24,75,pcs,,,,2226,147700,207500,11,Active,True
+565,PRD000565,Royal Canin Mini Adult,19,61,pack,,,,3179,490800,661700,11,Active,True
+566,PRD000566,Carter's Baby Pajamas Silver,13,45,pcs,Silver,S,,398,851300,1166100,11,Active,True
+567,PRD000567,Casio CT-X700,22,70,pcs,,,,14885,8471200,10382000,11,Active,True
+568,PRD000568,Pepsi 7UP,8,30,pack,,,,936,10300,12400,11,Active,True
+569,PRD000569,Pampers Premium Care,20,62,pack,,,,2887,545600,683400,11,Active,True
+570,PRD000570,Kalbe Fatigon,9,34,box,,,,382,160900,218600,11,Active,True
+571,PRD000571,Consina Sleeping Bag Pink,15,51,pcs,Pink,20L,,4886,3183400,4610400,11,Active,True
+572,PRD000572,Eiger Adventure Jacket Green,15,50,pcs,Green,30L,,2644,3108000,4272100,11,Active,True
+573,PRD000573,Kalbe Hydro Coco,9,34,box,,,,111,281700,371000,11,Active,True
+574,PRD000574,TCL Washing Machine,4,19,pcs,,,,8420,1899700,2268300,11,Active,True
+575,PRD000575,H&M Regular Jeans Purple,12,43,pcs,Purple,XL,,286,1702300,2313200,11,Active,True
+576,PRD000576,Sony Alpha A7 IV Silver,1,3,pcs,Silver,,,2561,4169400,5012600,11,Active,True
+577,PRD000577,Adidas Ultraboost Silver,14,48,pcs,Silver,XL,,687,2061900,2863300,11,Active,True
+578,PRD000578,Kalbe Hydro Coco,9,34,box,,,,226,166800,214400,11,Active,True
+579,PRD000579,Uniqlo Chino Pants Red,12,44,pcs,Red,L,,121,779300,1242000,11,Active,True
+580,PRD000580,Roland TD-07,22,69,pcs,,,,9330,6011300,7644000,11,Discontinued,False
+581,PRD000581,LocknLock Glass Container,6,24,pcs,,,,4975,747800,936500,11,Active,True
+582,PRD000582,Deli Stapler,24,75,pcs,,,,1581,36500,48100,11,Active,True
+583,PRD000583,Bantex Document Tray,24,74,pcs,,,,1613,24700,31800,11,Active,True
+584,PRD000584,Whiskas Adult Tuna,19,60,pack,,,,3916,532200,675400,11,Active,True
+585,PRD000585,Casio PX-S1100,22,70,pcs,,,,3908,2142200,2506800,11,Active,True
+586,PRD000586,Samsung Galaxy A56 Green,1,1,pcs,Green,,,1376,5022700,5945900,11,Active,True
+587,PRD000587,Puma Suede Classic Black,14,49,pcs,Black,XL,,969,1810600,2291900,11,Active,True
+588,PRD000588,Maspion Pressure Cooker,6,25,pcs,,,,1331,487400,616900,11,Active,True
+589,PRD000589,Mothercare Baby Onesie Black,13,46,pcs,Black,S,,138,94100,135500,11,Active,True
+590,PRD000590,Royal Canin Mini Adult,19,61,kg,,,,2192,230100,283300,11,Active,True
+591,PRD000591,Mattel Barbie,25,77,pcs,,,,3868,857600,1310100,11,Active,True
+592,PRD000592,Indofood Indomie Soto,7,26,pcs,,,,887,14700,17200,0,Active,True
+593,PRD000593,OPPO A5 Pro Blue 128GB,3,14,pcs,Blue,,128GB,163,3187300,3481400,11,Active,True
+594,PRD000594,The North Face Base Camp Duffel Pink,15,52,pcs,Pink,30L,,2399,1939100,2432200,11,Active,True
+595,PRD000595,Coca-Cola Coca-Cola 330ml,8,29,box,,,,811,32000,38300,11,Active,True
+596,PRD000596,Blackmores Multivitamin,9,32,box,,,,425,113200,147700,11,Active,True
+597,PRD000597,LEGO Classic,25,76,pcs,,,,4240,233200,353000,11,Active,True
+598,PRD000598,Joyko Ballpoint,17,56,box,,,,291,42800,56400,11,Active,True
+599,PRD000599,Castrol EDGE,18,59,pcs,,,,2788,803500,990700,11,Discontinued,False
+600,PRD000600,Erlangga Math Book,16,54,pcs,,,,1488,128000,163400,0,Active,True
+601,PRD000601,Uniqlo Chino Pants Purple,11,41,pcs,Purple,XS,,247,1138200,1696200,11,Active,True
+602,PRD000602,Carter's Baby Pajamas Gray,13,45,pcs,Gray,L,,354,868900,1188100,11,Active,True
+603,PRD000603,LG UltraWide Monitor Silver,1,2,pcs,Silver,,,1638,7829200,9254800,11,Active,True
+604,PRD000604,Kalbe Fatigon,9,34,bottle,,,,349,170600,229200,11,Active,True
+605,PRD000605,Maspion Cooking Pot,6,25,set,,,,3296,527900,660900,11,Active,True
+606,PRD000606,Emina Bright Stuff,10,37,pcs,,,,378,506000,708400,11,Active,True
+607,PRD000607,Pepsi Mirinda,8,30,box,,,,1181,8700,10100,11,Active,True
+608,PRD000608,The North Face Base Camp Duffel Gold,15,52,pcs,Gold,20L,,3695,572900,736700,11,Active,True
+609,PRD000609,Anker Nano Charger Black,23,71,pcs,Black,,,278,1245800,1619700,11,Active,True
+610,PRD000610,Adidas Predator White,11,40,pcs,White,M,,720,1037800,1451600,11,Active,True
+611,PRD000611,Pepsi Mirinda,8,30,box,,,,881,11400,13200,11,Active,True
+612,PRD000612,Deli Stapler,24,75,pcs,,,,1752,249100,350600,11,Active,True
+613,PRD000613,Philips Blender HR,4,16,pcs,,,,7383,6211400,7257800,11,Active,True
+614,PRD000614,Consina Sleeping Bag White,15,51,pcs,White,20L,,2327,2517400,3161100,11,Active,True
+615,PRD000615,TCL Washing Machine,4,19,pcs,,,,9034,3501100,4300200,11,Active,True
+616,PRD000616,Emina Sun Protection,10,37,pcs,,,,403,306500,412100,11,Active,True
+617,PRD000617,Yamaha PSR-E373,22,68,pcs,,,,6349,6983700,8547400,11,Active,True
+618,PRD000618,Xiaomi Xiaomi 15 Black 256GB,3,13,pcs,Black,,256GB,278,13391900,15397000,11,Active,True
+619,PRD000619,Uniqlo Chino Pants Blue,11,41,pcs,Blue,XL,,355,391100,610700,11,Active,True
+620,PRD000620,Baseus GaN Charger Pink,23,72,pcs,Pink,,,293,803200,1201000,11,Active,True
+621,PRD000621,GarudaFood Pilus,7,28,box,,,,354,76800,90900,0,Active,True
+622,PRD000622,Maspion Frying Pan,6,25,pcs,,,,445,332400,468400,11,Active,True
+623,PRD000623,Cussons Baby Baby Powder,20,64,pack,,,,1702,656700,910100,11,Active,True
+624,PRD000624,Eiger Carrier 45L Gray,15,50,pcs,Gray,50L,,5202,2551700,3598200,11,Active,True
+625,PRD000625,Baseus USB-C Hub Silver,23,72,pcs,Silver,,,170,1283500,1987400,11,Active,True
+626,PRD000626,Lenovo Legion Pro 5 Pink 64GB,2,8,pcs,Pink,,64GB,2462,14936100,17194100,11,Active,True
+627,PRD000627,Indofood Supermi,7,26,kg,,,,803,39900,44100,0,Active,True
+628,PRD000628,Consina Tracking Pole Black,15,51,pcs,Black,50L,,4381,3615700,4977800,11,Active,True
+629,PRD000629,Zara Midi Dress Purple,12,42,pcs,Purple,L,,498,1312500,1967400,11,Active,True
+630,PRD000630,Casio CT-X700,22,70,pcs,,,,9248,95700,124400,11,Active,True
+631,PRD000631,Consina Sleeping Bag Pink,15,51,pcs,Pink,20L,,5901,1802400,2411100,11,Active,True
+632,PRD000632,Mattel Barbie,25,77,box,,,,1304,39200,55100,11,Active,True
+633,PRD000633,Adidas Stan Smith Gray,11,40,pcs,Gray,XXL,,577,548700,834200,11,Active,True
+634,PRD000634,Puma Velocity Nitro Red,14,49,pcs,Red,L,,394,2525700,3237000,11,Active,True
+635,PRD000635,Razer DeathAdder Purple 1TB,21,65,pcs,Purple,,1TB,1666,2171100,2673300,11,Active,True
+636,PRD000636,LocknLock Food Keeper,6,24,set,,,,4760,427500,535000,11,Active,True
+637,PRD000637,TCL Smart AC,4,19,pcs,,,,9443,4325100,5090600,11,Active,True
+638,PRD000638,Mayora Beng Beng,7,27,box,,,,541,45700,51200,0,Active,True
+639,PRD000639,Faber Castell 2B Pencil,17,55,pcs,,,,242,71200,97200,11,Active,True
+640,PRD000640,Entrasol Gold,9,33,bottle,,,,350,196400,245900,11,Active,True
+641,PRD000641,Deli Paper Cutter,24,75,pcs,,,,2754,224300,293100,11,Active,True
+642,PRD000642,Cussons Baby Baby Oil,20,64,pcs,,,,1137,248600,324700,11,Active,True
+643,PRD000643,Xiaomi Redmi Note 14 Green 512GB,3,13,pcs,Green,,512GB,161,16281100,17686200,11,Active,True
+644,PRD000644,Whiskas Wet Food,19,60,pcs,,,,2327,145900,180100,11,Active,True
+645,PRD000645,Indofood Pop Mie,7,26,pack,,,,946,3600,4200,0,Active,True
+646,PRD000646,Tupperware Eco Bottle,6,23,set,,,,3304,313900,407300,11,Active,True
+647,PRD000647,The North Face Base Camp Duffel White,15,52,pcs,White,30L,,5062,927200,1202800,11,Active,True
+648,PRD000648,Eiger Daypack Gold,15,50,pcs,Gold,30L,,986,2635500,3499100,11,Active,True
+649,PRD000649,Uniqlo Ultra Light Down Green,12,44,pcs,Green,XS,,293,1506700,2241000,11,Active,True
+650,PRD000650,LocknLock Glass Container,6,24,pcs,,,,2043,421200,574800,11,Active,True
+651,PRD000651,Mayora Roma Biscuit,7,27,kg,,,,354,43400,48600,0,Active,True
+652,PRD000652,Bantex Document Tray,24,74,pcs,,,,2434,191400,275500,11,Active,True
+653,PRD000653,Mayora Roma Biscuit,7,27,pack,,,,961,39100,45000,0,Active,True
+654,PRD000654,Zara Leather Jacket Gray,12,42,pcs,Gray,XXL,,486,1465600,2081900,11,Active,True
+655,PRD000655,Samsung Galaxy S25 Ultra White 64GB,3,12,pcs,White,,64GB,259,9551400,10549200,11,Active,True
+656,PRD000656,Nestle Nescafe,8,31,bottle,,,,598,18400,22900,11,Discontinued,False
+657,PRD000657,Carter's Baby Pajamas Silver,13,45,pcs,Silver,XXL,,221,358800,535500,11,Active,True
+658,PRD000658,Kalbe Hydro Coco,9,34,box,,,,255,13300,17700,11,Active,True
+659,PRD000659,Bosch Spark Plug,18,57,pcs,,,,7595,2778500,3611100,11,Active,True
+660,PRD000660,Deli Paper Cutter,24,75,pcs,,,,685,95700,131300,11,Active,True
+661,PRD000661,Adidas Duramo Red,14,48,pcs,Red,L,,2444,2254500,2797900,11,Active,True
+662,PRD000662,Bosch Brake Pad,18,57,pcs,,,,2427,1728100,2259600,11,Active,True
+663,PRD000663,Faber Castell Color Pencil,17,55,box,,,,103,49800,64400,11,Active,True
+664,PRD000664,Casio CT-X700,22,70,pcs,,,,7407,4184900,5326500,11,Active,True
+665,PRD000665,Acer Aspire 5 Silver 1TB,2,10,pcs,Silver,,1TB,1971,19191600,21510000,11,Active,True
+666,PRD000666,Uniqlo Oxford Shirt Gold,11,41,pcs,Gold,XS,,136,526900,842200,11,Active,True
+667,PRD000667,Puma RS-X White,14,49,pcs,White,S,,1261,3353000,4069500,11,Active,True
+668,PRD000668,Whiskas Kitten Ocean Fish,19,60,pcs,,,,4002,383500,496600,11,Active,True
+669,PRD000669,Entrasol Active,9,33,bottle,,,,206,239100,296200,11,Active,True
+670,PRD000670,Panasonic Air Conditioner XPU Pink,1,4,pcs,Pink,,,4042,2348300,2904600,11,Discontinued,False
+671,PRD000671,Nestle Milo,8,31,bottle,,,,1420,35400,42400,11,Active,True
+672,PRD000672,LocknLock Water Bottle,6,24,pcs,,,,2524,513800,724900,11,Active,True
+673,PRD000673,Zara Leather Jacket Black,12,42,pcs,Black,XS,,164,1838200,2867900,11,Active,True
+674,PRD000674,Yamaha P-145,22,68,pcs,,,,7022,79100,100200,11,Active,True
+675,PRD000675,Indofood Indomie Soto,7,26,kg,,,,470,65400,76200,0,Active,True
+676,PRD000676,Samsung Galaxy Watch7 Gray,1,1,pcs,Gray,,,2003,5073900,6352600,11,Active,True
+677,PRD000677,Cussons Baby Baby Lotion,20,64,pack,,,,2999,924100,1109800,11,Active,True
+678,PRD000678,Baseus USB-C Hub Green,23,72,pcs,Green,,,340,1747100,2447700,11,Active,True
+679,PRD000679,LocknLock Water Bottle,6,24,set,,,,1487,81100,103500,11,Active,True
+680,PRD000680,Adidas Duramo Gray,11,40,pcs,Gray,XL,,692,1099700,1543300,11,Active,True
+681,PRD000681,Consina Carrier 60L Red,15,51,pcs,Red,30L,,3247,3033200,4046300,11,Active,True
+682,PRD000682,Olympic TV Cabinet Green,5,22,pcs,Green,Large,,58697,4724000,6375400,11,Active,True
+683,PRD000683,Wardah Lightening Serum,10,35,bottle,,,,364,338800,464800,11,Discontinued,False
+684,PRD000684,Midea Microwave Oven,4,18,pcs,,,,14872,3210800,3833300,11,Active,True
+685,PRD000685,Shell Advance AX7,18,58,pcs,,,,5041,225400,278100,11,Active,True
+686,PRD000686,Logitech MX Master 3 White 1TB,21,66,pcs,White,,1TB,1533,347200,418600,11,Active,True
+687,PRD000687,Uniqlo Oxford Shirt Gray,11,41,pcs,Gray,XXL,,142,910000,1283000,11,Active,True
+688,PRD000688,Whiskas Wet Food,19,60,kg,,,,963,258600,316800,11,Active,True
+689,PRD000689,MamyPoko Pants Standard,20,63,pack,,,,2565,501600,668600,11,Active,True
+690,PRD000690,Deli Stapler,24,75,pcs,,,,2042,282600,396300,11,Active,True
+691,PRD000691,Sharp Aquos TV Gray,1,5,pcs,Gray,,,4566,4450200,5766600,11,Active,True
+692,PRD000692,Wardah Perfect Bright,10,35,bottle,,,,371,111100,156700,11,Active,True
+693,PRD000693,Olympic Shoe Rack Gold,5,22,pcs,Gold,Large,,25592,1379500,1690800,11,Active,True
+694,PRD000694,Castrol Power1,18,59,pcs,,,,6326,2841100,3687900,11,Active,True
+695,PRD000695,Gramedia Dictionary,16,53,pcs,,,,331,69400,85100,0,Active,True
+696,PRD000696,Shell Helix HX7,18,58,pcs,,,,2827,3327500,4317800,11,Active,True
+697,PRD000697,IKEA LACK Table Purple,5,20,pcs,Purple,Small,,57962,5537600,6770500,11,Active,True
+698,PRD000698,The North Face Summit Jacket Blue,15,52,pcs,Blue,50L,,5584,1304500,1664300,11,Active,True
+699,PRD000699,Baseus GaN Charger Green,23,72,pcs,Green,,,683,2104400,2802400,11,Active,True
+700,PRD000700,GarudaFood Pilus,7,28,box,,,,122,11100,13000,0,Active,True
+701,PRD000701,Pampers Pants,20,62,pack,,,,2122,1217500,1695700,11,Active,True
+702,PRD000702,Make Over Eyeliner,10,36,pcs,,,,374,137700,195300,11,Active,True
+703,PRD000703,Razer DeathAdder Pink 128GB,21,65,pcs,Pink,,128GB,3083,3574600,4215000,11,Active,True
+704,PRD000704,Deli Calculator,24,75,pcs,,,,1170,193100,251200,11,Active,True
+705,PRD000705,Royal Canin Persian,19,61,pcs,,,,1455,716200,860000,11,Active,True
+706,PRD000706,Electrolux Front Load Washer,4,17,pcs,,,,2227,2453700,2928000,11,Active,True
+707,PRD000707,Lenovo IdeaPad Slim 5 Black 1TB,2,8,pcs,Black,,1TB,1936,9010900,10126000,11,Active,True
+708,PRD000708,Carter's Baby Set Silver,13,45,pcs,Silver,XS,,414,375900,523900,11,Active,True
+709,PRD000709,Eiger Daypack Red,15,50,pcs,Red,20L,,1844,1055400,1439700,11,Active,True
+710,PRD000710,Electrolux Refrigerator Ultimate,4,17,pcs,,,,9994,3765400,4577100,11,Active,True
+711,PRD000711,Razer Kraken Black 512GB,21,65,pcs,Black,,512GB,3604,7479600,9657000,11,Active,True
+712,PRD000712,LEGO City,25,76,pcs,,,,4560,561200,768600,11,Active,True
+713,PRD000713,Make Over Eyeliner,10,36,bottle,,,,239,484500,726300,11,Active,True
+714,PRD000714,Roland GO Keys,22,69,pcs,,,,4161,5931900,7486900,11,Active,True
+715,PRD000715,Blackmores Vitamin C,9,32,box,,,,387,50300,63600,11,Active,True
+716,PRD000716,Olympic TV Cabinet White,5,22,pcs,White,Medium,,9388,3992900,5217400,11,Active,True
+717,PRD000717,Hasbro Nerf Elite,25,78,pcs,,,,1388,237400,346100,11,Active,True
+718,PRD000718,Mattel Hot Wheels,25,77,box,,,,1909,326500,455000,11,Active,True
+719,PRD000719,Sony Bravia X90L Purple,1,3,pcs,Purple,,,845,7319500,9424400,11,Discontinued,False
+720,PRD000720,Erlangga English Book,16,54,pcs,,,,1040,85700,109500,0,Active,True
+721,PRD000721,Midea Air Conditioner,4,18,pcs,,,,13087,5340800,6222600,11,Active,True
+722,PRD000722,Zara Midi Dress Green,12,42,pcs,Green,M,,671,123000,176300,11,Active,True
+723,PRD000723,Samsung Galaxy A36 Gray 128GB,3,12,pcs,Gray,,128GB,169,4985600,5603000,11,Active,True
+724,PRD000724,Informa Wardrobe Silver,5,21,pcs,Silver,Large,,36678,4077600,5188000,11,Active,True
+725,PRD000725,Eiger Carrier 45L Silver,15,50,pcs,Silver,30L,,5125,1198900,1578900,11,Active,True
+726,PRD000726,LG NeoChef Microwave Pink,1,2,pcs,Pink,,,2570,2414800,3100900,11,Active,True
+727,PRD000727,Consina Sleeping Bag Gray,15,51,pcs,Gray,30L,,4018,1791300,2346000,11,Active,True
+728,PRD000728,Yamaha PSR-E373,22,68,pcs,,,,8590,494500,585400,11,Active,True
+729,PRD000729,Logitech G102 Pink 1TB,21,66,pcs,Pink,,1TB,2043,60600,76500,11,Active,True
+730,PRD000730,Gramedia Novel,16,53,pcs,,,,1193,102500,125600,0,Active,True
+731,PRD000731,Mayora Roma Biscuit,7,27,pack,,,,366,54700,63800,0,Active,True
+732,PRD000732,GarudaFood Gery,7,28,pcs,,,,291,37000,43200,0,Active,True
+733,PRD000733,Mattel Hot Wheels,25,77,pcs,,,,3747,137500,195600,11,Active,True
+734,PRD000734,Consina Carrier 60L Pink,15,51,pcs,Pink,30L,,5463,703200,1017200,11,Active,True
+735,PRD000735,Faber Castell Marker,17,55,pcs,,,,76,70700,90700,11,Active,True
+736,PRD000736,Erlangga Science Book,16,54,pcs,,,,638,114100,151300,0,Active,True
+737,PRD000737,Kalbe Hydro Coco,9,34,box,,,,242,142300,171700,11,Active,True
+738,PRD000738,Samsung Galaxy S25 Ultra Blue,1,1,pcs,Blue,,,4823,7271800,8587300,11,Discontinued,False
+739,PRD000739,Adidas Duramo White,14,48,pcs,White,L,,940,2075400,2555700,11,Active,True
+740,PRD000740,Erlangga English Book,16,54,pcs,,,,395,36200,44300,0,Active,True
+741,PRD000741,The North Face Base Camp Duffel Green,15,52,pcs,Green,30L,,3920,3095400,3910800,11,Active,True
+742,PRD000742,Puma Suede Classic Blue,14,49,pcs,Blue,XL,,1101,2754800,3445000,11,Active,True
+743,PRD000743,Acer Predator Helios Black 128GB,2,10,pcs,Black,,128GB,2303,20501000,23124700,11,Active,True
+744,PRD000744,LEGO Classic,25,76,box,,,,1845,954900,1323600,11,Active,True
+745,PRD000745,Mattel Hot Wheels,25,77,box,,,,1334,927000,1414500,11,Active,True
+746,PRD000746,Eiger Adventure Jacket Blue,15,50,pcs,Blue,30L,,5574,3234900,4128400,11,Discontinued,False
+747,PRD000747,Emina Lip Tint,10,37,bottle,,,,439,422300,665400,11,Active,True
+748,PRD000748,Casio WK-6600,22,70,pcs,,,,5794,4084200,5137500,11,Active,True
+749,PRD000749,Kalbe Promag,9,34,bottle,,,,229,245600,301800,11,Active,True
+750,PRD000750,H&M Basic Hoodie Purple,12,43,pcs,Purple,L,,747,703000,1086800,11,Active,True
+751,PRD000751,Logitech G Pro X Blue 256GB,21,66,pcs,Blue,,256GB,2617,910900,1164600,11,Discontinued,False
+752,PRD000752,Nestle Nescafe,8,31,bottle,,,,1773,11400,13400,11,Active,True
+753,PRD000753,Carter's Baby Romper Silver,13,45,pcs,Silver,M,,350,646800,910600,11,Active,True
+754,PRD000754,TCL Washing Machine,4,19,pcs,,,,10735,2955700,3678600,11,Active,True
+755,PRD000755,Apple AirPods Pro White 512GB,3,11,pcs,White,,512GB,211,11882400,13689500,11,Active,True
+756,PRD000756,Indofood Pop Mie,7,26,box,,,,696,10400,12000,0,Active,True
+757,PRD000757,Nike Court Vision Black,11,39,pcs,Black,XXL,,680,1910100,2996000,11,Active,True
+758,PRD000758,Razer Kraken Blue 256GB,21,65,pcs,Blue,,256GB,2792,5240500,6331300,11,Active,True
+759,PRD000759,Royal Canin Mini Adult,19,61,pcs,,,,4266,73700,93800,11,Active,True
+760,PRD000760,Bantex Binder,24,74,pcs,,,,1773,225900,314900,11,Active,True
+761,PRD000761,Adidas Superstar Silver,14,48,pcs,Silver,M,,1586,1015600,1290900,11,Active,True
+762,PRD000762,MamyPoko Royal Soft,20,63,pack,,,,2658,29300,36200,11,Active,True
+763,PRD000763,HP LaserJet Pro Green 1TB,2,7,pcs,Green,,1TB,1762,9452100,10523400,11,Active,True
+764,PRD000764,Mothercare Baby Shoes Black,13,46,pcs,Black,M,,124,153200,207700,11,Active,True
+765,PRD000765,Carter's Baby Pajamas Purple,13,45,pcs,Purple,XXL,,459,1110600,1478200,11,Active,True
+766,PRD000766,Nike Mercurial Blue,14,47,pcs,Blue,L,,889,2933900,3919100,11,Active,True
+767,PRD000767,Cussons Baby Baby Oil,20,64,pack,,,,513,234900,312900,11,Active,True
+768,PRD000768,Carter's Baby Romper Red,13,45,pcs,Red,M,,423,36400,49400,11,Active,True
+769,PRD000769,Xiaomi Xiaomi 15 Red 256GB,3,13,pcs,Red,,256GB,236,10881200,12150800,11,Active,True
+770,PRD000770,Joyko Notebook,17,56,pcs,,,,104,32300,44000,11,Active,True
+771,PRD000771,Olympic Shoe Rack Purple,5,22,pcs,Purple,Small,,13578,486400,633300,11,Active,True
+772,PRD000772,Mattel Hot Wheels,25,77,box,,,,4081,621800,939900,11,Active,True
+773,PRD000773,Adidas Superstar Purple,14,48,pcs,Purple,L,,2661,1252300,1563000,11,Active,True
+774,PRD000774,Bantex Binder,24,74,pcs,,,,603,271100,372800,11,Active,True
+775,PRD000775,Casio WK-6600,22,70,pcs,,,,5726,6553000,8039600,11,Active,True
+776,PRD000776,Uniqlo AIRism T-Shirt Green,12,44,pcs,Green,XL,,126,1485100,2299300,11,Active,True
+777,PRD000777,Royal Canin Indoor,19,61,kg,,,,4198,659800,885000,11,Active,True
+778,PRD000778,H&M Cotton Shirt Purple,12,43,pcs,Purple,XXL,,342,1060000,1617100,11,Active,True
+779,PRD000779,Anker Nano Charger Purple,23,71,pcs,Purple,,,431,118500,168100,11,Active,True
+780,PRD000780,GarudaFood Gery,7,28,box,,,,984,77100,87200,0,Active,True
+781,PRD000781,Razer DeathAdder Green 256GB,21,65,pcs,Green,,256GB,3407,9821200,11671200,11,Active,True
+782,PRD000782,Entrasol Platinum,9,33,bottle,,,,487,235800,317200,11,Active,True
+783,PRD000783,Kalbe Fatigon,9,34,bottle,,,,227,262000,337600,11,Active,True
+784,PRD000784,Cussons Baby Baby Lotion,20,64,pcs,,,,211,297400,414800,11,Active,True
+785,PRD000785,Samsung Galaxy S25 Gray 512GB,3,12,pcs,Gray,,512GB,262,1837900,2025900,11,Active,True
+786,PRD000786,Deli Paper Cutter,24,75,pcs,,,,2996,304700,385300,11,Active,True
+787,PRD000787,Wardah Lightening Serum,10,35,bottle,,,,292,106300,157300,11,Active,True
+788,PRD000788,LG NeoChef Microwave Green,1,2,pcs,Green,,,4024,3319500,4165400,11,Active,True
+789,PRD000789,Make Over Powerstay Foundation,10,36,bottle,,,,151,104100,164200,11,Active,True
+790,PRD000790,UGREEN USB Hub White,23,73,pcs,White,,,516,1725400,2478500,11,Active,True
+791,PRD000791,Uniqlo Oxford Shirt Blue,12,44,pcs,Blue,M,,455,1263200,1941700,11,Active,True
+792,PRD000792,Pampers Pants,20,62,pack,,,,2817,159200,206900,11,Active,True
+793,PRD000793,Yamaha F310,22,68,pcs,,,,9823,4514700,5841600,11,Active,True
+794,PRD000794,Whiskas Kitten Ocean Fish,19,60,pcs,,,,3520,160600,215000,11,Active,True
+795,PRD000795,Uniqlo Oxford Shirt Black,12,44,pcs,Black,L,,587,1431100,2093500,11,Active,True
+796,PRD000796,Nike Mercurial Gold,14,47,pcs,Gold,XL,,2096,1876400,2502900,11,Active,True
+797,PRD000797,Castrol Magnatec,18,59,pcs,,,,935,1361300,1709600,11,Active,True
+798,PRD000798,Faber Castell Marker,17,55,pcs,,,,180,49400,67700,11,Active,True
+799,PRD000799,Bantex Document Tray,24,74,pcs,,,,3486,363200,474700,11,Active,True
+800,PRD000800,SteelSeries Arctis Nova Pink 128GB,21,67,pcs,Pink,,128GB,693,9560800,12237800,11,Active,True
+801,PRD000801,Logitech G Pro X Red 512GB,21,66,pcs,Red,,512GB,3354,4105400,5111400,11,Discontinued,False
+802,PRD000802,Royal Canin Indoor,19,61,pack,,,,2993,166900,211100,11,Active,True
+803,PRD000803,Adidas Stan Smith Silver,14,48,pcs,Silver,L,,1421,2528600,3151200,11,Active,True
+804,PRD000804,LEGO City,25,76,box,,,,2816,548400,794400,11,Active,True
+805,PRD000805,Pampers Pants,20,62,pcs,,,,2654,369600,490900,11,Discontinued,False
+806,PRD000806,Erlangga Math Book,16,54,pcs,,,,522,130700,167200,0,Active,True
+807,PRD000807,Anker Nano Charger Green,23,71,pcs,Green,,,87,447400,638300,11,Active,True
+808,PRD000808,Emina Sun Protection,10,37,pcs,,,,445,153800,236400,11,Active,True
+809,PRD000809,Faber Castell Marker,17,55,pcs,,,,175,8000,11000,11,Active,True
+810,PRD000810,Nestle Nescafe,8,31,box,,,,1967,11700,14400,11,Active,True
+811,PRD000811,Olympic Shoe Rack Gold,5,22,pcs,Gold,Small,,52628,1959400,2427600,11,Active,True
+812,PRD000812,Mattel Thomas & Friends,25,77,box,,,,2559,950200,1298400,11,Active,True
+813,PRD000813,GarudaFood Kacang Garuda,7,28,pack,,,,954,13300,15300,0,Active,True
+814,PRD000814,Nestle Nescafe,8,31,bottle,,,,878,20000,24100,11,Active,True
+815,PRD000815,Razer DeathAdder Pink 512GB,21,65,pcs,Pink,,512GB,662,8491500,9962100,11,Active,True
+816,PRD000816,Pepsi 7UP,8,30,pack,,,,340,32000,39200,11,Active,True
+817,PRD000817,Anker Soundcore R50i Black,23,71,pcs,Black,,,802,1926000,2827700,11,Discontinued,False
+818,PRD000818,Adidas Superstar Green,11,40,pcs,Green,XS,,721,1787900,2418500,11,Active,True
+819,PRD000819,Electrolux Refrigerator Ultimate,4,17,pcs,,,,2557,2399800,2901100,11,Active,True
+820,PRD000820,Philips Air Fryer XL,4,16,pcs,,,,2306,1600400,1937300,11,Active,True
+821,PRD000821,Nike Court Vision Blue,11,39,pcs,Blue,L,,865,893800,1291900,11,Active,True
+822,PRD000822,Hasbro Transformers,25,78,box,,,,4926,1091900,1557000,11,Active,True
+823,PRD000823,Deli Stapler,24,75,pcs,,,,1843,216900,292400,11,Active,True
+824,PRD000824,L'Oreal Revitalift,10,38,pcs,,,,437,277100,441800,11,Active,True
+825,PRD000825,Panasonic Air Conditioner XPU Purple,1,4,pcs,Purple,,,2208,2774900,3209800,11,Active,True
+826,PRD000826,Joyko Notebook,17,56,box,,,,252,39300,51300,11,Active,True
+827,PRD000827,GarudaFood Kacang Garuda,7,28,pcs,,,,585,64400,72700,0,Active,True
+828,PRD000828,Mothercare Baby Blanket Pink,13,46,pcs,Pink,XXL,,485,576600,861600,11,Active,True
+829,PRD000829,Erlangga English Book,16,54,pcs,,,,1431,144800,192900,0,Active,True
+830,PRD000830,Emina Bright Stuff,10,37,pcs,,,,446,78600,104300,11,Active,True
+831,PRD000831,Hasbro Play-Doh,25,78,box,,,,1128,1165200,1728700,11,Active,True
+832,PRD000832,LG DualCool AC Purple,1,2,pcs,Purple,,,4938,5592500,6824100,11,Active,True
+833,PRD000833,Tupperware Lunch Box,6,23,set,,,,930,68500,98500,11,Discontinued,False
+834,PRD000834,Indofood Indomie Soto,7,26,box,,,,764,88000,99200,0,Active,True
+835,PRD000835,Joyko Stapler,17,56,pcs,,,,23,46600,67100,11,Active,True
+836,PRD000836,Joyko Notebook,17,56,box,,,,101,52800,74500,11,Discontinued,False
+837,PRD000837,Bantex Document Tray,24,74,pcs,,,,3991,298300,424500,11,Active,True
+838,PRD000838,Uniqlo Chino Pants Pink,11,41,pcs,Pink,L,,365,1128900,1698600,11,Active,True
+839,PRD000839,Hasbro Play-Doh,25,78,pcs,,,,358,1024500,1576300,11,Active,True
+840,PRD000840,Midea Air Conditioner,4,18,pcs,,,,7944,5118400,6165500,11,Active,True
+841,PRD000841,Erlangga Math Book,16,54,pcs,,,,866,121200,148900,0,Active,True
+842,PRD000842,Dell Alienware M18 Gold 64GB,2,6,pcs,Gold,,64GB,3068,7478800,8965500,11,Active,True
+843,PRD000843,UGREEN 65W Charger Pink,23,73,pcs,Pink,,,575,176900,248100,11,Active,True
+844,PRD000844,Anker Nano Charger Gray,23,71,pcs,Gray,,,228,198400,304200,11,Active,True
+845,PRD000845,OPPO A5 Pro Pink 64GB,3,14,pcs,Pink,,64GB,196,6783500,7847500,11,Active,True
+846,PRD000846,Blackmores Vitamin C,9,32,box,,,,430,267800,336600,11,Active,True
+847,PRD000847,Bosch Brake Pad,18,57,pcs,,,,3652,1535000,1953000,11,Active,True
+848,PRD000848,Tupperware Eco Bottle,6,23,set,,,,2235,300600,397800,11,Active,True
+849,PRD000849,Apple AirPods Pro Pink 64GB,3,11,pcs,Pink,,64GB,157,14314600,15684200,11,Active,True
+850,PRD000850,Hasbro Play-Doh,25,78,pcs,,,,2779,999300,1517400,11,Active,True
+851,PRD000851,Maspion Cooking Pot,6,25,pcs,,,,2475,705100,994800,11,Active,True
+852,PRD000852,The North Face Summit Jacket Black,15,52,pcs,Black,50L,,5263,2594700,3708900,11,Active,True
+853,PRD000853,Mayora Kopiko,7,27,pack,,,,766,52500,62400,0,Active,True
+854,PRD000854,Sony Alpha A7 IV White,1,3,pcs,White,,,584,674100,815700,11,Active,True
+855,PRD000855,Emina Lip Tint,10,37,pcs,,,,352,242300,339400,11,Active,True
+856,PRD000856,Make Over Powerstay Foundation,10,36,pcs,,,,244,229000,355800,11,Active,True
+857,PRD000857,Coca-Cola Coca-Cola 330ml,8,29,bottle,,,,413,16600,20700,11,Active,True
+858,PRD000858,Zara Slim Blazer Red,12,42,pcs,Red,M,,133,213200,330400,11,Active,True
+859,PRD000859,Tupperware Eco Bottle,6,23,set,,,,1314,324300,405800,11,Active,True
+860,PRD000860,Erlangga Math Book,16,54,pcs,,,,1025,195500,235800,0,Active,True
+861,PRD000861,Anker Nano Charger Green,23,71,pcs,Green,,,788,510400,683700,11,Active,True
+862,PRD000862,Shell Helix HX7,18,58,pcs,,,,6429,1790800,2341600,11,Active,True
+863,PRD000863,Gramedia Workbook,16,53,pcs,,,,899,72500,96100,0,Active,True
+864,PRD000864,GarudaFood Gery,7,28,box,,,,637,83800,95000,0,Active,True
+865,PRD000865,Mayora Roma Biscuit,7,27,pcs,,,,974,79900,95000,0,Active,True
+866,PRD000866,Maspion Pressure Cooker,6,25,pcs,,,,4040,300600,384500,11,Active,True
+867,PRD000867,Puma Suede Classic Blue,14,49,pcs,Blue,S,,2169,2991600,4013300,11,Active,True
+868,PRD000868,Roland FP-30X,22,69,pcs,,,,8209,9409500,11084300,11,Active,True
+869,PRD000869,Carter's Baby Set White,13,45,pcs,White,XS,,337,569200,807700,11,Active,True
+870,PRD000870,Deli Stapler,24,75,pcs,,,,1810,36400,51400,11,Active,True
+871,PRD000871,Wardah Perfect Bright,10,35,bottle,,,,108,386800,528900,11,Active,True
+872,PRD000872,Carter's Baby Set Blue,13,45,pcs,Blue,S,,463,853600,1176700,11,Active,True
+873,PRD000873,Mayora Roma Biscuit,7,27,box,,,,374,76700,86800,0,Active,True
+874,PRD000874,Panasonic Lumix G100 Red,1,4,pcs,Red,,,4991,2409500,3052900,11,Active,True
+875,PRD000875,Bosch Brake Pad,18,57,pcs,,,,3092,3194100,4175500,11,Active,True
+876,PRD000876,LG NeoChef Microwave Pink,1,2,pcs,Pink,,,1038,6239600,8103300,11,Active,True
+877,PRD000877,Coca-Cola Coca-Cola 330ml,8,29,pack,,,,306,10100,12100,11,Active,True
+878,PRD000878,Samsung Galaxy Watch7 Red 512GB,3,12,pcs,Red,,512GB,210,3456600,3748900,11,Active,True
+879,PRD000879,LEGO Creator,25,76,pcs,,,,1447,291200,402100,11,Active,True
+880,PRD000880,Baseus GaN Charger White,23,72,pcs,White,,,236,1505100,2169400,11,Active,True
+881,PRD000881,Bantex Lever Arch File,24,74,pcs,,,,745,350500,487600,11,Active,True
+882,PRD000882,Carter's Baby Romper Pink,13,45,pcs,Pink,XXL,,225,191100,278700,11,Active,True
+883,PRD000883,The North Face Base Camp Duffel Blue,15,52,pcs,Blue,30L,,514,3218700,4216900,11,Active,True
+884,PRD000884,Panasonic Lumix G100 Blue,1,4,pcs,Blue,,,2018,5999100,7775200,11,Active,True
+885,PRD000885,Carter's Baby Pajamas White,13,45,pcs,White,XS,,318,649600,902400,11,Active,True
+886,PRD000886,Roland FP-30X,22,69,pcs,,,,7039,450500,545000,11,Active,True
+887,PRD000887,Casio WK-6600,22,70,pcs,,,,13109,2271500,2864100,11,Active,True
+888,PRD000888,Bantex Document Tray,24,74,pcs,,,,401,34000,43200,11,Active,True
+889,PRD000889,Erlangga Math Book,16,54,pcs,,,,756,163600,199400,0,Active,True
+890,PRD000890,MamyPoko Pants Standard,20,63,pack,,,,411,138300,176700,11,Active,True
+891,PRD000891,Mattel Barbie,25,77,pcs,,,,799,492500,661800,11,Discontinued,False
+892,PRD000892,Cussons Baby Baby Powder,20,64,pcs,,,,1765,1269400,1727000,11,Active,True
+893,PRD000893,Whiskas Wet Food,19,60,kg,,,,399,104900,136200,11,Active,True
+894,PRD000894,Panasonic Rice Cooker SR Silver,1,4,pcs,Silver,,,2253,7052800,8457800,11,Active,True
+895,PRD000895,LEGO Classic,25,76,box,,,,4175,877000,1236600,11,Active,True
+896,PRD000896,Deli Calculator,24,75,pcs,,,,1577,287900,397200,11,Active,True
+897,PRD000897,Samsung Galaxy S25 Ultra Silver,1,1,pcs,Silver,,,3666,6748000,8700800,11,Active,True
+898,PRD000898,Informa Office Desk Black,5,21,pcs,Black,Small,,30675,5517900,6654500,11,Active,True
+899,PRD000899,Joyko Stapler,17,56,pcs,,,,108,14500,20500,11,Active,True
+900,PRD000900,Faber Castell 2B Pencil,17,55,box,,,,263,48700,67000,11,Active,True
+901,PRD000901,LEGO Creator,25,76,pcs,,,,4444,1143800,1742900,11,Active,True
+902,PRD000902,Nike Court Vision Black,11,39,pcs,Black,XXL,,100,1699300,2329100,11,Active,True
+903,PRD000903,Apple iPhone 16 Pro Black 1TB,3,11,pcs,Black,,1TB,161,15345000,17974900,11,Active,True
+904,PRD000904,Wardah Perfect Bright,10,35,pcs,,,,245,544500,725200,11,Active,True
+905,PRD000905,Indofood Pop Mie,7,26,pcs,,,,357,80700,95300,0,Active,True
+906,PRD000906,Mayora Roma Biscuit,7,27,pcs,,,,707,16000,18100,0,Active,True
+907,PRD000907,Midea Air Conditioner,4,18,pcs,,,,9545,4873100,5677800,11,Active,True
+908,PRD000908,Anker PowerCore 10000 Silver,23,71,pcs,Silver,,,747,1445600,1968700,11,Active,True
+909,PRD000909,Mothercare Baby Blanket Black,13,46,pcs,Black,M,,235,980300,1440500,11,Active,True
+910,PRD000910,Apple AirPods Pro Black 1TB,3,11,pcs,Black,,1TB,206,6130800,6896500,11,Active,True
+911,PRD000911,IKEA BILLY Bookcase Purple,5,20,pcs,Purple,Small,,21614,3725400,4695700,11,Active,True
+912,PRD000912,LG DualCool AC Gray,1,2,pcs,Gray,,,4371,4867800,6111200,11,Active,True
+913,PRD000913,Uniqlo Chino Pants White,12,44,pcs,White,XXL,,394,2136800,2961200,11,Active,True
+914,PRD000914,Castrol Magnatec,18,59,pcs,,,,2901,1471800,1787400,11,Active,True
+915,PRD000915,Olympic Kitchen Cabinet Green,5,22,pcs,Green,Medium,,19521,1664300,2088900,11,Active,True
+916,PRD000916,Nestle KitKat,8,31,box,,,,1883,42900,49700,11,Active,True
+917,PRD000917,Pampers Pants,20,62,pcs,,,,2855,91500,118900,11,Active,True
+918,PRD000918,Eiger Adventure Jacket White,15,50,pcs,White,30L,,2222,3427800,4722700,11,Active,True
+919,PRD000919,Anker Nano Charger White,23,71,pcs,White,,,309,1726500,2632200,11,Active,True
+920,PRD000920,Shell Brake Fluid,18,58,pcs,,,,2464,1073300,1339600,11,Active,True
+921,PRD000921,Faber Castell Color Pencil,17,55,pcs,,,,229,22800,33000,11,Active,True
+922,PRD000922,Baseus USB-C Hub Black,23,72,pcs,Black,,,292,735200,1104400,11,Discontinued,False
+923,PRD000923,Emina Lip Tint,10,37,bottle,,,,362,124600,179700,11,Active,True
+924,PRD000924,Deli Stapler,24,75,pcs,,,,651,104100,148500,11,Active,True
+925,PRD000925,Kalbe Fatigon,9,34,bottle,,,,134,305000,413200,11,Active,True
+926,PRD000926,Roland FP-30X,22,69,pcs,,,,14842,9183000,11559300,11,Active,True
+927,PRD000927,SteelSeries Apex Pro Silver 256GB,21,67,pcs,Silver,,256GB,2641,7273200,9451900,11,Active,True
+928,PRD000928,Royal Canin Indoor,19,61,kg,,,,995,559800,771600,11,Active,True
+929,PRD000929,Tupperware Storage Set,6,23,set,,,,3936,581500,782900,11,Active,True
+930,PRD000930,Tupperware Storage Set,6,23,set,,,,4510,668600,919100,11,Active,True
+931,PRD000931,Electrolux Vacuum Cleaner,4,17,pcs,,,,5402,5516100,6627200,11,Active,True
+932,PRD000932,Anker Nano Charger Gold,23,71,pcs,Gold,,,247,364600,500400,11,Active,True
+933,PRD000933,Electrolux Vacuum Cleaner,4,17,pcs,,,,8254,1148800,1390200,11,Active,True
+934,PRD000934,Casio PX-S1100,22,70,pcs,,,,14821,6591700,8295900,11,Active,True
+935,PRD000935,vivo Y300 Pink 256GB,3,15,pcs,Pink,,256GB,265,9842000,11513100,11,Active,True
+936,PRD000936,Bosch Spark Plug,18,57,pcs,,,,7999,2653500,3185600,11,Active,True
+937,PRD000937,LG DualCool AC Green,1,2,pcs,Green,,,4441,7147700,8335200,11,Active,True
+938,PRD000938,Whiskas Wet Food,19,60,pcs,,,,1905,321400,441900,11,Active,True
+939,PRD000939,Mothercare Baby Shoes White,13,46,pcs,White,M,,354,847100,1142100,11,Active,True
+940,PRD000940,Uniqlo Ultra Light Down Green,11,41,pcs,Green,S,,839,999100,1504400,11,Active,True
+941,PRD000941,Indofood Indomie Goreng,7,26,pack,,,,644,76600,85800,0,Active,True
+942,PRD000942,Castrol EDGE,18,59,pcs,,,,7447,1003800,1331900,11,Active,True
+943,PRD000943,IKEA MALM Bed Gold,5,20,pcs,Gold,Medium,,56576,4242800,5332300,11,Active,True
+944,PRD000944,H&M Regular Jeans Blue,12,43,pcs,Blue,M,,749,395100,541400,11,Active,True
+945,PRD000945,Gramedia Dictionary,16,53,pcs,,,,1432,168600,215900,0,Active,True
+946,PRD000946,Indofood Pop Mie,7,26,box,,,,263,6900,7800,0,Active,True
+947,PRD000947,Logitech MX Master 3 Red 256GB,21,66,pcs,Red,,256GB,1918,4736400,6027500,11,Active,True
+948,PRD000948,The North Face Base Camp Duffel Gold,15,52,pcs,Gold,20L,,5020,2475500,3518400,11,Active,True
+949,PRD000949,Uniqlo Ultra Light Down Purple,11,41,pcs,Purple,XXL,,725,1071800,1673800,11,Active,True
+950,PRD000950,Nestle KitKat,8,31,pack,,,,1953,40900,47400,11,Active,True
+951,PRD000951,Roland TD-07,22,69,pcs,,,,13459,3580800,4538800,11,Active,True
+952,PRD000952,Gramedia Dictionary,16,53,pcs,,,,1490,138600,168600,0,Active,True
+953,PRD000953,Tupperware Storage Set,6,23,set,,,,2812,709100,951300,11,Active,True
+954,PRD000954,Acer Predator Helios Silver 64GB,2,10,pcs,Silver,,64GB,2507,11617900,13620000,11,Active,True
+955,PRD000955,Whiskas Adult Tuna,19,60,pcs,,,,1100,449600,550100,11,Active,True
+956,PRD000956,Adidas Superstar Blue,11,40,pcs,Blue,XXL,,913,1848900,2733600,11,Active,True
+957,PRD000957,Mothercare Baby Shoes Gold,13,46,pcs,Gold,XXL,,484,315700,440400,11,Active,True
+958,PRD000958,Whiskas Kitten Ocean Fish,19,60,pack,,,,2316,616800,831400,11,Active,True
+959,PRD000959,Yamaha P-145,22,68,pcs,,,,7267,4514000,5572500,11,Active,True
+960,PRD000960,Anker Soundcore R50i Gold,23,71,pcs,Gold,,,337,1660500,2225100,11,Active,True
+961,PRD000961,Acer Swift Go Gold 512GB,2,10,pcs,Gold,,512GB,2607,4240400,5066900,11,Active,True
+962,PRD000962,Bantex Document Tray,24,74,pcs,,,,3259,107600,143000,11,Active,True
+963,PRD000963,ASUS TUF A15 White 128GB,2,9,pcs,White,,128GB,1503,19861800,22161900,11,Discontinued,False
+964,PRD000964,Bantex Lever Arch File,24,74,pcs,,,,1365,101400,133300,11,Active,True
+965,PRD000965,Consina Sleeping Bag Black,15,51,pcs,Black,30L,,4087,2419000,3263900,11,Active,True
+966,PRD000966,UGREEN 65W Charger Gold,23,73,pcs,Gold,,,346,787500,1229000,11,Active,True
+967,PRD000967,Make Over Lip Cream,10,36,bottle,,,,383,69800,108500,11,Active,True
+968,PRD000968,Casio PX-S1100,22,70,pcs,,,,4362,6913300,8850300,11,Active,True
+969,PRD000969,Puma RS-X Red,14,49,pcs,Red,L,,2734,666200,836000,11,Active,True
+970,PRD000970,Entrasol Platinum,9,33,bottle,,,,401,344100,436500,11,Active,True
+971,PRD000971,Wardah Lightening Serum,10,35,pcs,,,,394,85200,122300,11,Active,True
+972,PRD000972,Tupperware Storage Set,6,23,pcs,,,,458,757900,967800,11,Active,True
+973,PRD000973,Royal Canin Persian,19,61,pcs,,,,2729,714600,989200,11,Active,True
+974,PRD000974,Deli Calculator,24,75,pcs,,,,897,297900,415600,11,Active,True
+975,PRD000975,Emina Lip Tint,10,37,bottle,,,,253,81600,115300,11,Active,True
+976,PRD000976,Deli Paper Cutter,24,75,pcs,,,,558,245900,329500,11,Active,True
+977,PRD000977,Consina Tracking Pole Blue,15,51,pcs,Blue,50L,,2468,2014700,2723800,11,Active,True
+978,PRD000978,Adidas Stan Smith Black,11,40,pcs,Black,XXL,,517,954300,1391100,11,Active,True
+979,PRD000979,Casio PX-S1100,22,70,pcs,,,,9594,8346900,9816000,11,Active,True
+980,PRD000980,Electrolux Vacuum Cleaner,4,17,pcs,,,,2627,622600,760400,11,Active,True
+981,PRD000981,Deli Stapler,24,75,pcs,,,,284,60800,84500,11,Active,True
+982,PRD000982,Yamaha F310,22,68,pcs,,,,2709,9061300,11609100,11,Active,True
+983,PRD000983,Bosch Spark Plug,18,57,pcs,,,,7865,3330000,4381400,11,Active,True
+984,PRD000984,Make Over Powerstay Foundation,10,36,pcs,,,,296,369000,575200,11,Active,True
+985,PRD000985,Tupperware Eco Bottle,6,23,set,,,,2357,700400,994100,11,Active,True
+986,PRD000986,Shell Advance AX7,18,58,pcs,,,,2335,1351700,1724600,11,Active,True
+987,PRD000987,Entrasol Platinum,9,33,bottle,,,,485,343200,416100,11,Active,True
+988,PRD000988,Mothercare Baby Shoes Purple,13,46,pcs,Purple,XXL,,132,676400,991700,11,Active,True
+989,PRD000989,Roland GO Keys,22,69,pcs,,,,11725,5733200,7374900,11,Active,True
+990,PRD000990,Royal Canin Persian,19,61,kg,,,,968,173500,227700,11,Active,True
+991,PRD000991,Wardah Hydrating Toner,10,35,pcs,,,,187,311200,471700,11,Active,True
+992,PRD000992,Gramedia Dictionary,16,53,pcs,,,,320,32900,43800,0,Active,True
+993,PRD000993,GarudaFood Gery,7,28,pack,,,,106,39000,46000,0,Active,True
+994,PRD000994,Royal Canin Mini Adult,19,61,pcs,,,,3152,345500,480900,11,Active,True
+995,PRD000995,Acer Predator Helios Red 1TB,2,10,pcs,Red,,1TB,3410,13401700,15280200,11,Active,True
+996,PRD000996,Baseus USB-C Hub Gray,23,72,pcs,Gray,,,756,1635400,2286100,11,Active,True
+997,PRD000997,Faber Castell 2B Pencil,17,55,pcs,,,,50,60600,83100,11,Active,True
+998,PRD000998,Sony PlayStation 5 Gold,1,3,pcs,Gold,,,2746,1548400,1803700,11,Active,True
+999,PRD000999,Philips Rice Cooker HD,4,16,pcs,,,,3090,1144800,1337600,11,Active,True
+1000,PRD001000,Hasbro Monopoly,25,78,pcs,,,,852,1412100,1958300,11,Active,True

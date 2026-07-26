@@ -1,0 +1,19 @@
+payment_key,payment_code,payment_method,provider,is_active
+1,PAY000001,Cash,Cash,True
+2,PAY000002,Debit Card,BCA,True
+3,PAY000003,Debit Card,Mandiri,True
+4,PAY000004,Debit Card,BNI,True
+5,PAY000005,Debit Card,BRI,True
+6,PAY000006,Debit Card,CIMB,True
+7,PAY000007,Credit Card,Visa,True
+8,PAY000008,Credit Card,Mastercard,True
+9,PAY000009,Credit Card,JCB,True
+10,PAY000010,QRIS,GoPay,True
+11,PAY000011,QRIS,OVO,True
+12,PAY000012,QRIS,DANA,True
+13,PAY000013,QRIS,ShopeePay,True
+14,PAY000014,E-Wallet,GoPay,True
+15,PAY000015,E-Wallet,OVO,True
+16,PAY000016,E-Wallet,DANA,True
+17,PAY000017,E-Wallet,ShopeePay,True
+18,PAY000018,E-Wallet,LinkAja,True

@@ -1,0 +1,26 @@
+store_key,store_code,store_name,store_type,city,province,address,phone,opening_date,manager_name,is_active
+1,STR000001,Retail Center Yogyakarta Business Park,Supermarket,Yogyakarta,DI Yogyakarta,"Gg. Cihampelas No. 39, Kotamobagu, SB 26991",+62 (040) 945-5564,2020-05-12,Belinda Mansur,False
+2,STR000002,Retail Hyper Surabaya Downtown,Supermarket,Surabaya,Jawa Timur,"Gg. Dipatiukur No. 947, Makassar, Sulawesi Selatan 23237",0811963628,2025-05-27,"Karimah Jailani, S.I.Kom",True
+3,STR000003,Retail Center Bekasi Station,Minimarket,Bekasi,Jawa Barat,"Jalan Dipatiukur No. 9, Padang, Bali 09541",+62 (0202) 654-0732,2019-09-13,Irwan Pudjiastuti,True
+4,STR000004,Retail Express Bekasi East,Hypermarket,Bekasi,Jawa Barat,"Jl. Rumah Sakit No. 03, Jambi, SG 92779",086 168 5312,2020-12-31,Nasab Halimah,True
+5,STR000005,Retail Center Surabaya Mall,Supermarket,Surabaya,Jawa Timur,"Jalan Pacuan Kuda No. 98, Dumai, Kepulauan Bangka Belitung 76814",+62 (87) 448-3079,2017-03-29,Kani Natsir,True
+6,STR000006,Retail Mart Yogyakarta Mall,Hypermarket,Yogyakarta,DI Yogyakarta,"Jl. Waringin No. 816, Sungai Penuh, DKI Jakarta 61376",+62 (86) 875-9852,2019-04-10,Salwa Lailasari,True
+7,STR000007,Retail Mart Bekasi Mall,Supermarket,Bekasi,Jawa Barat,"Gang Veteran No. 1, Palu, Sumatera Barat 37579",+62 (626) 460 7868,2024-01-29,Ira Prakasa,False
+8,STR000008,Retail Hyper Bandung Mall,Supermarket,Bandung,Jawa Barat,"Gang Setiabudhi No. 854, Blitar, NB 74867",+62-298-214-6356,2024-05-03,Puti Hafshah Ramadan,True
+9,STR000009,Retail Express Bogor South,Minimarket,Bogor,Jawa Barat,"Jl. Moch. Ramdan No. 57, Padang, DKI Jakarta 18111",+62-0745-189-5021,2022-03-05,Luwar Narpati,True
+10,STR000010,Retail Express Denpasar Mall,Minimarket,Denpasar,Bali,"Jl. Gedebage Selatan No. 98, Bukittinggi, Kalimantan Tengah 80322",+62 (60) 308-4123,2016-08-20,Cengkir Kuswoyo,True
+11,STR000011,Retail Hyper Medan East,Convenience Store,Medan,Sumatera Utara,"Gang Moch. Ramdan No. 514, Manado, YO 72796",+62-0713-805-8371,2026-01-11,Drs. Nilam Damanik,True
+12,STR000012,Retail Express Yogyakarta Central,Minimarket,Yogyakarta,DI Yogyakarta,"Gg. Asia Afrika No. 371, Madiun, Jawa Barat 83663",0817859017,2024-06-27,"Anastasia Mandala, S.Kom",True
+13,STR000013,Retail Hyper Yogyakarta Downtown,Hypermarket,Yogyakarta,DI Yogyakarta,"Gg. Otto Iskandardinata No. 1, Lhokseumawe, SN 79433",+62-039-228-2589,2020-02-07,Lutfan Dongoran,True
+14,STR000014,Retail Center Bandung South,Convenience Store,Bandung,Jawa Barat,"Gang Ahmad Dahlan No. 774, Parepare, Bali 68539",+62 (067) 410 1858,2025-08-29,"Dr. Ade Prasetya, S.Farm",True
+15,STR000015,Retail Center Denpasar Business Park,Supermarket,Denpasar,Bali,"Gg. Gardujati No. 1, Bukittinggi, Papua Barat 68944",+62 (032) 052-4809,2019-01-26,"Agnes Damanik, S.Gz",True
+16,STR000016,Retail Hyper Bogor West,Hypermarket,Bogor,Jawa Barat,"Jl. Erlangga No. 617, Kota Administrasi Jakarta Timur, Maluku Utara 21239",+62 (28) 848 9086,2025-11-27,"Tari Napitupulu, S.Kom",True
+17,STR000017,Retail Mart Jakarta Airport,Minimarket,Jakarta,DKI Jakarta,"Jalan Yos Sudarso No. 1, Ternate, Kalimantan Barat 06262",(074) 205-8826,2023-12-06,KH. Martaka Prastuti,True
+18,STR000018,Retail Mart Bogor West,Convenience Store,Bogor,Jawa Barat,"Gang Jakarta No. 48, Parepare, BE 62307",(0741) 512-5017,2018-01-06,Farhunnisa Wahyudin,True
+19,STR000019,Retail Hyper Jakarta North,Convenience Store,Jakarta,DKI Jakarta,"Jalan Dipenogoro No. 8, Kendari, JT 14968",(0437) 126 4183,2025-01-25,Ikin Puspasari,True
+20,STR000020,Retail Hyper Medan Downtown,Convenience Store,Medan,Sumatera Utara,"Gg. Stasiun Wonokromo No. 722, Cimahi, SR 47422",084 190 6850,2019-11-13,Nabila Hardiansyah,True
+21,STR000021,Retail Hyper Denpasar Business Park,Convenience Store,Denpasar,Bali,"Jalan Raya Ujungberung No. 7, Purwokerto, Nusa Tenggara Barat 58574",+62 (031) 993 8118,2022-11-01,"Gambira Purnawati, M.Kom.",True
+22,STR000022,Retail Hyper Bogor Downtown,Hypermarket,Bogor,Jawa Barat,"Jalan Cihampelas No. 40, Bima, BT 91634",+62 (79) 390-5983,2023-06-19,Purwa Rajasa,True
+23,STR000023,Retail Mart Surabaya Business Park,Hypermarket,Surabaya,Jawa Timur,"Jl. Otto Iskandardinata No. 221, Madiun, Nusa Tenggara Timur 48402",+62-0936-502-4057,2025-01-19,"Hana Prasetyo, M.Kom.",True
+24,STR000024,Retail Hyper Surabaya Airport,Hypermarket,Surabaya,Jawa Timur,"Gg. Joyoboyo No. 067, Surakarta, Nusa Tenggara Barat 87407",+62 (014) 519-4865,2018-01-16,"Utama Utama, S.Sos",True
+25,STR000025,Retail Express Bekasi North,Convenience Store,Bekasi,Jawa Barat,"Gg. Jamika No. 040, Binjai, Sumatera Barat 79679",(0367) 856 2736,2017-08-29,"Michelle Halimah, S.Psi",True

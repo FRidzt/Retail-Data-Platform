@@ -17,7 +17,39 @@ End-to-End Modern Data Engineering Portfolio Project.
 
 ## Architecture
 
-Coming Soon...
+Retail CSV Files
+                               │
+                               ▼
+                     Python Data Generator
+                               │
+                               ▼
+                    PostgreSQL (Raw Layer)
+                               │
+                               ▼
+                         Apache Airflow
+                     (Pipeline Orchestration)
+                               │
+                               ▼
+                          Apache Spark
+                  Cleaning & Transformation
+                               │
+                               ▼
+                 PostgreSQL Warehouse
+          Bronze → Silver → Gold Layer
+                               │
+                               ▼
+                              dbt
+        Star Schema + Data Quality + Documentation
+                               │
+         ┌─────────────────────┼─────────────────────┐
+         ▼                     ▼                     ▼
+   Data Analyst          Power BI Dashboard     Data Science
+         │                     │                     │
+         └─────────────────────┴─────────────────────┘
+                               │
+                               ▼
+                        Business Decision
+
 
 ## Project Status
 
