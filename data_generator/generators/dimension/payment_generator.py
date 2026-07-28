@@ -1,6 +1,6 @@
 import pandas as pd
 
-from data_generator.constants.payment import PAYMENT_METHODS
+from data_generator.constants.dimension_constants.payment import PAYMENT_METHODS
 from data_generator.utils.file_utils import get_output_file
 from data_generator.utils.id_utils import generate_code
 

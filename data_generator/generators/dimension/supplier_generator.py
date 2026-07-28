@@ -3,8 +3,8 @@ import random
 import pandas as pd
 from faker import Faker
 
-from data_generator.constants.location import LOCATIONS
-from data_generator.constants.supplier import (
+from data_generator.constants.dimension_constants.location import LOCATIONS
+from data_generator.constants.dimension_constants.supplier import (
     SUPPLIER_BUSINESS,
     SUPPLIER_COMPANY_PREFIX
 )

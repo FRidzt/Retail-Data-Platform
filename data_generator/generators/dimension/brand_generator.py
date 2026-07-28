@@ -1,6 +1,6 @@
 import pandas as pd
 
-from data_generator.constants.product import BRANDS
+from data_generator.constants.dimension_constants.product import BRANDS
 from data_generator.utils.file_utils import (
     get_dimension_file,
     get_output_file

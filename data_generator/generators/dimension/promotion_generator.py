@@ -3,7 +3,7 @@ import random
 import pandas as pd
 from faker import Faker
 
-from data_generator.constants.promotion import (
+from data_generator.constants.dimension_constants.promotion import (
     PROMOTION_NAMES,
     PROMOTION_TYPES
 )

@@ -3,8 +3,8 @@ import random
 import pandas as pd
 from faker import Faker
 
-from data_generator.constants.customer import GENDERS
-from data_generator.constants.employee import (
+from data_generator.constants.dimension_constants.customer import GENDERS
+from data_generator.constants.dimension_constants.employee import (
     EMPLOYEE_POSITIONS,
     SALARY_RANGE,
 )

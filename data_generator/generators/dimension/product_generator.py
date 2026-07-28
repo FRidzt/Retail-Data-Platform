@@ -2,7 +2,7 @@ import random
 
 import pandas as pd
 
-from data_generator.constants.product import (
+from data_generator.constants.dimension_constants.product import (
     CATEGORY_MARGIN,
     CATEGORY_PRICE_RANGE,
     PRODUCT_STATUS_WEIGHT,
@@ -10,7 +10,7 @@ from data_generator.constants.product import (
     get_product_models
 )
 
-from data_generator.constants.product_attributes import (
+from data_generator.constants.dimension_constants.product_attributes import (
     CATEGORY_UNIT,
     get_random_color,
     get_random_size,
