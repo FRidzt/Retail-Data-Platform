@@ -16,7 +16,8 @@ from data_generator.constants.fact_constants.return_data import (
 
 from data_generator.utils.file_utils import (
 
-    get_fact_file
+    get_fact_file,
+    get_dimension_file
 
 )
 
@@ -33,37 +34,39 @@ from data_generator.utils.id_utils import (
 
 def load_dataset():
 
-    sales_df = pd.read_csv(
-
+    sales_header_df = pd.read_csv(
         get_fact_file(
-            "fact_sales.csv"
+            "fact_sales_header.csv"
         )
-
     )
 
     sales_detail_df = pd.read_csv(
-
         get_fact_file(
             "fact_sales_detail.csv"
         )
-
     )
 
     stock_df = pd.read_csv(
-
         get_fact_file(
             "fact_stock.csv"
         )
-
     )
+
+    date_df = pd.read_csv(
+    get_dimension_file(
+        "dim_date.csv"
+    )
+)
 
     return (
 
-        sales_df,
+        sales_header_df,
 
         sales_detail_df,
 
-        stock_df
+        stock_df,
+
+        date_df
 
     )
 
@@ -128,21 +131,9 @@ def generate_return_date(
 
     )
 
-    days = random.randint(
+    return sales_date + pd.Timedelta(
 
-        1,
-
-        30
-
-    )
-
-    return (
-
-        sales_date
-
-        +
-
-        pd.Timedelta(days=days)
+        days=random.randint(1, 30)
 
     )
 
@@ -218,7 +209,7 @@ def build_return_item(
 
     return_key,
 
-    sales_date_key
+    return_date_key
 
 ):
 
@@ -358,7 +349,7 @@ def build_return_item(
 
         "return_date_key":
 
-            sales_date_key,
+            return_date_key,
 
         "return_quantity":
 
@@ -413,7 +404,7 @@ def build_invoice_returns(
 
     return_key,
 
-    sales_date_key
+    return_date_key
 
 ):
 
@@ -431,7 +422,7 @@ def build_invoice_returns(
 
             return_key,
 
-            sales_date_key
+            return_date_key
 
         )
 
@@ -465,11 +456,13 @@ def generate_return(
 
     (
 
-        sales_df,
+        sales_header_df,
 
         sales_detail_df,
 
-        stock_df
+        stock_df,
+        
+        date_df
 
     ) = load_dataset()
 
@@ -479,7 +472,7 @@ def generate_return(
 
     selected_sales = sample_return_sales(
 
-        sales_df,
+        sales_header_df,
 
         return_ratio
 
@@ -501,9 +494,29 @@ def generate_return(
 
         )
 
-        if len(details) == 0:
+        if details.empty:
 
             continue
+
+        # ==========================================
+        # Return Date
+        # ==========================================
+
+        return_date = generate_return_date(
+
+            sale["sales_date_key"]
+
+        )
+
+        return_date_key = int(
+
+            return_date.strftime("%Y%m%d")
+
+        )
+
+        # ==========================================
+        # Build Return Rows
+        # ==========================================
 
         rows, return_key = build_invoice_returns(
 
@@ -511,49 +524,43 @@ def generate_return(
 
             return_key,
 
-            sale["sales_date_key"]
+            return_date_key
 
         )
+
+        # ==========================================
+        # Update Stock & Save Completed Return
+        # ==========================================
 
         for row in rows:
 
-            stock_key = int(
+            if row["return_status"] == "Completed":
 
-                row["stock_key"]
+                stock_key = int(
 
-            )
+                    row["stock_key"]
 
-            qty = int(
+                )
 
-                row["return_quantity"]
+                qty = int(
 
-            )
+                    row["return_quantity"]
 
-            stock_df.loc[
+                )
 
-                stock_df["stock_key"]
+                stock_df.loc[
 
-                ==
+                    stock_df["stock_key"] == stock_key,
 
-                stock_key,
+                    "available_stock"
 
-                "available_stock"
+                ] += qty
 
-            ] += qty
-
-        return_rows.extend(
-
-            rows
-
-        )
+            return_rows.append(row)
 
     return (
 
-        pd.DataFrame(
-
-            return_rows
-
-        ),
+        pd.DataFrame(return_rows),
 
         stock_df
 

@@ -24,3 +24,5 @@ Thumbs.db
 
 # Temporary
 *.tmp
+
+docker/postgres/data/

@@ -37,7 +37,7 @@ def load_dataset():
 
     sales_header_df = pd.read_csv(
         get_fact_file(
-            "fact_sales.csv"
+            "fact_sales_header.csv"
         )
     )
 

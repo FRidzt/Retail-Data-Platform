@@ -6,8 +6,8 @@ from data_generator.utils.file_utils import get_output_file
 
 
 def generate_date_dimension(
-        start_date="2022-01-01",
-        end_date="2026-12-31"
+    start_date="2020-01-01",
+    end_date="2030-12-31"
 ):
 
     dates = pd.date_range(start_date, end_date)
